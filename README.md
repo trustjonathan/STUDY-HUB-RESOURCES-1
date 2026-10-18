@@ -1,2 +1,1 @@
-# STUDY-HUB-RESOURCES-1
-FROM FRESH TEACHER'S REPO
+# This site is live at https://freshteacher.software/
