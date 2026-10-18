@@ -21,7 +21,7 @@
     "title": "",
     "description": "Senior Six",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/Backhouse 2.pdf"
+    "pdfUrl": "Resources/A-Level/S6/General/Backhouse%202.pdf"
   },
   {
     "title": "",
@@ -459,7 +459,7 @@
     "title": "",
     "description": "Senior Six",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/secondariez/GEOG PAPER 3-UGANDA AND FIELDWORK.pdf"
+    "pdfUrl": "Resources/O-Level/S4/Geography/GEOG%20PAPER%203-UGANDA%20AND%20FIELDWORK.pdf"
   },
   {
     "title": "",
@@ -820,7 +820,8 @@
     "description": "Senior Six",
     "price": 5000,
     "pdfUrl": "https://fresh-teacher.github.io/secondariez/a level computer networks.pdf"
-  },{
+  },
+  {
     "title": "",
     "description": "Senior Six",
     "price": 5000,
@@ -849,7 +850,8 @@
     "description": "Senior Six",
     "price": 5000,
     "pdfUrl": "https://fresh-teacher.github.io/secondariez/a level ELECTRONIC PUBLICATION.pdf"
-  },{
+  },
+  {
     "title": "",
     "description": "Senior Six",
     "price": 5000,
@@ -878,7 +880,8 @@
     "description": "Senior Six",
     "price": 5000,
     "pdfUrl": "https://fresh-teacher.github.io/secondariez/A level Physics MECHANICS syllabus summary.pdf"
-  },{
+  },
+  {
     "title": "",
     "description": "Senior Six",
     "price": 5000,
@@ -907,7 +910,8 @@
     "description": "Senior Six",
     "price": 5000,
     "pdfUrl": "https://fresh-teacher.github.io/secondariez/A LEVEL PURE MATHEMATICS  VECTORS NOTES.pdf"
-  },{
+  },
+  {
     "title": "",
     "description": "Senior Six",
     "price": 5000,
@@ -936,7 +940,8 @@
     "description": "Senior Six",
     "price": 5000,
     "pdfUrl": "https://fresh-teacher.github.io/secondariez/Alevel biology notes (2).pdf"
-  },{
+  },
+  {
     "title": "",
     "description": "Senior Six",
     "price": 5000,
@@ -958,8 +963,8 @@
     "title": "",
     "description": "Senior Six",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/secondariez/Alevel Physics Introduction to Oscillations and Simple Harmonic Motion.pdf"    
-    },
+    "pdfUrl": "https://fresh-teacher.github.io/secondariez/Alevel Physics Introduction to Oscillations and Simple Harmonic Motion.pdf"
+  },
   {
     "title": "",
     "description": "Senior Six",
@@ -995,7 +1000,8 @@
     "description": "Senior Six",
     "price": 5000,
     "pdfUrl": "https://fresh-teacher.github.io/secondariez/BIOLOGY A-LEVEL TRANSPORT OF MATERIALS NOTES  B Y KUGONZA H. ARTHUR.pdf"
-  },{
+  },
+  {
     "title": "",
     "description": "Senior Six",
     "price": 5000,
@@ -1024,7 +1030,8 @@
     "description": "Senior Six",
     "price": 5000,
     "pdfUrl": "https://fresh-teacher.github.io/secondariez/ECONOMICS PRICE THEORY NOTES  A LEVEL .pdf"
-  },{
+  },
+  {
     "title": "",
     "description": "Senior Six",
     "price": 5000,
@@ -1053,7 +1060,8 @@
     "description": "Senior Six",
     "price": 5000,
     "pdfUrl": "https://fresh-teacher.github.io/secondariez/ICT HANDBOOK 2017 ALEVEL NOTES.pdf"
-  },{
+  },
+  {
     "title": "",
     "description": "Senior Six",
     "price": 5000,
@@ -1082,7 +1090,8 @@
     "description": "Senior Six",
     "price": 5000,
     "pdfUrl": "https://fresh-teacher.github.io/secondariez/My A Level Maths Notes.pdf"
-  },{
+  },
+  {
     "title": "",
     "description": "Senior Six",
     "price": 5000,
@@ -1111,7 +1120,8 @@
     "description": "Senior Six",
     "price": 5000,
     "pdfUrl": "https://fresh-teacher.github.io/secondariez/PHYSICS MAGNETISM  A-LEVEL NOTES.pdf"
-  },{
+  },
+  {
     "title": "",
     "description": "Senior Six",
     "price": 5000,
@@ -1133,22 +1143,24 @@
     "title": "",
     "description": "Senior Six",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/secondariez/Reproduction in animals A Level NOTES .pdf"   
-     },{
-      "title": "",
-      "description": "Senior Six",
-      "price": 5000,
-      "pdfUrl": "https://fresh-teacher.github.io/secondariez/S.6 CRE NOTES.pdf"
-    },
-    {
-      "title": "",    "description": "Senior Six",
-      "price": 5000,
-      "pdfUrl": "https://fresh-teacher.github.io/secondariez/HISTORY PAPER 3 UACE THE RUSSIAN REVOLUTION OF 1917 NOTES.pdf"
-    },
-    {
-      "title": "",
-      "description": "Senior Six",
-      "price": 5000,
-      "pdfUrl": "https://fresh-teacher.github.io/secondariez/S6 BIOLOGY NOTES  LOCOMOTION AND SUPPORT 2020.pdf"
-    }
+    "pdfUrl": "https://fresh-teacher.github.io/secondariez/Reproduction in animals A Level NOTES .pdf"
+  },
+  {
+    "title": "",
+    "description": "Senior Six",
+    "price": 5000,
+    "pdfUrl": "https://fresh-teacher.github.io/secondariez/S.6 CRE NOTES.pdf"
+  },
+  {
+    "title": "",
+    "description": "Senior Six",
+    "price": 5000,
+    "pdfUrl": "https://fresh-teacher.github.io/secondariez/HISTORY PAPER 3 UACE THE RUSSIAN REVOLUTION OF 1917 NOTES.pdf"
+  },
+  {
+    "title": "",
+    "description": "Senior Six",
+    "price": 5000,
+    "pdfUrl": "https://fresh-teacher.github.io/secondariez/S6 BIOLOGY NOTES  LOCOMOTION AND SUPPORT 2020.pdf"
+  }
 ]

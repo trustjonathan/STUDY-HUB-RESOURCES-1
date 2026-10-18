@@ -1,15 +1,15 @@
 [
-{
-  "title": "",
-  "description": "Baby Class",
-  "price": 5000,
-  "pdfUrl": "https://fresh-teacher.github.io/middle/MIDDLE LA 2 MID III.pdf"
+  {
+    "title": "",
+    "description": "Baby Class",
+    "price": 5000,
+    "pdfUrl": "https://fresh-teacher.github.io/middle/MIDDLE LA 2 MID III.pdf"
   },
   {
     "title": "",
     "description": "Middle Class",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/middle/MIDDLE LA 5 BOT III.pdf"
+    "pdfUrl": "Resources/Nursery/Middle%20Class/Language%20Development/MIDDLE%20LA%205%20BOT%20III.pdf"
   },
   {
     "title": "",
@@ -33,7 +33,7 @@
     "title": "",
     "description": "Middle Class",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/middle/MIDDLE PRIME MID TERM III LANG DEVT.pdf"
+    "pdfUrl": "Resources/Nursery/Middle%20Class/Language%20Development/MIDDLE%20PRIME%20MID%20TERM%20III%20LANG%20DEVT.pdf"
   },
   {
     "title": "",
@@ -45,7 +45,7 @@
     "title": "",
     "description": "Middle Class",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/middle/MIDDLE  EOT LANGUAGE DEVELOPMENT.pdf"
+    "pdfUrl": "Resources/Nursery/Middle%20Class/Language%20Development/MIDDLE%20%20EOT%20LANGUAGE%20DEVELOPMENT.pdf"
   },
   {
     "title": "",
@@ -69,6 +69,6 @@
     "title": "",
     "description": "Middle Class",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/middle/MIDDLE LA 2 BOT III.pdf"
+    "pdfUrl": "Resources/Nursery/Middle%20Class/Language%20Development/MIDDLE%20LA%202%20BOT%20III.pdf"
   }
 ]

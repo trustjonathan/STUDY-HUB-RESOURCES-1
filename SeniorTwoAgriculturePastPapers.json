@@ -1,9 +1,9 @@
 [
-{
-  "title": "",
-  "description": "Senior Two",
-  "price": 5000,
-  "pdfUrl": "https://fresh-teacher.github.io/s2/MATIGO S2 AGRIC.pdf"
+  {
+    "title": "",
+    "description": "Senior Two",
+    "price": 5000,
+    "pdfUrl": "https://fresh-teacher.github.io/s2/MATIGO S2 AGRIC.pdf"
   },
   {
     "title": "",
@@ -15,7 +15,7 @@
     "title": "",
     "description": "Senior Two",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/s2/S.2 AGRIC HOLIDAY PACKAGE.pdf"
+    "pdfUrl": "Resources/O-Level/S2/Agriculture/S.2%20AGRIC%20HOLIDAY%20PACKAGE.pdf"
   },
   {
     "title": "",
@@ -33,7 +33,7 @@
     "title": "",
     "description": "Senior Two",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/s2/S.2-AGRICULTURE-EXAM.pdf"
+    "pdfUrl": "Resources/O-Level/S2/Agriculture/S.2-AGRICULTURE-EXAM.pdf"
   },
   {
     "title": "",
@@ -51,18 +51,18 @@
     "title": "",
     "description": "Senior Two",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/s2/F2 END-TERM 3 EXAMS.pdf"
+    "pdfUrl": "Resources/O-Level/S2/Agriculture/F2%20END-TERM%203%20EXAMS.pdf"
   },
   {
     "title": "",
     "description": "Senior Two",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/s2/F2 MID TERM 3 EXAMS.pdf"
+    "pdfUrl": "Resources/O-Level/S2/Agriculture/F2%20MID%20TERM%203%20EXAMS.pdf"
   },
   {
     "title": "",
     "description": "Senior Two",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/s2/FORM 2 END OF TERM 2 EXAMS.pdf"
+    "pdfUrl": "Resources/O-Level/S2/Agriculture/FORM%202%20END%20OF%20TERM%202%20EXAMS.pdf"
   }
 ]

@@ -1,5 +1,4 @@
 [
-
   {
     "title": "",
     "description": "Primary One",
@@ -64,7 +63,7 @@
     "title": "",
     "description": "Primary One",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/primary/P1 READING.pdf"
+    "pdfUrl": "Resources/Primary/P1/Reading/P1%20READING.pdf"
   },
   {
     "title": "",
@@ -82,244 +81,246 @@
     "title": "P.1 ENGLISH AND COMPREHENSION NOTES TERM 3",
     "description": "ENGLISH",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/P.1 ENGLISH AND COMPREHENSION NOTES TERM 3.pdf"
+    "pdfUrl": "Resources/Primary/P1/English/P.1%20ENGLISH%20AND%20COMPREHENSION%20NOTES%20TERM%203.pdf"
   },
   {
     "title": "P.1 ENGLISH AND COMPREHENSION NOTES TERM 3",
     "description": "ENGLISH",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/P.1 ENGLISH AND COMPREHENSION NOTES TERM 3.pdf"
+    "pdfUrl": "Resources/Primary/P1/English/P.1%20ENGLISH%20AND%20COMPREHENSION%20NOTES%20TERM%203.pdf"
   },
-     {
-      "title": "P.1 ENGLISH TERM 3 notes",
-        "description": "ENGLISH",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.1 ENGLISH TERM 3 notes.pdf"
-      },
-     {
-      "title": "P.1 English Term I notes",
-        "description": "ENGLISH",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.1 English Term I notes.pdf"
-      },
-     {
-      "title": "P.1 ENGLISH TERMS 1, 2 _ 3  notes",
-        "description": "ENGLISH",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.1 ENGLISH TERMS 1, 2 _ 3  notes.pdf"
-      },
-     {
-      "title": "P.1 Literacy Lesson Notes Term 1",
-        "description": "Literacy",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.1 Lesson Notes Term 1.pdf"
-      },
-    {
-      "title": "P.1 LIT. II notes",
-        "description": "Literacy",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.1 LIT. II notes.pdf"
-      },
-     {
-      "title": "P.1 Literacy All Terms notes",
-        "description": "Literacy",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.1 Literacy All Terms notes.pdf"
-      },
-     {
-      "title": "P.1 LITERACY II TERM III notes",
-        "description": "Literacy",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.1 LITERACY II TERM III notes.pdf"
-      },
-     {
-      "title": "P.1 Literacy Notes Term 1",
-        "description": "Literacy",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.1 Literacy Notes Term 1.pdf"
-      },
-    {
-      "title": "P.1 LITERACY TERM 3 notes",
-        "description": "Literacy",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.1 LITERACY TERM 3 notes.pdf"
-      },
-     {
-      "title": "P.1 Literacy Term II notes",
-        "description": "Literacy",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.1 Literacy Term II notes.pdf"
-      },
-    {
-      "title": "P.1 LITERACY TWO TERM TWO NOTES",
-        "description": "Literacy",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.1 LITERACY TWO TERM TWO NOTES.pdf"
-      },
-    {
-      "title": "P.1 MATHS LESSON NOTES TERM II",
-        "description": "MATHS",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.1 MATHS LESSON NOTES TERM II.pdf"
-      },
-    {
-      "title": "P.1 MATHS TERM 3 NOTES",
-        "description": "MATHS",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.1 MATHS TERM 3 NOTES.pdf"
-      },
-    {
-      "title": "P.1 MATHS TERM III NOTES",
-        "description": "MATHS",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.1 MATHS TERM III NOTES.pdf"
-      },
-    {
-      "title": "P.1 MTC All Terms NOTES",
-        "description": "MATHS",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.1 MTC All Terms NOTES.pdf"
-      },
-    {
-      "title": "P.1 MTC TERM 1 NOTES",
-        "description": "MATHS",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.1 MTC TERM 1 NOTES.pdf"
-      },
-    {
-      "title": "P.1 News Term One notes",
-        "description": "News",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.1 News Term One notes.pdf"
-      },
-    {
-      "title": "P.1 Oral Literature Term II notes",
-        "description": "Oral Literature",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.1 Oral Literature Term II notes.pdf"
-      },
-    {
-      "title": "P.1 R.E Term 2 notes",
-        "description": "Religious Education",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.1 R.E Term 2 notes.pdf"
-      },
-    {
-      "title": "P.1 READING TERM I,II,III NOTES",
-        "description": "READING",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.1 READING TERM I,II,III NOTES.pdf"
-      },
-    {
-      "title": "P.1 READING TERM III NOTES",
-        "description": "READING",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.1 READING TERM III NOTES.pdf"
-      },
-      {
-        "title": "P.1 ENGLISH GRAMMAR, COMPOSITION & COMPREHENSION TERM III",
-        "description": "ENGLISH",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.1 ENGLISH GRAMMAR, COMPOSITION & COMPREHENSION TERM III.pdf"
-      },
-      {
-        "title": "P.1 MATHEMATICS LESSON NOTES TERM III",
-        "description": "MATHEMATICS",
-        "price": 15000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.1 MATHEMATICS LESSON NOTES TERM III.pdf"
-      },
-      {
-        "title": "P.1 R.E LESSON NOTES TERM 1",
-        "description": "Religious Education",
-        "price": 25000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.1 R.E LESSON NOTES TERM 1.pdf"
-      },
-      {
-        "title": "P.1 R.E LESSON NOTES TERM I",
-        "description": "Religious Education",
-        "price": 55000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.1 R.E LESSON NOTES TERM I.pdf"
-      },
-      {
-        "title": "P.1 READING LESSON NOTES TERM II",
-        "description": "READING",
-        "price": 2000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.1 READING LESSON NOTES TERM II.pdf"
-      },{
-        "title": "P.1 READING LESSON NOTES TERM III",
-        "description": "READING",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.1 READING LESSON NOTES TERM III.pdf"
-      },
-      {
-        "title": "P.1 TERM 1 ENGLISH COMPOSITION & COMPREHENSION LESSON NOTES",
-        "description": "ENGLISH",
-        "price": 15000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.1 TERM 1 ENGLISH COMPOSITION & COMPREHENSION LESSON NOTES.pdf"
-      },
-      {
-        "title": "P.1 TERM 1 MATHEMATICS LESSON NOTES",
-        "description": "MATHEMATICS",
-        "price": 25000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.1 TERM 1 MATHEMATICS LESSON NOTES.pdf"
-      },
-      {
-        "title": "P.I ENGLISH GRAMMAR  LESSON NOTES",
-        "description": "ENGLISH",
-        "price": 55000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.I ENGLISH GRAMMAR  LESSON NOTES.pdf"
-      },
-      {
-        "title": "P.I LITERACY LESSON NOTES TERM II",
-        "description": "LITERACY",
-        "price": 2000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.I LITERACY LESSON NOTES TERM II.pdf"
-      },{
-        "title": "P.I LITERACY LESSON NOTES TERM III",
-        "description": "LITERACY",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.I LITERACY LESSON NOTES TERM III.pdf"
-      },
-      {
-        "title": "P.I LITERACY TERM I LESSON NOTES",
-        "description": "LITERACY",
-        "price": 15000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.I LITERACY TERM I LESSON NOTES.pdf"
-      },
-      {
-        "title": "P.I LUGANDA LESSON NOTES TERM I",
-        "description": "LUGANDA",
-        "price": 25000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.I LUGANDA LESSON NOTES TERM I.pdf"
-      },
-      {
-        "title": "P.I LUGANDA LESSON NOTES TERM II",
-        "description": "LUGANDA",
-        "price": 55000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.I LUGANDA LESSON NOTES TERM II.pdf"
-      },
-      {
-        "title": "P.I LUGANDA LESSON NOTES TERM III",
-        "description": "LUGANDA",
-        "price": 2500,
-        "pdfUrl": "https://fresh-teacher.github.io/P.I LUGANDA LESSON NOTES TERM III.pdf"
-      },{
-        "title": "P.I MATHEMATICS LESSON NOTES TERM II",
-        "description": "MATHEMATICS",
-        "price": 37000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.I MATHEMATICS LESSON NOTES TERM II.pdf"
-      },
-      {
-        "title": "P.I R.E  LESSON NOTES TERM II",
-        "description": "Religious Education",
-        "price": 13000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.I R.E  LESSON NOTES TERM II.pdf"
-      },
-      {
-        "title": "P.I R.E LESSON NOTES TERM III",
-        "description": "Religious Education",
-        "price": 45000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.I R.E LESSON NOTES TERM III.pdf"
-      }
-      
-    ]
+  {
+    "title": "P.1 ENGLISH TERM 3 notes",
+    "description": "ENGLISH",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P1/English/P.1%20ENGLISH%20TERM%203%20notes.pdf"
+  },
+  {
+    "title": "P.1 English Term I notes",
+    "description": "ENGLISH",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P1/English/P.1%20English%20Term%20I%20notes.pdf"
+  },
+  {
+    "title": "P.1 ENGLISH TERMS 1, 2 _ 3  notes",
+    "description": "ENGLISH",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P1/English/P.1%20ENGLISH%20TERMS%201%2C%202%20_%203%20%20notes.pdf"
+  },
+  {
+    "title": "P.1 Literacy Lesson Notes Term 1",
+    "description": "Literacy",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P1/Literacy/P.1%20Lesson%20Notes%20Term%201.pdf"
+  },
+  {
+    "title": "P.1 LIT. II notes",
+    "description": "Literacy",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P1/Literacy/P.1%20LIT.%20II%20notes.pdf"
+  },
+  {
+    "title": "P.1 Literacy All Terms notes",
+    "description": "Literacy",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P1/Reading/P.1%20Literacy%20All%20Terms%20notes.pdf"
+  },
+  {
+    "title": "P.1 LITERACY II TERM III notes",
+    "description": "Literacy",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P1/Literacy/P.1%20LITERACY%20II%20TERM%20III%20notes.pdf"
+  },
+  {
+    "title": "P.1 Literacy Notes Term 1",
+    "description": "Literacy",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P1/Literacy/P.1%20Literacy%20Notes%20Term%201.pdf"
+  },
+  {
+    "title": "P.1 LITERACY TERM 3 notes",
+    "description": "Literacy",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P1/Literacy/P.1%20LITERACY%20TERM%203%20notes.pdf"
+  },
+  {
+    "title": "P.1 Literacy Term II notes",
+    "description": "Literacy",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P1/Literacy/P.1%20Literacy%20Term%20II%20notes.pdf"
+  },
+  {
+    "title": "P.1 LITERACY TWO TERM TWO NOTES",
+    "description": "Literacy",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P1/Literacy/P.1%20LITERACY%20TWO%20TERM%20TWO%20NOTES.pdf"
+  },
+  {
+    "title": "P.1 MATHS LESSON NOTES TERM II",
+    "description": "MATHS",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P1/Mathematics/P.1%20MATHS%20LESSON%20NOTES%20TERM%20II.pdf"
+  },
+  {
+    "title": "P.1 MATHS TERM 3 NOTES",
+    "description": "MATHS",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P1/Mathematics/P.1%20MATHS%20TERM%203%20NOTES.pdf"
+  },
+  {
+    "title": "P.1 MATHS TERM III NOTES",
+    "description": "MATHS",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P1/Mathematics/P.1%20MATHS%20TERM%20III%20NOTES.pdf"
+  },
+  {
+    "title": "P.1 MTC All Terms NOTES",
+    "description": "MATHS",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P1/Mathematics/P.1%20MTC%20All%20Terms%20NOTES.pdf"
+  },
+  {
+    "title": "P.1 MTC TERM 1 NOTES",
+    "description": "MATHS",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P1/Mathematics/P.1%20MTC%20TERM%201%20NOTES.pdf"
+  },
+  {
+    "title": "P.1 News Term One notes",
+    "description": "News",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P1/News/P.1%20News%20Term%20One%20notes.pdf"
+  },
+  {
+    "title": "P.1 Oral Literature Term II notes",
+    "description": "Oral Literature",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P1/Reading/P.1%20Oral%20Literature%20Term%20II%20notes.pdf"
+  },
+  {
+    "title": "P.1 R.E Term 2 notes",
+    "description": "Religious Education",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P1/Religious%20Education/P.1%20R.E%20Term%202%20notes.pdf"
+  },
+  {
+    "title": "P.1 READING TERM I,II,III NOTES",
+    "description": "READING",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P1/Reading/P.1%20READING%20TERM%20I%2CII%2CIII%20NOTES.pdf"
+  },
+  {
+    "title": "P.1 READING TERM III NOTES",
+    "description": "READING",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P1/Reading/P.1%20READING%20TERM%20III%20NOTES.pdf"
+  },
+  {
+    "title": "P.1 ENGLISH GRAMMAR, COMPOSITION & COMPREHENSION TERM III",
+    "description": "ENGLISH",
+    "price": 10000,
+    "pdfUrl": "Resources/Primary/P1/English/P.1%20ENGLISH%20GRAMMAR%2C%20COMPOSITION%20%26%20COMPREHENSION%20TERM%20III.pdf"
+  },
+  {
+    "title": "P.1 MATHEMATICS LESSON NOTES TERM III",
+    "description": "MATHEMATICS",
+    "price": 15000,
+    "pdfUrl": "Resources/Primary/P1/Mathematics/P.1%20MATHEMATICS%20LESSON%20NOTES%20TERM%20III.pdf"
+  },
+  {
+    "title": "P.1 R.E LESSON NOTES TERM 1",
+    "description": "Religious Education",
+    "price": 25000,
+    "pdfUrl": "Resources/Primary/P1/Religious%20Education/P.1%20R.E%20LESSON%20NOTES%20TERM%201.pdf"
+  },
+  {
+    "title": "P.1 R.E LESSON NOTES TERM I",
+    "description": "Religious Education",
+    "price": 55000,
+    "pdfUrl": "Resources/Primary/P1/Religious%20Education/P.1%20R.E%20LESSON%20NOTES%20TERM%20I.pdf"
+  },
+  {
+    "title": "P.1 READING LESSON NOTES TERM II",
+    "description": "READING",
+    "price": 2000,
+    "pdfUrl": "Resources/Primary/P1/Reading/P.1%20READING%20LESSON%20NOTES%20TERM%20II.pdf"
+  },
+  {
+    "title": "P.1 READING LESSON NOTES TERM III",
+    "description": "READING",
+    "price": 10000,
+    "pdfUrl": "Resources/Primary/P1/Reading/P.1%20READING%20LESSON%20NOTES%20TERM%20III.pdf"
+  },
+  {
+    "title": "P.1 TERM 1 ENGLISH COMPOSITION & COMPREHENSION LESSON NOTES",
+    "description": "ENGLISH",
+    "price": 15000,
+    "pdfUrl": "Resources/Primary/P1/English/P.1%20TERM%201%20ENGLISH%20COMPOSITION%20%26%20COMPREHENSION%20LESSON%20NOTES.pdf"
+  },
+  {
+    "title": "P.1 TERM 1 MATHEMATICS LESSON NOTES",
+    "description": "MATHEMATICS",
+    "price": 25000,
+    "pdfUrl": "Resources/Primary/P1/Mathematics/P.1%20TERM%201%20MATHEMATICS%20LESSON%20NOTES.pdf"
+  },
+  {
+    "title": "P.I ENGLISH GRAMMAR  LESSON NOTES",
+    "description": "ENGLISH",
+    "price": 55000,
+    "pdfUrl": "Resources/Primary/P1/English/P.I%20ENGLISH%20GRAMMAR%20%20LESSON%20NOTES.pdf"
+  },
+  {
+    "title": "P.I LITERACY LESSON NOTES TERM II",
+    "description": "LITERACY",
+    "price": 2000,
+    "pdfUrl": "Resources/Primary/P1/Literacy/P.I%20LITERACY%20LESSON%20NOTES%20TERM%20II.pdf"
+  },
+  {
+    "title": "P.I LITERACY LESSON NOTES TERM III",
+    "description": "LITERACY",
+    "price": 10000,
+    "pdfUrl": "Resources/Primary/P1/Literacy/P.I%20LITERACY%20LESSON%20NOTES%20TERM%20III.pdf"
+  },
+  {
+    "title": "P.I LITERACY TERM I LESSON NOTES",
+    "description": "LITERACY",
+    "price": 15000,
+    "pdfUrl": "Resources/Primary/P1/Literacy/P.I%20LITERACY%20TERM%20I%20LESSON%20NOTES.pdf"
+  },
+  {
+    "title": "P.I LUGANDA LESSON NOTES TERM I",
+    "description": "LUGANDA",
+    "price": 25000,
+    "pdfUrl": "Resources/Primary/P1/Luganda/P.I%20LUGANDA%20LESSON%20NOTES%20TERM%20I.pdf"
+  },
+  {
+    "title": "P.I LUGANDA LESSON NOTES TERM II",
+    "description": "LUGANDA",
+    "price": 55000,
+    "pdfUrl": "Resources/Primary/P1/Luganda/P.I%20LUGANDA%20LESSON%20NOTES%20TERM%20II.pdf"
+  },
+  {
+    "title": "P.I LUGANDA LESSON NOTES TERM III",
+    "description": "LUGANDA",
+    "price": 2500,
+    "pdfUrl": "Resources/Primary/P1/Luganda/P.I%20LUGANDA%20LESSON%20NOTES%20TERM%20III.pdf"
+  },
+  {
+    "title": "P.I MATHEMATICS LESSON NOTES TERM II",
+    "description": "MATHEMATICS",
+    "price": 37000,
+    "pdfUrl": "Resources/Primary/P1/Mathematics/P.I%20MATHEMATICS%20LESSON%20NOTES%20TERM%20II.pdf"
+  },
+  {
+    "title": "P.I R.E  LESSON NOTES TERM II",
+    "description": "Religious Education",
+    "price": 13000,
+    "pdfUrl": "Resources/Primary/P1/Religious%20Education/P.I%20R.E%20%20LESSON%20NOTES%20TERM%20II.pdf"
+  },
+  {
+    "title": "P.I R.E LESSON NOTES TERM III",
+    "description": "Religious Education",
+    "price": 45000,
+    "pdfUrl": "Resources/Primary/P1/Religious%20Education/P.I%20R.E%20LESSON%20NOTES%20TERM%20III.pdf"
+  }
+]

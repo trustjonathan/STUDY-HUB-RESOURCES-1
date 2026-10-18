@@ -147,7 +147,7 @@
     "title": "",
     "description": "",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/primary/P.4-Lesson-Notes-Mathematics_Term1-2019-2.pdf"
+    "pdfUrl": "Resources/Primary/P4/Mathematics/P.4-Lesson-Notes-Mathematics_Term1-2019-2.pdf"
   },
   {
     "title": "",
@@ -165,13 +165,13 @@
     "title": "",
     "description": "",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/primary/P.4-Primary-Four-R.E-Notes-.2020.pdf"
+    "pdfUrl": "Resources/Primary/P4/General/P.4-Primary-Four-R.E-Notes-.2020.pdf"
   },
   {
     "title": "",
     "description": "",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/primary/P.4-PRIMARY-FOUR-SCI-NOTES_TEACHER.AC_.pdf"
+    "pdfUrl": "Resources/Primary/P4/General/P.4-PRIMARY-FOUR-SCI-NOTES_TEACHER.AC_.pdf"
   },
   {
     "title": "",
@@ -183,7 +183,7 @@
     "title": "",
     "description": "",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/primary/P.4-Sst-Lesson-Notes-For-P.4-2019.pdf"
+    "pdfUrl": "Resources/Primary/P4/Social%20Studies/P.4-Sst-Lesson-Notes-For-P.4-2019.pdf"
   },
   {
     "title": "",
@@ -261,113 +261,114 @@
     "title": "SST LESSON NOTES FOR P.4 ALL TERMS (copy)",
     "description": "",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/SST LESSON NOTES FOR P.4 ALL TERMS (copy).pdf"
+    "pdfUrl": "Resources/Primary/P4/General/SST%20LESSON%20NOTES%20FOR%20P.4%20ALL%20TERMS%20(copy).pdf"
   },
-
-      {
-        "title": "P.4 ENGLISH LESSON NOTES ALL TERMS",
-        "description": "",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.4 ENGLISH LESSON NOTES ALL TERMS.pdf"
-      },
-      {
-        "title": "P4 MATHS NOTES TERMS I II",
-        "description": "",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P4 MATHS NOTES TERMS I II.pdf"
-      },
-      {
-        "title": "P4 SCIENCE LESSON NOTES ALL TERMS",
-        "description": "",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P4 SCIENCE LESSON NOTES ALL TERMS.pdf"
-      },
-      
-      {
-        "title": "P.4 COMPOSITION AND COMPREHENSION LESSON NOTES TERM II",
-        "description": "English",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.4 COMPOSITION AND COMPREHENSION LESSON NOTES TERM II.pdf"
-      },
-      {
-        "title": "P.4 COMPREHENSION LESSON NOTES TERM III",
-        "description": "English",
-        "price": 15000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.4 COMPREHENSION LESSON NOTES TERM III.pdf"
-      },
-      {
-        "title": "P.4 GRAMMAR  LESSON NOTES TERM III",
-        "description": "English",
-        "price": 25000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.4 GRAMMAR  LESSON NOTES TERM III.pdf"
-      },
-      {
-        "title": "P.4 GRAMMAR LESSON NOTES TERM II",
-        "description": "English",
-        "price": 55000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.4 GRAMMAR LESSON NOTES TERM II.pdf"
-      },
-      {
-        "title": "P.4 GRAMMAR, COMPO AND COMPREHENSION LESSON NOTES TERM 1",
-        "description": "English",
-        "price": 2000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.4 GRAMMAR, COMPO AND COMPREHENSION LESSON NOTES TERM 1.pdf"
-      },{
-        "title": "P.4 MATHEMATICS LESSON NOTES TERM II",
-        "description": "MATHEMATICS",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.4 MATHEMATICS LESSON NOTES TERM II.pdf"
-      },
-      {
-        "title": "P.4 MATHS LESSON NOTES TERM 1",
-        "description": "MATHEMATICS",
-        "price": 25000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.4 MATHS LESSON NOTES TERM 1.pdf"
-      },
-      {
-        "title": "P.4 R.E LESSON NOTES TERM 1",
-        "description": "Religious Education",
-        "price": 55000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.4 R.E LESSON NOTES TERM 1.pdf"
-      },
-      {
-        "title": "P.4 R.E LESSON NOTES TERM III",
-        "description": "Religious Education",
-        "price": 2000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.4 R.E LESSON NOTES TERM III.pdf"
-      },{
-        "title": "P.4 RE LESSON NOTES TERM II",
-        "description": "Religious Education",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.4 RE LESSON NOTES TERM II.pdf"
-      },
-      {
-        "title": "P.4 SCIENCE LESSON NOTES TERM II",
-        "description": "SCIENCE",
-        "price": 15000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.4 SCIENCE LESSON NOTES TERM II.pdf"
-      },
-      {
-        "title": "P.4 SCIENCE NOTES TERM 1",
-        "description": "SCIENCE",
-        "price": 25000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.4 SCIENCE NOTES TERM 1.pdf"
-      },
-      {
-        "title": "P.4 SST LESSON NOTES TERM 1",
-        "description": "Social Studies",
-        "price": 55000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.4 SST LESSON NOTES TERM 1.pdf"
-      },
-      {
-        "title": "P.4 SST LESSON NOTES TERM II",
-        "description": "Social Studies",
-        "price": 2500,
-        "pdfUrl": "https://fresh-teacher.github.io/P.4 SST LESSON NOTES TERM II.pdf"
-      },{
-        "title": "P.4 SST LESSON NOTES TERM III",
-        "description": "Social Studies",
-        "price": 37000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.4 SST LESSON NOTES TERM III.pdf"
-      }
-    ]
+  {
+    "title": "P.4 ENGLISH LESSON NOTES ALL TERMS",
+    "description": "",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P4/General/P.4%20ENGLISH%20LESSON%20NOTES%20ALL%20TERMS.pdf"
+  },
+  {
+    "title": "P4 MATHS NOTES TERMS I II",
+    "description": "",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P4/General/P4%20MATHS%20NOTES%20TERMS%20I%20II.pdf"
+  },
+  {
+    "title": "P4 SCIENCE LESSON NOTES ALL TERMS",
+    "description": "",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P4/General/P4%20SCIENCE%20LESSON%20NOTES%20ALL%20TERMS.pdf"
+  },
+  {
+    "title": "P.4 COMPOSITION AND COMPREHENSION LESSON NOTES TERM II",
+    "description": "English",
+    "price": 10000,
+    "pdfUrl": "Resources/Primary/P4/General/P.4%20COMPOSITION%20AND%20COMPREHENSION%20LESSON%20NOTES%20TERM%20II.pdf"
+  },
+  {
+    "title": "P.4 COMPREHENSION LESSON NOTES TERM III",
+    "description": "English",
+    "price": 15000,
+    "pdfUrl": "Resources/Primary/P4/General/P.4%20COMPREHENSION%20LESSON%20NOTES%20TERM%20III.pdf"
+  },
+  {
+    "title": "P.4 GRAMMAR  LESSON NOTES TERM III",
+    "description": "English",
+    "price": 25000,
+    "pdfUrl": "Resources/Primary/P4/General/P.4%20GRAMMAR%20%20LESSON%20NOTES%20TERM%20III.pdf"
+  },
+  {
+    "title": "P.4 GRAMMAR LESSON NOTES TERM II",
+    "description": "English",
+    "price": 55000,
+    "pdfUrl": "Resources/Primary/P4/General/P.4%20GRAMMAR%20LESSON%20NOTES%20TERM%20II.pdf"
+  },
+  {
+    "title": "P.4 GRAMMAR, COMPO AND COMPREHENSION LESSON NOTES TERM 1",
+    "description": "English",
+    "price": 2000,
+    "pdfUrl": "Resources/Primary/P4/General/P.4%20GRAMMAR%2C%20COMPO%20AND%20COMPREHENSION%20LESSON%20NOTES%20TERM%201.pdf"
+  },
+  {
+    "title": "P.4 MATHEMATICS LESSON NOTES TERM II",
+    "description": "MATHEMATICS",
+    "price": 10000,
+    "pdfUrl": "Resources/Primary/P4/General/P.4%20MATHEMATICS%20LESSON%20NOTES%20TERM%20II.pdf"
+  },
+  {
+    "title": "P.4 MATHS LESSON NOTES TERM 1",
+    "description": "MATHEMATICS",
+    "price": 25000,
+    "pdfUrl": "Resources/Primary/P4/General/P.4%20MATHS%20LESSON%20NOTES%20TERM%201.pdf"
+  },
+  {
+    "title": "P.4 R.E LESSON NOTES TERM 1",
+    "description": "Religious Education",
+    "price": 55000,
+    "pdfUrl": "Resources/Primary/P4/General/P.4%20R.E%20LESSON%20NOTES%20TERM%201.pdf"
+  },
+  {
+    "title": "P.4 R.E LESSON NOTES TERM III",
+    "description": "Religious Education",
+    "price": 2000,
+    "pdfUrl": "Resources/Primary/P4/General/P.4%20R.E%20LESSON%20NOTES%20TERM%20III.pdf"
+  },
+  {
+    "title": "P.4 RE LESSON NOTES TERM II",
+    "description": "Religious Education",
+    "price": 10000,
+    "pdfUrl": "Resources/Primary/P4/General/P.4%20RE%20LESSON%20NOTES%20TERM%20II.pdf"
+  },
+  {
+    "title": "P.4 SCIENCE LESSON NOTES TERM II",
+    "description": "SCIENCE",
+    "price": 15000,
+    "pdfUrl": "Resources/Primary/P4/General/P.4%20SCIENCE%20LESSON%20NOTES%20TERM%20II.pdf"
+  },
+  {
+    "title": "P.4 SCIENCE NOTES TERM 1",
+    "description": "SCIENCE",
+    "price": 25000,
+    "pdfUrl": "Resources/Primary/P4/General/P.4%20SCIENCE%20NOTES%20TERM%201.pdf"
+  },
+  {
+    "title": "P.4 SST LESSON NOTES TERM 1",
+    "description": "Social Studies",
+    "price": 55000,
+    "pdfUrl": "Resources/Primary/P4/General/P.4%20SST%20LESSON%20NOTES%20TERM%201.pdf"
+  },
+  {
+    "title": "P.4 SST LESSON NOTES TERM II",
+    "description": "Social Studies",
+    "price": 2500,
+    "pdfUrl": "Resources/Primary/P4/General/P.4%20SST%20LESSON%20NOTES%20TERM%20II.pdf"
+  },
+  {
+    "title": "P.4 SST LESSON NOTES TERM III",
+    "description": "Social Studies",
+    "price": 37000,
+    "pdfUrl": "Resources/Primary/P4/General/P.4%20SST%20LESSON%20NOTES%20TERM%20III.pdf"
+  }
+]

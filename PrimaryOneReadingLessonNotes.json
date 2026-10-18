@@ -1,9 +1,9 @@
 [
-{
-  "title": "",
-  "description": "Primary One",
-  "price": 5000,
-  "pdfUrl": "https://fresh-teacher.github.io/p1/P.1 READING TERM I,II,III NOTES.pdf"
+  {
+    "title": "",
+    "description": "Primary One",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P1/Reading/P.1%20READING%20TERM%20I%2CII%2CIII%20NOTES.pdf"
   },
   {
     "title": "",
@@ -15,13 +15,13 @@
     "title": "",
     "description": "Primary One",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p1/P.1 READING TERM III NOTES.pdf"
+    "pdfUrl": "Resources/Primary/P1/Reading/P.1%20READING%20TERM%20III%20NOTES.pdf"
   },
   {
     "title": "",
     "description": "Primary One",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p1/P.1 READING TERM III.pdf"
+    "pdfUrl": "Resources/Primary/P1/Reading/P.1%20READING%20TERM%20III.pdf"
   },
   {
     "title": "",
@@ -87,13 +87,13 @@
     "title": "",
     "description": "Primary One",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p1/P.1 Lesson Notes Term 1.pdf"
+    "pdfUrl": "Resources/Primary/P1/Literacy/P.1%20Lesson%20Notes%20Term%201.pdf"
   },
   {
     "title": "",
     "description": "Primary One",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p1/P.1 Literacy All Terms notes.pdf"
+    "pdfUrl": "Resources/Primary/P1/Reading/P.1%20Literacy%20All%20Terms%20notes.pdf"
   },
   {
     "title": "",
@@ -105,24 +105,24 @@
     "title": "",
     "description": "Primary One",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p1/P.1 LITERACY TERM 3 notes.pdf"
+    "pdfUrl": "Resources/Primary/P1/Literacy/P.1%20LITERACY%20TERM%203%20notes.pdf"
   },
   {
     "title": "",
     "description": "Primary One",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p1/P.1 Oral Literature Term II notes.pdf"
+    "pdfUrl": "Resources/Primary/P1/Reading/P.1%20Oral%20Literature%20Term%20II%20notes.pdf"
   },
   {
     "title": "",
     "description": "Primary One",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p1/P.1 READING LESSON NOTES TERM II.pdf"
+    "pdfUrl": "Resources/Primary/P1/Reading/P.1%20READING%20LESSON%20NOTES%20TERM%20II.pdf"
   },
   {
     "title": "",
     "description": "Primary One",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p1/P.1 READING LESSON NOTES TERM III.pdf"
+    "pdfUrl": "Resources/Primary/P1/Reading/P.1%20READING%20LESSON%20NOTES%20TERM%20III.pdf"
   }
 ]

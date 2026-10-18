@@ -1,50 +1,50 @@
 [
-
   {
     "title": "",
     "description": "Baby Middle",
-    "price":" 5000",
+    "price": " 5000",
     "pdfUrl": "https://fresh-teacher.github.io/nurseriez/Baby Number Notes Term 2 (1).pdf"
   },
   {
     "title": "Baby Class Aptitude Term 2 Lesson Notes",
     "description": "Aptitude",
-    "price":" 10000",
-    "pdfUrl": "https://fresh-teacher.github.io/Baby Class Aptitude Term 2 Lesson Notes.pdf"
+    "price": " 10000",
+    "pdfUrl": "Resources/Nursery/Baby%20Class/Learning%20Areas/Baby%20Class%20Aptitude%20Term%202%20Lesson%20Notes.pdf"
   },
-      {
-        "title": "Baby Class English Term 2 Lesson Notes",
-        "description": "English",
-        "price":" 15000",
-        "pdfUrl": "https://fresh-teacher.github.io/Baby Class English Term 2 Lesson Notes.pdf"
-      },
-      {
-        "title": "Baby Class Numbers Term 2 Lesson Notes",
-        "description": "Numbers",
-        "price":" 25000",
-        "pdfUrl": "https://fresh-teacher.github.io/Baby Class Numbers Term 2 Lesson Notes.pdf"
-      },
-      {
-        "title": "Baby Class Reading Term 2 Lesson Notes",
-        "description": "Reading",
-        "price":" 55000",
-        "pdfUrl": "https://fresh-teacher.github.io/Baby Class Reading Term 2 Lesson Notes.pdf"
-      },
-      {
-        "title": "Baby Class Reading Term III Lesson Notes",
-        "description": "Reading",
-        "price":" 2000",
-        "pdfUrl": "https://fresh-teacher.github.io/Baby Class Reading Term III Lesson Notes.pdf"
-      },{
-        "title": "Baby Class Writing Term 2 Lesson Notes",
-        "description": "Writing",
-        "price":"10000",
-        "pdfUrl": "https://fresh-teacher.github.io/Baby Class Writing Term 2 Lesson Notes.pdf"
-      },
-      {
-        "title": "Baby Numbers Term II Lesson Notes",
-        "description": "Numbers",
-        "price":"15000",
-        "pdfUrl": "https://fresh-teacher.github.io/Baby Numbers Term II Lesson Notes.pdf"
-      }
-    ]
+  {
+    "title": "Baby Class English Term 2 Lesson Notes",
+    "description": "English",
+    "price": " 15000",
+    "pdfUrl": "Resources/Nursery/Baby%20Class/Learning%20Areas/Baby%20Class%20English%20Term%202%20Lesson%20Notes.pdf"
+  },
+  {
+    "title": "Baby Class Numbers Term 2 Lesson Notes",
+    "description": "Numbers",
+    "price": " 25000",
+    "pdfUrl": "Resources/Nursery/Baby%20Class/Learning%20Areas/Baby%20Class%20Numbers%20Term%202%20Lesson%20Notes.pdf"
+  },
+  {
+    "title": "Baby Class Reading Term 2 Lesson Notes",
+    "description": "Reading",
+    "price": " 55000",
+    "pdfUrl": "Resources/Nursery/Baby%20Class/Learning%20Areas/Baby%20Class%20Reading%20Term%202%20Lesson%20Notes.pdf"
+  },
+  {
+    "title": "Baby Class Reading Term III Lesson Notes",
+    "description": "Reading",
+    "price": " 2000",
+    "pdfUrl": "Resources/Nursery/Baby%20Class/Learning%20Areas/Baby%20Class%20Reading%20Term%20III%20Lesson%20Notes.pdf"
+  },
+  {
+    "title": "Baby Class Writing Term 2 Lesson Notes",
+    "description": "Writing",
+    "price": "10000",
+    "pdfUrl": "Resources/Nursery/Baby%20Class/Learning%20Areas/Baby%20Class%20Writing%20Term%202%20Lesson%20Notes.pdf"
+  },
+  {
+    "title": "Baby Numbers Term II Lesson Notes",
+    "description": "Numbers",
+    "price": "15000",
+    "pdfUrl": "Resources/Nursery/Baby%20Class/Learning%20Areas/Baby%20Numbers%20Term%20II%20Lesson%20Notes.pdf"
+  }
+]

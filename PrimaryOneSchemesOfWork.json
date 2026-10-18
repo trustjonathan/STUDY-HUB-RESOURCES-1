@@ -3,7 +3,7 @@
     "title": "",
     "description": "Primary One",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/primary/P.1 eng.pdf"
+    "pdfUrl": "Resources/Primary/P1/English/P.1%20ENG.pdf"
   },
   {
     "title": "",
@@ -51,204 +51,216 @@
     "title": "music scheme of work for p.1 term 2",
     "description": "Music",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/music scheme of work for p.1 term 2.pdf"
+    "pdfUrl": "Resources/Primary/P1/Music/music%20scheme%20of%20work%20for%20p.1%20term%202.pdf"
   },
-      {
-        "title": "p.1 comprehension scheme term ii",
-        "description": "English",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/p.1 comprehension scheme term ii.pdf"
-      }, {
-        "title": "P.1 English Comprehension term three scheme",
-        "description": "English",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.1 English Comprehension term three scheme.pdf"
-      },
-      {
-        "title": "P.1 English Grammar Scheme of Work Term One",
-        "description": "English",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.1 English Grammar Scheme of Work Term One.pdf"
-      }, {
-        "title": "P.1 LIT 1 SCHEMES OF WORK",
-        "description": "Literacy",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.1 LIT 1 SCHEMES OF WORK.pdf"
-      },
-      {
-        "title": "P.1 LIT 2 SCHEME OF WORK TERM 2",
-        "description": "Literacy",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.1 LIT 2 SCHEME OF WORK TERM 2.pdf"
-      }, {
-        "title": "P.1 LIT. II All Schemes",
-        "description": "Literacy",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.1 LIT. II All Schemes.pdf"
-      },
-      {
-        "title": "P.1 P.E SCHEME TERM 3",
-        "description": "Physical Education",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.1 P.E SCHEME TERM 3.pdf"
-      }, {
-        "title": "P.1 RE scheme of work",
-        "description": "Religious Education",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.1 RE scheme of work.pdf"
-      },
-      {
-        "title": "p.1 reading scheme of work",
-        "description": "Reading",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/p.1 reading scheme of work.pdf"
-      }, {
-        "title": "P.1 Religious education SCHEME OF WORK",
-        "description": "Religious Education",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.1 Religious education SCHEME OF WORK.pdf"
-      },
-      {
-        "title": "P.1 Scheme of work lit 2 third term",
-        "description": "Literacy",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.1 Scheme of work lit 2 third term.pdf"
-      }, {
-        "title": "P.1 SCHEMES OF WORK - TERM III",
-        "description": "Literacy",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.1 SCHEMES OF WORK - TERM III.pdf"
-      },
-      {
-        "title": "P.1 SCHEMES OF WORK TERM II",
-        "description": "Literacy",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.1 SCHEMES OF WORK TERM II.pdf"
-      }, {
-        "title": "P.1 SCHEMES term 2",
-        "description": "Literacy",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/p.1 SCHEMES term 2.pdf"
-      },
-      {
-        "title": "P.1 Term 1 reading scheme",
-        "description": "Reading",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.1 Term 1 reading scheme.pdf"
-      }, {
-        "title": "P.1 TERM 3 SCHEME",
-        "description": "Literacy",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.1 TERM 3 SCHEME.pdf"
-      },
-      {
-        "title": "P.1 THEMATIC SCHEMES term 2",
-        "description": "Numeracy",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.1 THEMATIC SCHEMES term 2.pdf"
-      }, {
-        "title": "P1 schemes of work",
-        "description": "Literacy",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P1 schemes of work.pdf"
-      },
-      {
-        "title": "P1 term 111 all subjects scheme",
-        "description": "Combined",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/p1 term 111 all subjects scheme.pdf"
-      }, {
-        "title": "scheme of work english p.1",
-        "description": "English",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/scheme of work english p.1.pdf"
-      },
-      {
-        "title": "LITERACY SCHEME P.1 TERM 2",
-        "description": "LITERACY",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/LITERACY SCHEME P.1 TERM 2.pdf"
-      },
-      {
-        "title": "LUGANDA P.1 TERM 2",
-        "description": "LUGANDA",
-        "price": 15000,
-        "pdfUrl": "https://fresh-teacher.github.io/LUGANDA P.1 TERM 2.pdf"
-      },
-      {
-        "title": "P.I  ENGLISH GRAMMAR , COMPOSITION & COMPREHENSION SCHEME OF WORK TERM III",
-        "description": "ENGLISH",
-        "price": 25000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.I  ENGLISH GRAMMAR , COMPOSITION & COMPREHENSION SCHEME OF WORK TERM III.pdf"
-      },
-      {
-        "title": "P.I GRAMMAR, COMPOSITION & COMPREHENSION SCHEME OF WORK TERM II",
-        "description": "ENGLISH",
-        "price": 55000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.I GRAMMAR, COMPOSITION & COMPREHENSION SCHEME OF WORK TERM II.pdf"
-      },
-      {
-        "title": "P.I LITERACY SCHEME OF WORK TERM III",
-        "description": "LITERACY",
-        "price": 2000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.I LITERACY SCHEME OF WORK TERM III.pdf"
-      }, {
-        "title": "P.I LITERACY TERM I SCHEME OF WORK",
-        "description": "LITERACY",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.I LITERACY TERM I SCHEME OF WORK.pdf"
-      },
-      {
-        "title": "P.I LUGANDA  SCHEME OF WORK TERM I",
-        "description": "LUGANDA",
-        "price": 15000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.I LUGANDA  SCHEME OF WORK TERM I.pdf"
-      },
-      {
-        "title": "P.I LUGANDA SCHEME WORK TERM III",
-        "description": "LUGANDA",
-        "price": 25000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.I LUGANDA SCHEME WORK TERM III.pdf"
-      },
-      {
-        "title": "P.I MATHEMATICS SCHEME OF WORK TERM III",
-        "description": "MATHEMATICS",
-        "price": 55000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.I MATHEMATICS SCHEME OF WORK TERM IIII.pdf"
-      },
-      {
-        "title": "P.I R.E  SCHEME OF WORK TERM I",
-        "description": "Religious Education",
-        "price": 2000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.I R.E  SCHEME OF WORK TERM I.pdf"
-      }, {
-        "title": "P.I READING SCHEME OF WORK TERM I",
-        "description": "READING",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.I READING SCHEME OF WORK TERM I.pdf"
-      },
-      {
-        "title": "P.I READING SCHEME OF WORK TERM II",
-        "description": "READING",
-        "price": 15000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.I READING SCHEME OF WORK TERM II.pdf"
-      },
-      {
-        "title": "P.I READING SCHEME OF WORK TERM III",
-        "description": "READING",
-        "price": 25000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.I READING SCHEME OF WORK TERM III.pdf"
-      },
-      {
-        "title": "PRIMARY ONE SCHEME OF WORK GRAMMAR",
-        "description": "English",
-        "price": 55000,
-        "pdfUrl": "https://fresh-teacher.github.io/PRIMARY ONE SCHEME OF WORK GRAMMAR.pdf"
-      },
-      {
-        "title": "R.E SCHEME P.1 TERM 2",
-        "description": "Religious Education",
-        "price": 2500,
-        "pdfUrl": "https://fresh-teacher.github.io/R.E SCHEME P.1 TERM 2.pdf"
-      }
-    ]
+  {
+    "title": "p.1 comprehension scheme term ii",
+    "description": "English",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P1/English/p.1%20comprehension%20scheme%20term%20ii.pdf"
+  },
+  {
+    "title": "P.1 English Comprehension term three scheme",
+    "description": "English",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P1/English/P.1%20English%20Comprehension%20term%20three%20scheme.pdf"
+  },
+  {
+    "title": "P.1 English Grammar Scheme of Work Term One",
+    "description": "English",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P1/English/P.1%20English%20Grammar%20Scheme%20of%20Work%20Term%20One.pdf"
+  },
+  {
+    "title": "P.1 LIT 1 SCHEMES OF WORK",
+    "description": "Literacy",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P1/Literacy/P.1%20LIT%201%20SCHEMES%20OF%20WORK.pdf"
+  },
+  {
+    "title": "P.1 LIT 2 SCHEME OF WORK TERM 2",
+    "description": "Literacy",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P1/Lit2L/P.1%20LIT%202%20SCHEME%20OF%20WORK%20TERM%202.pdf"
+  },
+  {
+    "title": "P.1 LIT. II All Schemes",
+    "description": "Literacy",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P1/Lit2L/P.1%20LIT.%20II%20All%20Schemes.pdf"
+  },
+  {
+    "title": "P.1 P.E SCHEME TERM 3",
+    "description": "Physical Education",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P1/Physical%20Education/P.1%20P.E%20SCHEME%20TERM%203.pdf"
+  },
+  {
+    "title": "P.1 RE scheme of work",
+    "description": "Religious Education",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P1/Religious%20Education/P.1%20RE%20scheme%20of%20work.pdf"
+  },
+  {
+    "title": "p.1 reading scheme of work",
+    "description": "Reading",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P1/Reading/p.1%20reading%20scheme%20of%20work.pdf"
+  },
+  {
+    "title": "P.1 Religious education SCHEME OF WORK",
+    "description": "Religious Education",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P1/Religious%20Education/P.1%20Religious%20education%20SCHEME%20OF%20WORK.pdf"
+  },
+  {
+    "title": "P.1 Scheme of work lit 2 third term",
+    "description": "Literacy",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P1/Lit2L/P.1%20Scheme%20of%20work%20lit%202%20third%20term.pdf"
+  },
+  {
+    "title": "P.1 SCHEMES OF WORK - TERM III",
+    "description": "Literacy",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P1/Literacy/P.1%20SCHEMES%20OF%20WORK%20-%20TERM%20III.pdf"
+  },
+  {
+    "title": "P.1 SCHEMES OF WORK TERM II",
+    "description": "Literacy",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P1/General/P.1%20SCHEMES%20OF%20WORK%20TERM%20II.pdf"
+  },
+  {
+    "title": "P.1 SCHEMES term 2",
+    "description": "Literacy",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P1/General/p.1%20SCHEMES%20term%202.pdf"
+  },
+  {
+    "title": "P.1 Term 1 reading scheme",
+    "description": "Reading",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P1/Reading/P.1%20Term%201%20reading%20scheme.pdf"
+  },
+  {
+    "title": "P.1 TERM 3 SCHEME",
+    "description": "Literacy",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P1/General/P.1%20TERM%203%20SCHEME.pdf"
+  },
+  {
+    "title": "P.1 THEMATIC SCHEMES term 2",
+    "description": "Numeracy",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P1/General/P.1%20THEMATIC%20SCHEMES%20term%202.pdf"
+  },
+  {
+    "title": "P1 schemes of work",
+    "description": "Literacy",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P1/General/P1%20schemes%20of%20work.pdf"
+  },
+  {
+    "title": "P1 term 111 all subjects scheme",
+    "description": "Combined",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P1/General/p1%20term%20111%20all%20subjects%20scheme.pdf"
+  },
+  {
+    "title": "scheme of work english p.1",
+    "description": "English",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P1/English/scheme%20of%20work%20english%20p.1.pdf"
+  },
+  {
+    "title": "LITERACY SCHEME P.1 TERM 2",
+    "description": "LITERACY",
+    "price": 10000,
+    "pdfUrl": "Resources/Primary/P1/Literacy/LITERACY%20SCHEME%20P.1%20TERM%202.pdf"
+  },
+  {
+    "title": "LUGANDA P.1 TERM 2",
+    "description": "LUGANDA",
+    "price": 15000,
+    "pdfUrl": "Resources/Primary/P1/Luganda/LUGANDA%20P.1%20TERM%202.pdf"
+  },
+  {
+    "title": "P.I  ENGLISH GRAMMAR , COMPOSITION & COMPREHENSION SCHEME OF WORK TERM III",
+    "description": "ENGLISH",
+    "price": 25000,
+    "pdfUrl": "Resources/Primary/P1/General/P.I%20%20ENGLISH%20GRAMMAR%20%2C%20COMPOSITION%20%26%20COMPREHENSION%20SCHEME%20OF%20WORK%20TERM%20III.pdf"
+  },
+  {
+    "title": "P.I GRAMMAR, COMPOSITION & COMPREHENSION SCHEME OF WORK TERM II",
+    "description": "ENGLISH",
+    "price": 55000,
+    "pdfUrl": "Resources/Primary/P1/English/P.I%20GRAMMAR%2C%20COMPOSITION%20%26%20COMPREHENSION%20SCHEME%20OF%20WORK%20TERM%20II.pdf"
+  },
+  {
+    "title": "P.I LITERACY SCHEME OF WORK TERM III",
+    "description": "LITERACY",
+    "price": 2000,
+    "pdfUrl": "Resources/Primary/P1/Lit2L/P.I%20LITERACY%20SCHEME%20OF%20WORK%20TERM%20III.pdf"
+  },
+  {
+    "title": "P.I LITERACY TERM I SCHEME OF WORK",
+    "description": "LITERACY",
+    "price": 10000,
+    "pdfUrl": "Resources/Primary/P1/Lit2L/P.I%20LITERACY%20TERM%20I%20SCHEME%20OF%20WORK.pdf"
+  },
+  {
+    "title": "P.I LUGANDA  SCHEME OF WORK TERM I",
+    "description": "LUGANDA",
+    "price": 15000,
+    "pdfUrl": "Resources/Primary/P1/Luganda/P.I%20LUGANDA%20%20SCHEME%20OF%20WORK%20TERM%20I.pdf"
+  },
+  {
+    "title": "P.I LUGANDA SCHEME WORK TERM III",
+    "description": "LUGANDA",
+    "price": 25000,
+    "pdfUrl": "Resources/Primary/P1/Luganda/P.I%20LUGANDA%20SCHEME%20WORK%20TERM%20III.pdf"
+  },
+  {
+    "title": "P.I MATHEMATICS SCHEME OF WORK TERM III",
+    "description": "MATHEMATICS",
+    "price": 55000,
+    "pdfUrl": "Resources/Primary/P1/Mathematics/P.I%20MATHEMATICS%20SCHEME%20OF%20WORK%20TERM%20IIII.pdf"
+  },
+  {
+    "title": "P.I R.E  SCHEME OF WORK TERM I",
+    "description": "Religious Education",
+    "price": 2000,
+    "pdfUrl": "Resources/Primary/P1/Religious%20Education/P.I%20R.E%20%20SCHEME%20OF%20WORK%20TERM%20I.pdf"
+  },
+  {
+    "title": "P.I READING SCHEME OF WORK TERM I",
+    "description": "READING",
+    "price": 10000,
+    "pdfUrl": "Resources/Primary/P1/Reading/P.I%20READING%20SCHEME%20OF%20WORK%20TERM%20I.pdf"
+  },
+  {
+    "title": "P.I READING SCHEME OF WORK TERM II",
+    "description": "READING",
+    "price": 15000,
+    "pdfUrl": "Resources/Primary/P1/Reading/P.I%20READING%20SCHEME%20OF%20WORK%20TERM%20II.pdf"
+  },
+  {
+    "title": "P.I READING SCHEME OF WORK TERM III",
+    "description": "READING",
+    "price": 25000,
+    "pdfUrl": "Resources/Primary/P1/Reading/P.I%20READING%20SCHEME%20OF%20WORK%20TERM%20III.pdf"
+  },
+  {
+    "title": "PRIMARY ONE SCHEME OF WORK GRAMMAR",
+    "description": "English",
+    "price": 55000,
+    "pdfUrl": "Resources/Primary/P1/General/PRIMARY%20ONE%20SCHEME%20OF%20WORK%20GRAMMAR.pdf"
+  },
+  {
+    "title": "R.E SCHEME P.1 TERM 2",
+    "description": "Religious Education",
+    "price": 2500,
+    "pdfUrl": "Resources/Primary/P1/Religious%20Education/R.E%20SCHEME%20P.1%20TERM%202.pdf"
+  }
+]

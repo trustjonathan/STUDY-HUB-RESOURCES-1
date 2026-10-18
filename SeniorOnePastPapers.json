@@ -10,7 +10,7 @@
     "description": "Senior Four",
     "price": 5000,
     "pdfUrl": "https://fresh-teacher.github.io/secondariez/AGRI S-1.pdf"
-  }, 
+  },
   {
     "title": "",
     "description": "Senior Four",
@@ -18,11 +18,11 @@
     "pdfUrl": "https://fresh-teacher.github.io/secondariez/chem s.1.pdf"
   },
   {
-  "title": "",
-  "description": "Senior Four",
-  "price": 5000,
+    "title": "",
+    "description": "Senior Four",
+    "price": 5000,
     "pdfUrl": "https://fresh-teacher.github.io/secondariez/GEO S1.pdf"
-  }, 
+  },
   {
     "title": "",
     "description": "Senior Four",
@@ -30,11 +30,11 @@
     "pdfUrl": "https://fresh-teacher.github.io/secondariez/MTC 1.pdf"
   },
   {
-  "title": "",
-  "description": "Senior Four",
-  "price": 5000,
+    "title": "",
+    "description": "Senior Four",
+    "price": 5000,
     "pdfUrl": "https://fresh-teacher.github.io/secondariez/PHY GUIDE S.1.pdf"
-  }, 
+  },
   {
     "title": "",
     "description": "Senior Four",
@@ -42,11 +42,11 @@
     "pdfUrl": "https://fresh-teacher.github.io/secondariez/s-1 chem new curric.pdf"
   },
   {
-  "title": "",
-  "description": "Senior Four",
-  "price": 5000,
+    "title": "",
+    "description": "Senior Four",
+    "price": 5000,
     "pdfUrl": "https://fresh-teacher.github.io/secondariez/S.1 BIOLOGY END OF TEM ONE 2023 ASSESSMENT EXAM.pdf"
-  }, 
+  },
   {
     "title": "",
     "description": "Senior Four",
@@ -54,11 +54,11 @@
     "pdfUrl": "https://fresh-teacher.github.io/secondariez/S.1 CHEMISTRY  EXAM awtad 2023.pdf"
   },
   {
-  "title": "",
-  "description": "Senior Four",
-  "price": 5000,
+    "title": "",
+    "description": "Senior Four",
+    "price": 5000,
     "pdfUrl": "https://fresh-teacher.github.io/secondariez/S.1 CHEMISTRY  rena 2023.pdf"
-  }, 
+  },
   {
     "title": "",
     "description": "Senior Four",
@@ -66,23 +66,23 @@
     "pdfUrl": "https://fresh-teacher.github.io/secondariez/S.1 CHEMISTRY E.O.T1 2022.pdf"
   },
   {
-  "title": "",
-  "description": "Senior Four",
-  "price": 5000,
+    "title": "",
+    "description": "Senior Four",
+    "price": 5000,
     "pdfUrl": "https://fresh-teacher.github.io/secondariez/s.1 chemistry new curriculumworkbook 1.pdf"
-  }, 
+  },
   {
     "title": "",
     "description": "Senior Four",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/secondariez/S.1 GEOGRAPHY HOLIDAY PACKAGE.pdf"
+    "pdfUrl": "Resources/O-Level/S1/Geography/S.1%20GEOGRAPHY%20HOLIDAY%20PACKAGE.pdf"
   },
   {
-  "title": "",
-  "description": "Senior Four",
-  "price": 5000,
+    "title": "",
+    "description": "Senior Four",
+    "price": 5000,
     "pdfUrl": "https://fresh-teacher.github.io/secondariez/s1 biology exam harroan.pdf"
-  }, 
+  },
   {
     "title": "",
     "description": "Senior Four",
@@ -90,11 +90,11 @@
     "pdfUrl": "https://fresh-teacher.github.io/secondariez/S1 CHEMISTRY PAPER 1 Competence Based Curriculum ( C.B.C ) Examination 2022..pdf"
   },
   {
-  "title": "",
-  "description": "Senior Four",
-  "price": 5000,
+    "title": "",
+    "description": "Senior Four",
+    "price": 5000,
     "pdfUrl": "https://fresh-teacher.github.io/secondariez/S1 END TT1.pdf"
-  }, 
+  },
   {
     "title": "",
     "description": "Senior Four",
@@ -102,417 +102,417 @@
     "pdfUrl": "https://fresh-teacher.github.io/secondariez/S1 ICT end of term.pdf"
   },
   {
-  "title": "",
-  "description": "Senior Four",
-  "price": 5000,
+    "title": "",
+    "description": "Senior Four",
+    "price": 5000,
     "pdfUrl": "https://fresh-teacher.github.io/secondariez/S1 MATH EOT 1.pdf"
-  }, 
+  },
   {
     "title": "",
     "description": "Senior Four",
     "price": 5000,
     "pdfUrl": "https://fresh-teacher.github.io/secondariez/MATIGO ENT 2 PRE MOCK 2023 QP.pdf"
-  }, 
+  },
   {
-        "title": "ART  week1",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/ART  week1.pdf"
-      },
-      {
-        "title": "CBC Chemistry S.1",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/CBC Chemistry S.1.pdf"
-      },
-      {
-        "title": "Chem S.1 E.o.T 2 C.B.C Exam",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/Chem S.1 E.o.T 2 C.B.C Exam.pdf"
-      },
-      {
-        "title": "F1 END-TERM 3 EXAMS",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/F1 END-TERM 3 EXAMS.pdf"
-      },
-      {
-        "title": "F1 SET 2 ALL SUBJECTS",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/F1 SET 2 ALL SUBJECTS.pdf"
-      },
-      {
-        "title": "FORM 1 END OF TERM 2 EXAMS",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/FORM 1 END OF TERM 2 EXAMS.pdf"
-      },
-      {
-        "title": "FORM 1 SET 1 ASSIGNMENT-1",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/FORM 1 SET 1 ASSIGNMENT-1.pdf"
-      },
-      {
-        "title": "FORM 1 SET 2 ASSIGNMENT",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/FORM 1 SET 2 ASSIGNMENT.pdf"
-      },
-      {
-        "title": "FORM 1 SET 3 EXAMS",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/FORM 1 SET 3 EXAMS.pdf"
-      },
-      {
-        "title": "KCB S.1 BIOLOGY - ACTIVITY 2  2020",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/KCB S.1 BIOLOGY - ACTIVITY 2  2020.pdf"
-      },
-      {
-        "title": "Kitende S1 Chem Covid19 Qns",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/Kitende S1 Chem Covid19 Qns.pdf"
-      },
-      {
-        "title": "Kitende S1 Food and Nutrition",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/Kitende S1 Food and Nutrition.pdf"
-      },
-      {
-        "title": "mathematics S1 ACTIVITY",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/mathematics S1 ACTIVITY.pdf"
-      },
-      {
-        "title": "S 1 PHY LECTURE 15",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/S 1 PHY LECTURE 15.pdf"
-      },
-      {
-        "title": "S_1_activity_of_integration_1_introduction_to_biology_term_1_2020 (3)",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/S_1_activity_of_integration_1_introduction_to_biology_term_1_2020 (3).pdf"
-      },
-      {
-        "title": "S.1  Entrepreneurship",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/S.1  Entrepreneurship.pdf"
-      },
-      {
-        "title": "S.1  IRE 20 APRIL 2020",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/S.1  IRE 20 APRIL 2020.pdf"
-      },
-      {
-        "title": "S.1 BIOLOGY",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/S.1 BIOLOGY.pdf"
-      },
-      {
-        "title": "S.1 Commerce",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/S.1 Commerce.pdf"
-      },
-      {
-        "title": "S.1 Coronavirus Break Activity 3A",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/S.1 Coronavirus Break Activity 3A.pdf"
-      },
-      {
-        "title": "S.1 CRE HOLIDAY PACKAGE",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/S.1 CRE HOLIDAY PACKAGE.pdf"
-      },
-      {
-        "title": "S.1 END TERM III ENG",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/S.1 END TERM III ENG.pdf"
-      },
-      {
-        "title": "S.1 ENG",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/S.1 ENG.pdf"
-      },
-      {
-        "title": "S.1 ENGI",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/S.1 ENGI.pdf"
-      },
-      {
-        "title": "S.1 English Passage 2015",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/S.1 English Passage 2015.pdf"
-      },
-      {
-        "title": "S.1 ENGLL",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/S.1 ENGLL.pdf"
-      },
-      {
-        "title": "S.1 ENGS",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/S.1 ENGS.pdf"
-      },
-      {
-        "title": "S.1 GEOGRAPHY HOLIDAY PACKAGE",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/S.1 GEOGRAPHY HOLIDAY PACKAGE.pdf"
-      },
-      {
-        "title": "S.1 HISTORY AND POLITICAL EDUCATION",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/S.1 HISTORY AND POLITICAL EDUCATION.pdf"
-      },
-      {
-        "title": "S.1 Holiday package",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/S.1 Holiday package.pdf"
-      },
-      {
-        "title": "S.1 ICT Activity 3",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/S.1 ICT Activity 3.pdf"
-      },
-      {
-        "title": "S.1 ICT Introduction to ICT Activity 1",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/S.1 ICT Introduction to ICT Activity 1.pdf"
-      },
-      {
-        "title": "S.1 ICT Introduction to ICT Activity 2 (2)",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/S.1 ICT Introduction to ICT Activity 2 (2).pdf"
-      },
-      {
-        "title": "S.1 KISWAHILI",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/S.1 KISWAHILI.pdf"
-      },
-      {
-        "title": "S.1 LITERATURE WEEK ONE",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/S.1 LITERATURE WEEK ONE.pdf"
-      },
-      {
-        "title": "S.1 math workbook 2020",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/S.1 math workbook 2020.pdf"
-      },
-      {
-        "title": "S.1 Mathematics Work -NGS",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/S.1 Mathematics Work -NGS.pdf"
-      },
-      {
-        "title": "S.1 Mathematics",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/S.1 Mathematics.pdf"
-      },
-      {
-        "title": "S.1 PHYSICS ONE MONTH HOLIDAY WORK",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/S.1 PHYSICS ONE MONTH HOLIDAY WORK.pdf"
-      },
-      {
-        "title": "S.1 TD HOLIDAY WORK",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/S.1 TD HOLIDAY WORK.pdf"
-      },
-      {
-        "title": "S.1-ENTREpreneurship",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/S.1-ENTREpreneurship.pdf"
-      },
-      {
-        "title": "S.1-Physical-Education-activity-of-integration.",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/S.1-Physical-Education-activity-of-integration..pdf"
-      },
-      {
-        "title": "S.2 END TERM II ENG",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/S.2 END TERM II ENG.pdf"
-      },
-      {
-        "title": "S.2 END TERM III ENG P.2",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/S.2 END TERM III ENG P.2.pdf"
-      },
-      {
-        "title": "S.I GEOG  RECESS WORK",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/S.I GEOG  RECESS WORK.pdf"
-      },
-      {
-        "title": "S1 (English language)",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/S1 (English language).pdf"
-      },
-      {
-        "title": "S1 ACTIVITY 1 2020",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/S1 ACTIVITY 1 2020.pdf"
-      },
-      {
-        "title": "S1 Biology activity 2",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/S1 Biology activity 2.pdf"
-      },
-      {
-        "title": "S1 BIOLOGY CBC 2022 T2",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/S1 BIOLOGY CBC 2022 T2.pdf"
-      },
-      {
-        "title": "S1 BIOLOGY WEEK 2",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/S1 BIOLOGY WEEK 2.pdf"
-      },
-      {
-        "title": "S1 chemistry Activity",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/S1 chemistry Activity.pdf"
-      },
-      {
-        "title": "S1 chemistry term 1 recess exercise-1",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/S1 chemistry term 1 recess exercise-1.pdf"
-      },
-      {
-        "title": "S1 CHEMISTRY WEEK 2",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/S1 CHEMISTRY WEEK 2.pdf"
-      },
-      {
-        "title": "S1 ENG",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/S1 ENG.pdf"
-      },
-      {
-        "title": "S1 ENGLISH WEEK ONE",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/S1 ENGLISH WEEK ONE.pdf"
-      },
-      {
-        "title": "S1 EXAMS",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/S1 EXAMS.pdf"
-      },
-      {
-        "title": "S1 Geography",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/S1 Geography.pdf"
-      },
-      {
-        "title": "S1 Kiswahili Holiday activities",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/S1 Kiswahili Holiday activities.pdf"
-      },
-      {
-        "title": "S1 Lit Holiday work",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/S1 Lit Holiday work.pdf"
-      },
-      {
-        "title": "S1 package",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/S1 package.pdf"
-      },
-      {
-        "title": "s1 PE homework",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/s1 PE homework.pdf"
-      },
-      {
-        "title": "S1 TEST BIOLOGY",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/S1 TEST BIOLOGY.pdf"
-      },
-      {
-        "title": "S1 WORK",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/S1 WORK.pdf"
-      },
-      {
-        "title": "S1-Geogrraphy-Activity",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/S1-Geogrraphy-Activity.pdf"
-      },
-      {
-        "title": "S1-HISTORY-ACTIVITY-OF-INTEGRATION",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/S1-HISTORY-ACTIVITY-OF-INTEGRATION.pdf"
-      },
-      {
-        "title": "mathematics S1 ACTIVITY",
-        "description": "Senior One",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/mathematics S1 ACTIVITY.pdf"
-      },
-      {
-        "title": "S.1-HISTORY and P.E-Sources-of-History-B-MF",
-        "description": "Senior One",
-        "price": 15000,
-        "pdfUrl": "https://fresh-teacher.github.io/S.1-HISTORY and P.E-Sources-of-History-B-MF.pdf"
-      }
-    ]
+    "title": "ART  week1",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/Art%20%26%20Design/ART%20%20week1.pdf"
+  },
+  {
+    "title": "CBC Chemistry S.1",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/Chemistry/CBC%20Chemistry%20S.1.pdf"
+  },
+  {
+    "title": "Chem S.1 E.o.T 2 C.B.C Exam",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/Chemistry/Chem%20S.1%20E.o.T%202%20C.B.C%20Exam.pdf"
+  },
+  {
+    "title": "F1 END-TERM 3 EXAMS",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/Agriculture/F1%20END-TERM%203%20EXAMS.pdf"
+  },
+  {
+    "title": "F1 SET 2 ALL SUBJECTS",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/Geography/F1%20SET%202%20ALL%20SUBJECTS.pdf"
+  },
+  {
+    "title": "FORM 1 END OF TERM 2 EXAMS",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/Agriculture/FORM%201%20END%20OF%20TERM%202%20EXAMS.pdf"
+  },
+  {
+    "title": "FORM 1 SET 1 ASSIGNMENT-1",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/English/FORM%201%20SET%201%20ASSIGNMENT-1.pdf"
+  },
+  {
+    "title": "FORM 1 SET 2 ASSIGNMENT",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/General/FORM%201%20SET%202%20ASSIGNMENT.pdf"
+  },
+  {
+    "title": "FORM 1 SET 3 EXAMS",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/General/FORM%201%20SET%203%20EXAMS.pdf"
+  },
+  {
+    "title": "KCB S.1 BIOLOGY - ACTIVITY 2  2020",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/Biology/KCB%20S.1%20BIOLOGY%20-%20ACTIVITY%202%20%202020.pdf"
+  },
+  {
+    "title": "Kitende S1 Chem Covid19 Qns",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/Chemistry/Kitende%20S1%20Chem%20Covid19%20Qns.pdf"
+  },
+  {
+    "title": "Kitende S1 Food and Nutrition",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/Nutrition%20%26%20Food%20Technology/Kitende%20S1%20Food%20and%20Nutrition.pdf"
+  },
+  {
+    "title": "mathematics S1 ACTIVITY",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/Mathematics/mathematics%20S1%20ACTIVITY.pdf"
+  },
+  {
+    "title": "S 1 PHY LECTURE 15",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/Physics/S%201%20PHY%20LECTURE%2015.pdf"
+  },
+  {
+    "title": "S_1_activity_of_integration_1_introduction_to_biology_term_1_2020 (3)",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/Biology/S_1_activity_of_integration_1_introduction_to_biology_term_1_2020%20(3).pdf"
+  },
+  {
+    "title": "S.1  Entrepreneurship",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/Entrepreneurship/S.1%20%20Entrepreneurship.pdf"
+  },
+  {
+    "title": "S.1  IRE 20 APRIL 2020",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/IRE/S.1%20%20IRE%2020%20APRIL%202020.pdf"
+  },
+  {
+    "title": "S.1 BIOLOGY",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/Biology/S.1%20BIOLOGY.pdf"
+  },
+  {
+    "title": "S.1 Commerce",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/Commerce/S.1%20Commerce.pdf"
+  },
+  {
+    "title": "S.1 Coronavirus Break Activity 3A",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/ICT/S.1%20Coronavirus%20Break%20Activity%203A.pdf"
+  },
+  {
+    "title": "S.1 CRE HOLIDAY PACKAGE",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/CRE/S.1%20CRE%20HOLIDAY%20PACKAGE.pdf"
+  },
+  {
+    "title": "S.1 END TERM III ENG",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/English/S.1%20END%20TERM%20III%20ENG.pdf"
+  },
+  {
+    "title": "S.1 ENG",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/English/S.1%20ENG.pdf"
+  },
+  {
+    "title": "S.1 ENGI",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/English/S.1%20ENGI.pdf"
+  },
+  {
+    "title": "S.1 English Passage 2015",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/English/S.1%20English%20Passage%202015.pdf"
+  },
+  {
+    "title": "S.1 ENGLL",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/English/S.1%20ENGLL.pdf"
+  },
+  {
+    "title": "S.1 ENGS",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/English/S.1%20ENGS.pdf"
+  },
+  {
+    "title": "S.1 GEOGRAPHY HOLIDAY PACKAGE",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/Geography/S.1%20GEOGRAPHY%20HOLIDAY%20PACKAGE.pdf"
+  },
+  {
+    "title": "S.1 HISTORY AND POLITICAL EDUCATION",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/History/S.1%20HISTORY%20AND%20POLITICAL%20EDUCATION.pdf"
+  },
+  {
+    "title": "S.1 Holiday package",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/Biology/S.1%20Holiday%20package.pdf"
+  },
+  {
+    "title": "S.1 ICT Activity 3",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/ICT/S.1%20ICT%20Activity%203.pdf"
+  },
+  {
+    "title": "S.1 ICT Introduction to ICT Activity 1",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/ICT/S.1%20ICT%20Introduction%20to%20ICT%20Activity%201.pdf"
+  },
+  {
+    "title": "S.1 ICT Introduction to ICT Activity 2 (2)",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/ICT/S.1%20ICT%20Introduction%20to%20ICT%20Activity%202%20(2).pdf"
+  },
+  {
+    "title": "S.1 KISWAHILI",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/Kiswahili/S.1%20KISWAHILI.pdf"
+  },
+  {
+    "title": "S.1 LITERATURE WEEK ONE",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/Literature%20in%20English/S.1%20LITERATURE%20WEEK%20ONE.pdf"
+  },
+  {
+    "title": "S.1 math workbook 2020",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/Mathematics/S.1%20math%20workbook%202020.pdf"
+  },
+  {
+    "title": "S.1 Mathematics Work -NGS",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/Mathematics/S.1%20Mathematics%20Work%20-NGS.pdf"
+  },
+  {
+    "title": "S.1 Mathematics",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/Mathematics/S.1%20Mathematics.pdf"
+  },
+  {
+    "title": "S.1 PHYSICS ONE MONTH HOLIDAY WORK",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/Physics/S.1%20PHYSICS%20ONE%20MONTH%20HOLIDAY%20WORK.pdf"
+  },
+  {
+    "title": "S.1 TD HOLIDAY WORK",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/Technology%20%26%20Design/S.1%20TD%20HOLIDAY%20WORK.pdf"
+  },
+  {
+    "title": "S.1-ENTREpreneurship",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/Entrepreneurship/S.1-ENTREpreneurship.pdf"
+  },
+  {
+    "title": "S.1-Physical-Education-activity-of-integration.",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/Physics/S.1-Physical-Education-activity-of-integration..pdf"
+  },
+  {
+    "title": "S.2 END TERM II ENG",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/English/S.2%20END%20TERM%20II%20ENG.pdf"
+  },
+  {
+    "title": "S.2 END TERM III ENG P.2",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/English/S.2%20END%20TERM%20III%20ENG%20P.2.pdf"
+  },
+  {
+    "title": "S.I GEOG  RECESS WORK",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/Geography/S.I%20GEOG%20%20RECESS%20WORK.pdf"
+  },
+  {
+    "title": "S1 (English language)",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/English/S1%20(English%20language).pdf"
+  },
+  {
+    "title": "S1 ACTIVITY 1 2020",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/Biology/S1%20ACTIVITY%201%202020.pdf"
+  },
+  {
+    "title": "S1 Biology activity 2",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/Biology/S1%20Biology%20activity%202.pdf"
+  },
+  {
+    "title": "S1 BIOLOGY CBC 2022 T2",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/Biology/S1%20BIOLOGY%20CBC%202022%20T2.pdf"
+  },
+  {
+    "title": "S1 BIOLOGY WEEK 2",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/Biology/S1%20BIOLOGY%20WEEK%202.pdf"
+  },
+  {
+    "title": "S1 chemistry Activity",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/Chemistry/S1%20chemistry%20Activity.pdf"
+  },
+  {
+    "title": "S1 chemistry term 1 recess exercise-1",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/Chemistry/S1%20chemistry%20term%201%20recess%20exercise-1.pdf"
+  },
+  {
+    "title": "S1 CHEMISTRY WEEK 2",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/Chemistry/S1%20CHEMISTRY%20WEEK%202.pdf"
+  },
+  {
+    "title": "S1 ENG",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/English/S1%20ENG.pdf"
+  },
+  {
+    "title": "S1 ENGLISH WEEK ONE",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/English/S1%20ENGLISH%20WEEK%20ONE.pdf"
+  },
+  {
+    "title": "S1 EXAMS",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/General/S1%20EXAMS.pdf"
+  },
+  {
+    "title": "S1 Geography",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/Geography/S1%20Geography.pdf"
+  },
+  {
+    "title": "S1 Kiswahili Holiday activities",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/Kiswahili/S1%20Kiswahili%20Holiday%20activities.pdf"
+  },
+  {
+    "title": "S1 Lit Holiday work",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/Literature%20in%20English/S1%20Lit%20Holiday%20work.pdf"
+  },
+  {
+    "title": "S1 package",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/General/S1%20package.pdf"
+  },
+  {
+    "title": "s1 PE homework",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/Physical%20Education/s1%20PE%20homework.pdf"
+  },
+  {
+    "title": "S1 TEST BIOLOGY",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/Biology/S1%20TEST%20BIOLOGY.pdf"
+  },
+  {
+    "title": "S1 WORK",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/ICT/S1%20WORK.pdf"
+  },
+  {
+    "title": "S1-Geogrraphy-Activity",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/Geography/S1-Geogrraphy-Activity.pdf"
+  },
+  {
+    "title": "S1-HISTORY-ACTIVITY-OF-INTEGRATION",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/History/S1-HISTORY-ACTIVITY-OF-INTEGRATION.pdf"
+  },
+  {
+    "title": "mathematics S1 ACTIVITY",
+    "description": "Senior One",
+    "price": 10000,
+    "pdfUrl": "Resources/O-Level/S1/Mathematics/mathematics%20S1%20ACTIVITY.pdf"
+  },
+  {
+    "title": "S.1-HISTORY and P.E-Sources-of-History-B-MF",
+    "description": "Senior One",
+    "price": 15000,
+    "pdfUrl": "Resources/O-Level/S1/History/S.1-HISTORY%20and%20P.E-Sources-of-History-B-MF.pdf"
+  }
+]

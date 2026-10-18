@@ -1,54 +1,46 @@
 [
-  
   {
     "title": "",
     "description": "Primary Two",
     "price": 5000,
-    "pdfUrl": "https://freshteachers.vercel.app/P. 2 LIT IA BOT III.pdf"
-  }, 
-    
+    "pdfUrl": "Resources/Primary/P2/Literacy/P.%202%20LIT%20IA%20BOT%20III.pdf"
+  },
   {
     "title": "",
     "description": "Primary Two",
     "price": 5000,
-    "pdfUrl": "https://freshteachers.vercel.app/P. 2 MTC BOT III.pdf"
-  }, 
-    
+    "pdfUrl": "Resources/Primary/P2/Mathematics/P.%202%20MTC%20BOT%20III.pdf"
+  },
   {
     "title": "",
     "description": "Primary Two",
     "price": 5000,
-    "pdfUrl": "https://freshteachers.vercel.app/P.2 ENG BOT III.pdf"
-  }, 
-    
+    "pdfUrl": "Resources/Primary/P2/English/P.2%20ENG%20BOT%20III.pdf"
+  },
   {
     "title": "",
     "description": "Primary Two",
     "price": 5000,
-    "pdfUrl": "https://freshteachers.vercel.app/P.2 LIT IB BOT III.pdf"
-  }, 
-    
+    "pdfUrl": "Resources/Primary/P2/Literacy/P.2%20LIT%20IB%20BOT%20III.pdf"
+  },
   {
     "title": "",
     "description": "Primary Two",
     "price": 5000,
-    "pdfUrl": "https://freshteachers.vercel.app/P.2 LUGANDA BOT III.pdf"
-  }, 
-    
+    "pdfUrl": "Resources/Primary/P2/Luganda/P.2%20LUGANDA%20BOT%20III.pdf"
+  },
   {
     "title": "",
     "description": "Primary Two",
     "price": 5000,
-    "pdfUrl": "https://freshteachers.vercel.app/P.2 RE BOT III.pdf"
-  }, 
-    
+    "pdfUrl": "Resources/Primary/P2/Religious%20Education/P.2%20RE%20BOT%20III.pdf"
+  },
   {
     "title": "",
     "description": "Primary Two",
     "price": 5000,
-    "pdfUrl": "https://freshteachers.vercel.app/P.2 READING BOT III.pdf"
-  }, 
-  
+    "pdfUrl": "Resources/Primary/P2/Reading/P.2%20READING%20BOT%20III.pdf"
+  },
   {
     "title": "",
     "description": "Primary Two",
@@ -125,7 +117,7 @@
     "title": "",
     "description": "Primary Two",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/primary/P.2 ENTRY EXAM.pdf"
+    "pdfUrl": "Resources/Primary/P2/English/P.2%20ENTRY%20EXAM.pdf"
   },
   {
     "title": "",
@@ -161,7 +153,7 @@
     "title": "",
     "description": "Primary Two",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/primary/P.2 SST Revision booklet.pdf"
+    "pdfUrl": "Resources/Primary/P2/General/P.2%20SST%20Revision%20booklet.pdf"
   },
   {
     "title": "",
@@ -179,13 +171,13 @@
     "title": "",
     "description": "Primary Two",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/primary/PRIMARY 2 SET III 2020.pdf"
-},
+    "pdfUrl": "Resources/Primary/P2/General/PRIMARY%202%20SET%20III%202020.pdf"
+  },
   {
     "title": "",
     "description": "Primary Two",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/primary/P2 READING.pdf"
+    "pdfUrl": "Resources/Primary/P2/Reading/P2%20READING.pdf"
   },
   {
     "title": "",
@@ -197,276 +189,282 @@
     "title": "P. 2 MTC SET I",
     "description": "Primary Two",
     "price": 10000,
-    "pdfUrl": "https://fresh-teacher.github.io/P. 2 MTC SET I.pdf"
+    "pdfUrl": "Resources/Primary/P1/Mathematics/P.%202%20MTC%20SET%20I.pdf"
   },
-  
-      {
-        "title": "P. 2 Package   4",
-        "description": "Primary Two",
-        "price": 15000,
-        "pdfUrl": "https://fresh-teacher.github.io/P. 2 Package   4.pdf"
-      },
-      {
-        "title": "P.2 - THEOLOGY",
-        "description": "Primary Two",
-        "price": 25000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.2 - THEOLOGY.pdf"
-      },
-      {
-        "title": "P.2 Eng Lockdown activity 2",
-        "description": "Primary Two",
-        "price": 55000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.2 Eng Lockdown activity 2.pdf"
-      },
-      {
-        "title": "P.2 Eng Lockdown activity 2",
-        "description": "Primary Two",
-        "price": 2000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.2 Eng Lockdown activity 2.pdf"
-      },{
-        "title": "P.2 ENG",
-        "description": "Primary Two",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.2 ENG.pdf"
-      },
-      {
-        "title": "P.2 English Lockdown activity (2)",
-        "description": "Primary Two",
-        "price": 15000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.2 English Lockdown activity (2).pdf"
-      },
-      {
-        "title": "P.2 English Lockdown activity (3)",
-        "description": "Primary Two",
-        "price": 25000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.2 English Lockdown activity (3).pdf"
-      },
-      {
-        "title": "P.2 English Lockdown activity",
-        "description": "Primary Two",
-        "price": 55000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.2 English Lockdown activity.pdf"
-      },
-      {
-        "title": "P.2 ENTRY EXAM",
-        "description": "Primary Two",
-        "price": 2000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.2 ENTRY EXAM.pdf"
-      },{
-        "title": "P.2 LEGIT MTC ISSUE 4 ",
-        "description": "Primary Two",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.2 LEGIT MTC ISSUE 4 .pdf"
-      },
-      {
-        "title": "P.2 LIT 1 HP",
-        "description": "Primary Two",
-        "price": 15000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.2 LIT 1 HP.pdf"
-      },
-      {
-        "title": "P.2 Literacy 1A Lockdown activitY (2)",
-        "description": "Primary Two",
-        "price": 25000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.2 Literacy 1A Lockdown activitY (2).pdf"
-      },
-      {
-        "title": "P.2 Literacy 1A Lockdown activity",
-        "description": "Primary Two",
-        "price": 55000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.2 Literacy 1A Lockdown activity.pdf"
-      },
-      {
-        "title": "P.2 Literacy 1A Lockdown activity",
-        "description": "Primary Two",
-        "price": 2500,
-        "pdfUrl": "https://fresh-teacher.github.io/P.2 Literacy 1A Lockdown activity.pdf"
-      },{
-        "title": "P.2 Literacy 1B Lockdown activity",
-        "description": "Primary Two",
-        "price": 37000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.2 Literacy 1B Lockdown activity.pdf"
-      },
-      {
-        "title": "P.2 Literacy1A Lockdown activity (2)",
-        "description": "Primary Two",
-        "price": 13000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.2 Literacy1A Lockdown activity (2).pdf"
-      },
-      {
-        "title": "P.2 Literacy1A Lockdown activity",
-        "description": "Primary Two",
-        "price": 45000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.2 Literacy1A Lockdown activity.pdf"
-      },
-      {
-        "title": "P.2 Mathematics Lockdown activity (2)",
-        "description": "Primary Two",
-        "price": 57500,
-        "pdfUrl": "https://fresh-teacher.github.io/P.2 Mathematics Lockdown activity (2).pdf"
-      },
-      {
-        "title": "P.2 Mathematics Lockdown activity",
-        "description": "Primary Two",
-        "price": 24800,
-        "pdfUrl": "https://fresh-teacher.github.io/P.2 Mathematics Lockdown activity.pdf"
-      },{
-        "title": "P.2 MATHS",
-        "description": "Primary Two",
-        "price": 86000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.2 MATHS.pdf"
-      },
-      {
-        "title": "P.2 SST Revision booklet",
-        "description": "Primary Two",
-        "price": 11000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.2 SST Revision booklet.pdf"
-      },
-      {
-        "title": "P.2-ENG-SET-5",
-        "description": "Primary Two",
-        "price": 29000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.2-ENG-SET-5.pdf"
-      },
-      {
-        "title": "P.2-ENG-SET-II",
-        "description": "Primary Two",
-        "price": 95000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.2-ENG-SET-II.pdf"
-      },
-      {
-        "title": "P.2-ENGLISH-WORK-BOOK-TERM-ONE",
-        "description": "Primary Two",
-        "price": 29000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.2-ENGLISH-WORK-BOOK-TERM-ONE.pdf"
-      },{
-        "title": "P.2-LIT-1-A-SET-5",
-        "description": "Primary Two",
-        "price": 12400,
-        "pdfUrl": "https://fresh-teacher.github.io/P.2-LIT-1-A-SET-5.pdf"
-      },
-      {
-        "title": "P.2-LIT-1-A-SET-5",
-        "description": "Primary Two",
-        "price": 15800,
-        "pdfUrl": "https://fresh-teacher.github.io/P.2-LIT-1-A-SET-5.pdf"
-      },
-      {
-        "title": "P.2-LIT-1-A-SET-II",
-        "description": "Primary Two",
-        "price": 82000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.2-LIT-1-A-SET-II.pdf"
-      },
-      {
-        "title": "P.2-LIT-I-B-SET-5.pdf"     ,
-        "description": "Primary Two",
-        "price": 53000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.2-LIT-I-B-SET-5.pdf"     
-       },
-      {
-        "title": "P.2-LIT-I-B-SET-II",
-        "description": "Primary Two",
-        "price": 13000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.2-LIT-I-B-SET-II.pdf"
-      },
-      {
-        "title": "P.2-LITERACY-WORK-BOOK-TERM-ONE",
-        "description": "Primary Two",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.2-LITERACY-WORK-BOOK-TERM-ONE.pdf"
-      },
-      {
-        "title": "P.2-MATHEMATICS-WORKBOOK-TERM-ONE",
-        "description": "Primary Two",
-        "price": 15000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.2-MATHEMATICS-WORKBOOK-TERM-ONE.pdf"
-      },
-      {
-        "title": "P.2-MTC-SET-5",
-        "description": "Primary Two",
-        "price": 25000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.2-MTC-SET-5.pdf"
-      },
-      {
-        "title": "P.2-MTC-SET-II",
-        "description": "Primary Two",
-        "price": 55000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.2-MTC-SET-II.pdf"
-      },
-      {
-        "title": "P.2-R.E-REVISION-SET-I-2021-MOTHERCARE-PREPARATORY-SCHOOLS",
-        "description": "Primary Two",
-        "price": 2000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.2-R.E-REVISION-SET-I-2021-MOTHERCARE-PREPARATORY-SCHOOLS.pdf"
-      },{
-        "title": "P.2-SETI LITTLE MUHEJI",
-        "description": "Primary Two",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.2-SETI LITTLE MUHEJI.pdf"
-      },
-      {
-        "title": "P.2-Week-3-pdf",
-        "description": "Primary Two",
-        "price": 15000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.2-Week-3-pdf.pdf"
-      },
-      {
-        "title": "P2 ENGLISH",
-        "description": "Primary Two",
-        "price": 25000,
-        "pdfUrl": "https://fresh-teacher.github.io/P2 ENGLISH.pdf"
-      },
-      {
-        "title": "P2 LITERACY I",
-        "description": "Primary Two",
-        "price": 55000,
-        "pdfUrl": "https://fresh-teacher.github.io/P2 LITERACY I.pdf"
-      },
-      {
-        "title": "P2 LITERACY II",
-        "description": "Primary Two",
-        "price": 2000,
-        "pdfUrl": "https://fresh-teacher.github.io/P2 LITERACY II.pdf"
-      },
-      {
-        "title": "P2 Material 2",
-        "description": "Primary Two",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/P2 Material 2.pdf"
-      },
-      {
-        "title": "P2 MATH",
-        "description": "Primary Two",
-        "price": 15000,
-        "pdfUrl": "https://fresh-teacher.github.io/P2 MATH.pdf"
-      },
-      {
-        "title": "P2 RE",
-        "description": "Primary Two",
-        "price": 25000,
-        "pdfUrl": "https://fresh-teacher.github.io/P2 RE.pdf"
-      },
-      {
-        "title": "P2 READING",
-        "description": "Primary Two",
-        "price": 55000,
-        "pdfUrl": "https://fresh-teacher.github.io/P2 READING.pdf"
-      },
-      {
-        "title": "P2-WORK-PDF (1) (1)",
-        "description": "Primary Two",
-        "price": 2500,
-        "pdfUrl": "https://fresh-teacher.github.io/P2-WORK-PDF (1) (1).pdf"
-      },{
-        "title": "P2WORK",
-        "description": "Primary Two",
-        "price": 37000,
-        "pdfUrl": "https://fresh-teacher.github.io/P2WORK.pdf"
-      },
-      {
-        "title": "PRIMARY 2 SET III 2020",
-        "description": "Primary Two",
-        "price": 13000,
-        "pdfUrl": "https://fresh-teacher.github.io/PRIMARY 2 SET III 2020.pdf"
-      }
-    ]
+  {
+    "title": "P. 2 Package   4",
+    "description": "Primary Two",
+    "price": 15000,
+    "pdfUrl": "Resources/Primary/P2/General/P.%202%20Package%20%20%204.pdf"
+  },
+  {
+    "title": "P.2 - THEOLOGY",
+    "description": "Primary Two",
+    "price": 25000,
+    "pdfUrl": "Resources/Primary/P1/CRE/P.2%20-%20THEOLOGY.pdf"
+  },
+  {
+    "title": "P.2 Eng Lockdown activity 2",
+    "description": "Primary Two",
+    "price": 55000,
+    "pdfUrl": "Resources/Primary/P1/English/P.2%20Eng%20Lockdown%20activity%202.pdf"
+  },
+  {
+    "title": "P.2 Eng Lockdown activity 2",
+    "description": "Primary Two",
+    "price": 2000,
+    "pdfUrl": "Resources/Primary/P1/English/P.2%20Eng%20Lockdown%20activity%202.pdf"
+  },
+  {
+    "title": "P.2 ENG",
+    "description": "Primary Two",
+    "price": 10000,
+    "pdfUrl": "Resources/Primary/P1/English/P.2%20ENG.pdf"
+  },
+  {
+    "title": "P.2 English Lockdown activity (2)",
+    "description": "Primary Two",
+    "price": 15000,
+    "pdfUrl": "Resources/Primary/P1/English/P.2%20English%20Lockdown%20activity%20(2).pdf"
+  },
+  {
+    "title": "P.2 English Lockdown activity (3)",
+    "description": "Primary Two",
+    "price": 25000,
+    "pdfUrl": "Resources/Primary/P1/English/P.2%20English%20Lockdown%20activity%20(3).pdf"
+  },
+  {
+    "title": "P.2 English Lockdown activity",
+    "description": "Primary Two",
+    "price": 55000,
+    "pdfUrl": "Resources/Primary/P1/English/P.2%20English%20Lockdown%20activity.pdf"
+  },
+  {
+    "title": "P.2 ENTRY EXAM",
+    "description": "Primary Two",
+    "price": 2000,
+    "pdfUrl": "Resources/Primary/P2/English/P.2%20ENTRY%20EXAM.pdf"
+  },
+  {
+    "title": "P.2 LEGIT MTC ISSUE 4 ",
+    "description": "Primary Two",
+    "price": 10000,
+    "pdfUrl": "Resources/Primary/P2/Mathematics/P.2%20LEGIT%20MTC%20ISSUE%204%20.pdf"
+  },
+  {
+    "title": "P.2 LIT 1 HP",
+    "description": "Primary Two",
+    "price": 15000,
+    "pdfUrl": "Resources/Primary/P1/Literacy/P.2%20LIT%201%20HP.pdf"
+  },
+  {
+    "title": "P.2 Literacy 1A Lockdown activitY (2)",
+    "description": "Primary Two",
+    "price": 25000,
+    "pdfUrl": "Resources/Primary/P1/Literacy/P.2%20Literacy%201A%20Lockdown%20activitY%20(2).pdf"
+  },
+  {
+    "title": "P.2 Literacy 1A Lockdown activity",
+    "description": "Primary Two",
+    "price": 55000,
+    "pdfUrl": "Resources/Primary/P1/Literacy/P.2%20Literacy%201A%20Lockdown%20activity.pdf"
+  },
+  {
+    "title": "P.2 Literacy 1A Lockdown activity",
+    "description": "Primary Two",
+    "price": 2500,
+    "pdfUrl": "Resources/Primary/P1/Literacy/P.2%20Literacy%201A%20Lockdown%20activity.pdf"
+  },
+  {
+    "title": "P.2 Literacy 1B Lockdown activity",
+    "description": "Primary Two",
+    "price": 37000,
+    "pdfUrl": "Resources/Primary/P1/Literacy/P.2%20Literacy%201B%20Lockdown%20activity.pdf"
+  },
+  {
+    "title": "P.2 Literacy1A Lockdown activity (2)",
+    "description": "Primary Two",
+    "price": 13000,
+    "pdfUrl": "Resources/Primary/P1/Literacy/P.2%20Literacy1A%20Lockdown%20activity%20(2).pdf"
+  },
+  {
+    "title": "P.2 Literacy1A Lockdown activity",
+    "description": "Primary Two",
+    "price": 45000,
+    "pdfUrl": "Resources/Primary/P1/Literacy/P.2%20Literacy1A%20Lockdown%20activity.pdf"
+  },
+  {
+    "title": "P.2 Mathematics Lockdown activity (2)",
+    "description": "Primary Two",
+    "price": 57500,
+    "pdfUrl": "Resources/Primary/P1/Mathematics/P.2%20Mathematics%20Lockdown%20activity%20(2).pdf"
+  },
+  {
+    "title": "P.2 Mathematics Lockdown activity",
+    "description": "Primary Two",
+    "price": 24800,
+    "pdfUrl": "Resources/Primary/P1/Mathematics/P.2%20Mathematics%20Lockdown%20activity.pdf"
+  },
+  {
+    "title": "P.2 MATHS",
+    "description": "Primary Two",
+    "price": 86000,
+    "pdfUrl": "Resources/Primary/P1/Mathematics/P.2%20MATHS.pdf"
+  },
+  {
+    "title": "P.2 SST Revision booklet",
+    "description": "Primary Two",
+    "price": 11000,
+    "pdfUrl": "Resources/Primary/P2/General/P.2%20SST%20Revision%20booklet.pdf"
+  },
+  {
+    "title": "P.2-ENG-SET-5",
+    "description": "Primary Two",
+    "price": 29000,
+    "pdfUrl": "Resources/Primary/P1/English/P.2-ENG-SET-5.pdf"
+  },
+  {
+    "title": "P.2-ENG-SET-II",
+    "description": "Primary Two",
+    "price": 95000,
+    "pdfUrl": "Resources/Primary/P1/English/P.2-ENG-SET-II.pdf"
+  },
+  {
+    "title": "P.2-ENGLISH-WORK-BOOK-TERM-ONE",
+    "description": "Primary Two",
+    "price": 29000,
+    "pdfUrl": "Resources/Primary/P2/English/P.2-ENGLISH-WORK-BOOK-TERM-ONE.pdf"
+  },
+  {
+    "title": "P.2-LIT-1-A-SET-5",
+    "description": "Primary Two",
+    "price": 12400,
+    "pdfUrl": "Resources/Primary/P1/Literacy/P.2-LIT-1-A-SET-5.pdf"
+  },
+  {
+    "title": "P.2-LIT-1-A-SET-5",
+    "description": "Primary Two",
+    "price": 15800,
+    "pdfUrl": "Resources/Primary/P1/Literacy/P.2-LIT-1-A-SET-5.pdf"
+  },
+  {
+    "title": "P.2-LIT-1-A-SET-II",
+    "description": "Primary Two",
+    "price": 82000,
+    "pdfUrl": "Resources/Primary/P1/Literacy/P.2-LIT-1-A-SET-II.pdf"
+  },
+  {
+    "title": "P.2-LIT-I-B-SET-5.pdf",
+    "description": "Primary Two",
+    "price": 53000,
+    "pdfUrl": "Resources/Primary/P1/Literacy/P.2-LIT-I-B-SET-5.pdf"
+  },
+  {
+    "title": "P.2-LIT-I-B-SET-II",
+    "description": "Primary Two",
+    "price": 13000,
+    "pdfUrl": "Resources/Primary/P1/Literacy/P.2-LIT-I-B-SET-II.pdf"
+  },
+  {
+    "title": "P.2-LITERACY-WORK-BOOK-TERM-ONE",
+    "description": "Primary Two",
+    "price": 10000,
+    "pdfUrl": "Resources/Primary/P2/Literacy/P.2-LITERACY-WORK-BOOK-TERM-ONE.pdf"
+  },
+  {
+    "title": "P.2-MATHEMATICS-WORKBOOK-TERM-ONE",
+    "description": "Primary Two",
+    "price": 15000,
+    "pdfUrl": "Resources/Primary/P2/Mathematics/P.2-MATHEMATICS-WORKBOOK-TERM-ONE.pdf"
+  },
+  {
+    "title": "P.2-MTC-SET-5",
+    "description": "Primary Two",
+    "price": 25000,
+    "pdfUrl": "Resources/Primary/P2/Mathematics/P.2-MTC-SET-5.pdf"
+  },
+  {
+    "title": "P.2-MTC-SET-II",
+    "description": "Primary Two",
+    "price": 55000,
+    "pdfUrl": "Resources/Primary/P2/Mathematics/P.2-MTC-SET-II.pdf"
+  },
+  {
+    "title": "P.2-R.E-REVISION-SET-I-2021-MOTHERCARE-PREPARATORY-SCHOOLS",
+    "description": "Primary Two",
+    "price": 2000,
+    "pdfUrl": "Resources/Primary/P1/Religious%20Education/P.2-R.E-REVISION-SET-I-2021-MOTHERCARE-PREPARATORY-SCHOOLS.pdf"
+  },
+  {
+    "title": "P.2-SETI LITTLE MUHEJI",
+    "description": "Primary Two",
+    "price": 10000,
+    "pdfUrl": "Resources/Primary/P2/General/P.2-SETI%20LITTLE%20MUHEJI.pdf"
+  },
+  {
+    "title": "P.2-Week-3-pdf",
+    "description": "Primary Two",
+    "price": 15000,
+    "pdfUrl": "Resources/Primary/P1/Packages/P.2-Week-3-pdf.pdf"
+  },
+  {
+    "title": "P2 ENGLISH",
+    "description": "Primary Two",
+    "price": 25000,
+    "pdfUrl": "Resources/Primary/P2/English/P2%20ENGLISH.pdf"
+  },
+  {
+    "title": "P2 LITERACY I",
+    "description": "Primary Two",
+    "price": 55000,
+    "pdfUrl": "Resources/Primary/P2/Literacy/P2%20LITERACY%20I.pdf"
+  },
+  {
+    "title": "P2 LITERACY II",
+    "description": "Primary Two",
+    "price": 2000,
+    "pdfUrl": "Resources/Primary/P2/Literacy/P2%20LITERACY%20II.pdf"
+  },
+  {
+    "title": "P2 Material 2",
+    "description": "Primary Two",
+    "price": 10000,
+    "pdfUrl": "Resources/Primary/P2/General/P2%20Material%202.pdf"
+  },
+  {
+    "title": "P2 MATH",
+    "description": "Primary Two",
+    "price": 15000,
+    "pdfUrl": "Resources/Primary/P2/Mathematics/P2%20MATH.pdf"
+  },
+  {
+    "title": "P2 RE",
+    "description": "Primary Two",
+    "price": 25000,
+    "pdfUrl": "Resources/Primary/P2/Religious%20Education/P2%20RE.pdf"
+  },
+  {
+    "title": "P2 READING",
+    "description": "Primary Two",
+    "price": 55000,
+    "pdfUrl": "Resources/Primary/P2/Reading/P2%20READING.pdf"
+  },
+  {
+    "title": "P2-WORK-PDF (1) (1)",
+    "description": "Primary Two",
+    "price": 2500,
+    "pdfUrl": "Resources/Primary/P2/General/P2-WORK-PDF%20(1)%20(1).pdf"
+  },
+  {
+    "title": "P2WORK",
+    "description": "Primary Two",
+    "price": 37000,
+    "pdfUrl": "Resources/Primary/P2/General/P2WORK.PDF"
+  },
+  {
+    "title": "PRIMARY 2 SET III 2020",
+    "description": "Primary Two",
+    "price": 13000,
+    "pdfUrl": "Resources/Primary/P2/General/PRIMARY%202%20SET%20III%202020.pdf"
+  }
+]

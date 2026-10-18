@@ -1,11 +1,11 @@
 [
-    {
+  {
     "title": "",
     "description": "P.1 Past Papers",
     "price": 5000,
     "pdfUrl": "https://fresh-teacher.github.io/p1/P.1 LUG END II.pdf"
-},
-    {
+  },
+  {
     "title": "",
     "description": "P.1 Past Papers",
     "price": 5000,
@@ -15,7 +15,7 @@
     "title": "",
     "description": "P.1 Past Papers",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p1/P.1 LUGANDA BOT III.pdf"
+    "pdfUrl": "Resources/Primary/P1/Luganda/P.1%20LUGANDA%20BOT%20III.pdf"
   },
   {
     "title": "",
@@ -33,6 +33,6 @@
     "title": "",
     "description": "P.1 Past Papers",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p1/P.1 LUG .pdf"
-}
+    "pdfUrl": "Resources/Primary/P1/Luganda/P.1%20LUG%20.pdf"
+  }
 ]

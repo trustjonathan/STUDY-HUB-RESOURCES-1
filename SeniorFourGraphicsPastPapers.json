@@ -1,15 +1,15 @@
 [
-{
-  "title": "",
-  "description": "Senior Four",
-  "price": 5000,
-  "pdfUrl": "https://fresh-teacher.github.io/s4/GRAPHICS form-4.pdf"
+  {
+    "title": "",
+    "description": "Senior Four",
+    "price": 5000,
+    "pdfUrl": "https://fresh-teacher.github.io/s4/GRAPHICS form-4.pdf"
   },
   {
     "title": "",
     "description": "Senior Four",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/s4/S.4 GRAPHICS 5 MOCK KING’S COLLEGE – BUDDO.pdf"
+    "pdfUrl": "Resources/O-Level/S4/Graphics/S.4%20GRAPHICS%205%20MOCK%20KING%E2%80%99S%20COLLEGE%20%E2%80%93%20BUDDO.pdf"
   },
   {
     "title": "",
@@ -21,6 +21,6 @@
     "title": "",
     "description": "Senior Four",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/s4/form-4 graphics.pdf"
+    "pdfUrl": "Resources/O-Level/S4/Graphics/form-4%20graphics.pdf"
   }
 ]

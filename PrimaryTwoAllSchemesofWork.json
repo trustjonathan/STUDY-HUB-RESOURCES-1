@@ -1,15 +1,15 @@
 [
-{
-  "title": "",
-  "description": "Primary Two",
-  "price": 5000,
-  "pdfUrl": "https://fresh-teacher.github.io/p2/P.2 SECOND TERM SCHEME.pdf"
+  {
+    "title": "",
+    "description": "Primary Two",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P2/English/P.2%20SECOND%20TERM%20SCHEME.pdf"
   },
   {
     "title": "",
     "description": "Primary Two",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p2/P.2 third term schemes.pdf"
+    "pdfUrl": "Resources/Primary/P2/Thematic/P.2%20third%20term%20schemes.pdf"
   },
   {
     "title": "",
@@ -27,7 +27,7 @@
     "title": "",
     "description": "Primary Two",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p2/P2 third term schemes.pdf"
+    "pdfUrl": "Resources/Primary/P2/Thematic/P2%20third%20term%20schemes.pdf"
   },
   {
     "title": "",
@@ -39,12 +39,12 @@
     "title": "",
     "description": "Primary Two",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p2/P.2 SCHEME TERM ONE.pdf"
+    "pdfUrl": "Resources/Primary/P2/Reading/P.2%20SCHEME%20TERM%20ONE.pdf"
   },
   {
     "title": "",
     "description": "Primary Two",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p2/P.2 SECOND TERM SCHEME All subject.pdf"
+    "pdfUrl": "Resources/Primary/P2/General/P.2%20SECOND%20TERM%20SCHEME%20All%20subject.pdf"
   }
 ]

@@ -3,27 +3,26 @@
     "title": "",
     "description": "Top Class",
     "price": 5000,
-    "pdfUrl": "https://freshteachers.vercel.app/TOP LA 4 BOT III.pdf"
-  },  
+    "pdfUrl": "Resources/Nursery/Top%20Class/Learning%20Areas/TOP%20LA%204%20BOT%20III.pdf"
+  },
   {
     "title": "",
     "description": "Top Class",
     "price": 5000,
-    "pdfUrl": "https://freshteachers.vercel.app/TOP LA 3 BOT III.pdf"
-  },  
+    "pdfUrl": "Resources/Nursery/Top%20Class/Learning%20Areas/TOP%20LA%203%20BOT%20III.pdf"
+  },
   {
     "title": "",
     "description": "Top Class",
     "price": 5000,
-    "pdfUrl": "https://freshteachers.vercel.app/TOP LA 2 BOT III.pdf"
-  },  
+    "pdfUrl": "Resources/Nursery/Top%20Class/Language%20Development/TOP%20LA%202%20BOT%20III.pdf"
+  },
   {
     "title": "",
     "description": "Top Class",
     "price": 5000,
-    "pdfUrl": "https://freshteachers.vercel.app/TOP LA 1 BOT III.pdf"
-  },  
-  
+    "pdfUrl": "Resources/Nursery/Top%20Class/Learning%20Areas/TOP%20LA%201%20BOT%20III.pdf"
+  },
   {
     "title": "",
     "description": "Top Class",
@@ -40,7 +39,7 @@
     "title": "",
     "description": "Top Class",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/nurseriez/TOP CLASS APTITUDE END OF TERM 3  EXAM 2017.pdf"
+    "pdfUrl": "Resources/Nursery/Top%20Class/Learning%20Areas/TOP%20CLASS%20APTITUDE%20END%20OF%20TERM%203%20%20EXAM%202017.pdf"
   },
   {
     "title": "",
@@ -64,7 +63,7 @@
     "title": "",
     "description": "Top Class",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/nurseriez/TOP CLASS HOLIDAY PACKAGE.pdf"
+    "pdfUrl": "Resources/Nursery/Top%20Class/Learning%20Areas/TOP%20CLASS%20HOLIDAY%20PACKAGE.pdf"
   },
   {
     "title": "",
@@ -82,7 +81,7 @@
     "title": "",
     "description": "Top Class",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/nurseriez/TOP CLASS READING.pdf"
+    "pdfUrl": "Resources/Nursery/Top%20Class/Learning%20Areas/Top%20Class%20Reading.pdf"
   },
   {
     "title": "",
@@ -94,7 +93,7 @@
     "title": "",
     "description": "Top Class",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/nurseriez/TOP CLASS TERM III HOLIDAY PACKAGE.pdf"
+    "pdfUrl": "Resources/Nursery/Top%20Class/Learning%20Areas/TOP%20CLASS%20TERM%20III%20HOLIDAY%20PACKAGE.pdf"
   },
   {
     "title": "",
@@ -162,106 +161,106 @@
     "price": 5000,
     "pdfUrl": "https://fresh-teacher.github.io/nurseriez/Top social development.pdf"
   },
-  
   {
     "title": "Kindergarden WORKBOOK",
     "description": "Top Class",
     "price": 10000,
-    "pdfUrl": "https://fresh-teacher.github.io/Kindergarden WORKBOOK.pdf"
+    "pdfUrl": "Resources/Nursery/Top%20Class/Learning%20Areas/Kindergarden%20WORKBOOK.pdf"
   },
-  
-      {
-        "title": "NURSERY WORKBOOK",
-        "description": "Top Class",
-        "price": 15000,
-        "pdfUrl": "https://fresh-teacher.github.io/NURSERY WORKBOOK.pdf"
-      },
-      {
-        "title": "Reading top class term III 2017",
-        "description": "Top Class",
-        "price": 25000,
-        "pdfUrl": "https://fresh-teacher.github.io/Reading top class term III 2017.pdf"
-      },
-      {
-        "title": "SOCIAL DEVELOPMENT TOP CLASS EOT 1_out",
-        "description": "Top Class",
-        "price": 55000,
-        "pdfUrl": "https://fresh-teacher.github.io/SOCIAL DEVELOPMENT TOP CLASS EOT 1_out.pdf"
-      },
-      {
-        "title": "TOP CLASS APTITUDE END OF TERM 3  EXAM 2017",
-        "description": "Top Class",
-        "price": 2000,
-        "pdfUrl": "https://fresh-teacher.github.io/TOP CLASS APTITUDE END OF TERM 3  EXAM 2017.pdf"
-      },{
-        "title": "TOP CLASS ENGLISH  RECESS PACKAGE, 2020 HORMISDALLEN SCHOOLS",
-        "description": "Top Class",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/TOP CLASS ENGLISH  RECESS PACKAGE, 2020 HORMISDALLEN SCHOOLS.pdf"
-      },
-      {
-        "title": "Top class Holiday Package 2022",
-        "description": "Top Class",
-        "price": 15000,
-        "pdfUrl": "https://fresh-teacher.github.io/Top class Holiday Package 2022.pdf"
-      },
-      {
-        "title": "TOP CLASS HOLIDAY PACKAGE",
-        "description": "Top Class",
-        "price": 25000,
-        "pdfUrl": "https://fresh-teacher.github.io/TOP CLASS HOLIDAY PACKAGE.pdf"
-      },
-      {
-        "title": "TOP CLASS Mathematics REVISION WORK ACTIVITY TWO",
-        "description": "Top Class",
-        "price": 55000,
-        "pdfUrl": "https://fresh-teacher.github.io/TOP CLASS Mathematics REVISION WORK ACTIVITY TWO.pdf"
-      },
-      {
-        "title": "TOP CLASS REVISION WORK ACTIVITY",
-        "description": "Top Class",
-        "price": 2000,
-        "pdfUrl": "https://fresh-teacher.github.io/TOP CLASS REVISION WORK ACTIVITY.pdf"
-      },{
-        "title": "TOP CLASS REVISION WORK",
-        "description": "Top Class",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/TOP CLASS REVISION WORK.pdf"
-      },
-      {
-        "title": "TOP CLASS REVISION",
-        "description": "Top Class",
-        "price": 15000,
-        "pdfUrl": "https://fresh-teacher.github.io/TOP CLASS REVISION.pdf"
-      },
-      {
-        "title": "TOP CLASS TERM III HOLIDAY PACKAGE",
-        "description": "Top Class",
-        "price": 25000,
-        "pdfUrl": "https://fresh-teacher.github.io/TOP CLASS TERM III HOLIDAY PACKAGE.pdf"
-      },
-      {
-        "title": "Top class weekly activities",
-        "description": "Top Class",
-        "price": 55000,
-        "pdfUrl": "https://fresh-teacher.github.io/Top class weekly activities.pdf"
-      },
-      {
-        "title": "TOP CLASS",
-        "description": "Top Class",
-        "price": 2500,
-        "pdfUrl": "https://fresh-teacher.github.io/TOP CLASS.pdf"
-      },
-      {
-        "title": "TOP_MIDDLE_AND_BABY_CLASS_ENGLISH_MATHEMATICAL_CONCEPTS_AND_GENERAL",
-        "description": "Top Class",
-        "price": 37000,
-        "pdfUrl": "https://fresh-teacher.github.io/TOP_MIDDLE_AND_BABY_CLASS_ENGLISH_MATHEMATICAL_CONCEPTS_AND_GENERAL.pdf"
-      },
-      {
-        "title": "TOP-CLASS-SET I",
-        "description": "Top Class",
-        "price": 13000,
-        "pdfUrl": "https://fresh-teacher.github.io/TOP-CLASS-SET I.pdf"
-      }
-    ]
+  {
+    "title": "NURSERY WORKBOOK",
+    "description": "Top Class",
+    "price": 15000,
+    "pdfUrl": "Resources/Nursery/Baby%20Class/Learning%20Areas/NURSERY%20WORKBOOK.pdf"
+  },
+  {
+    "title": "Reading top class term III 2017",
+    "description": "Top Class",
+    "price": 25000,
+    "pdfUrl": "Resources/Nursery/Top%20Class/Language%20Development%20II/Reading%20top%20class%20term%20III%202017.PDF"
+  },
+  {
+    "title": "SOCIAL DEVELOPMENT TOP CLASS EOT 1_out",
+    "description": "Top Class",
+    "price": 55000,
+    "pdfUrl": "Resources/Nursery/Top%20Class/Learning%20Areas/SOCIAL%20DEVELOPMENT%20TOP%20CLASS%20EOT%201_out.pdf"
+  },
+  {
+    "title": "TOP CLASS APTITUDE END OF TERM 3  EXAM 2017",
+    "description": "Top Class",
+    "price": 2000,
+    "pdfUrl": "Resources/Nursery/Top%20Class/Learning%20Areas/TOP%20CLASS%20APTITUDE%20END%20OF%20TERM%203%20%20EXAM%202017.pdf"
+  },
+  {
+    "title": "TOP CLASS ENGLISH  RECESS PACKAGE, 2020 HORMISDALLEN SCHOOLS",
+    "description": "Top Class",
+    "price": 10000,
+    "pdfUrl": "Resources/Nursery/Top%20Class/Language%20Development%20II/TOP%20CLASS%20ENGLISH%20%20RECESS%20PACKAGE%2C%202020%20HORMISDALLEN%20SCHOOLS.pdf"
+  },
+  {
+    "title": "Top class Holiday Package 2022",
+    "description": "Top Class",
+    "price": 15000,
+    "pdfUrl": "Resources/Nursery/Top%20Class/Learning%20Areas/Top%20class%20Holiday%20Package%202022.pdf"
+  },
+  {
+    "title": "TOP CLASS HOLIDAY PACKAGE",
+    "description": "Top Class",
+    "price": 25000,
+    "pdfUrl": "Resources/Nursery/Top%20Class/Learning%20Areas/TOP%20CLASS%20HOLIDAY%20PACKAGE.pdf"
+  },
+  {
+    "title": "TOP CLASS Mathematics REVISION WORK ACTIVITY TWO",
+    "description": "Top Class",
+    "price": 55000,
+    "pdfUrl": "Resources/Nursery/Top%20Class/Learning%20Areas/TOP%20CLASS%20Mathematics%20REVISION%20WORK%20ACTIVITY%20TWO.PDF"
+  },
+  {
+    "title": "TOP CLASS REVISION WORK ACTIVITY",
+    "description": "Top Class",
+    "price": 2000,
+    "pdfUrl": "Resources/Nursery/Top%20Class/Learning%20Areas/TOP%20CLASS%20REVISION%20WORK%20ACTIVITY.pdf"
+  },
+  {
+    "title": "TOP CLASS REVISION WORK",
+    "description": "Top Class",
+    "price": 10000,
+    "pdfUrl": "Resources/Nursery/Top%20Class/Learning%20Areas/TOP%20CLASS%20REVISION%20WORK.pdf"
+  },
+  {
+    "title": "TOP CLASS REVISION",
+    "description": "Top Class",
+    "price": 15000,
+    "pdfUrl": "Resources/Nursery/Top%20Class/Learning%20Areas/TOP%20CLASS%20REVISION.pdf"
+  },
+  {
+    "title": "TOP CLASS TERM III HOLIDAY PACKAGE",
+    "description": "Top Class",
+    "price": 25000,
+    "pdfUrl": "Resources/Nursery/Top%20Class/Learning%20Areas/TOP%20CLASS%20TERM%20III%20HOLIDAY%20PACKAGE.pdf"
+  },
+  {
+    "title": "Top class weekly activities",
+    "description": "Top Class",
+    "price": 55000,
+    "pdfUrl": "Resources/Nursery/Top%20Class/Learning%20Areas/Top%20class%20weekly%20activities.pdf"
+  },
+  {
+    "title": "TOP CLASS",
+    "description": "Top Class",
+    "price": 2500,
+    "pdfUrl": "Resources/Nursery/Top%20Class/Learning%20Areas/TOP%20CLASS.pdf"
+  },
+  {
+    "title": "TOP_MIDDLE_AND_BABY_CLASS_ENGLISH_MATHEMATICAL_CONCEPTS_AND_GENERAL",
+    "description": "Top Class",
+    "price": 37000,
+    "pdfUrl": "Resources/Nursery/Top%20Class/Learning%20Areas/TOP_MIDDLE_AND_BABY_CLASS_ENGLISH_MATHEMATICAL_CONCEPTS_AND_GENERAL.pdf"
+  },
+  {
+    "title": "TOP-CLASS-SET I",
+    "description": "Top Class",
+    "price": 13000,
+    "pdfUrl": "Resources/Nursery/Top%20Class/Learning%20Areas/TOP-CLASS-SET%20I.pdf"
+  }
+]

@@ -1,9 +1,9 @@
 [
-{
-  "title": "",
-  "description": "Primary One",
-  "price": 5000,
-  "pdfUrl": "https://fresh-teacher.github.io/p1/P.1 News Term One.pdf"
+  {
+    "title": "",
+    "description": "Primary One",
+    "price": 5000,
+    "pdfUrl": "https://fresh-teacher.github.io/p1/P.1 News Term One.pdf"
   },
   {
     "title": "",
@@ -27,6 +27,6 @@
     "title": "",
     "description": "Primary One",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p1/P.1 News Term One notes.pdf"
+    "pdfUrl": "Resources/Primary/P1/News/P.1%20News%20Term%20One%20notes.pdf"
   }
 ]

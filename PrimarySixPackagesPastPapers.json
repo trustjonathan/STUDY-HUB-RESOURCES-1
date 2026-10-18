@@ -1,9 +1,9 @@
 [
-{
-  "title": "",
-  "description": "Primary Six",
-  "price": 5000,
-  "pdfUrl": "https://fresh-teacher.github.io/p6/PRIMARY SIX MONDAY.pdf"
+  {
+    "title": "",
+    "description": "Primary Six",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P6/Packages/PRIMARY%20SIX%20MONDAY.pdf"
   },
   {
     "title": "",
@@ -63,13 +63,13 @@
     "title": "",
     "description": "Primary Six",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p6/HOMEWORK FOR P.6 TERM I.pdf"
+    "pdfUrl": "Resources/Primary/P6/Packages/HOMEWORK%20FOR%20P.6%20TERM%20I.pdf"
   },
   {
     "title": "",
     "description": "Primary Six",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p6/P. 6 package 4.pdf"
+    "pdfUrl": "Resources/Primary/P6/Packages/P.%206%20package%204.pdf"
   },
   {
     "title": "",
@@ -81,7 +81,7 @@
     "title": "",
     "description": "Primary Six",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p6/P.6 ALL SUBJECTS (2 SETS).pdf"
+    "pdfUrl": "Resources/Primary/P6/Packages/P.6%20ALL%20SUBJECTS%20(2%20SETS).pdf"
   },
   {
     "title": "",
@@ -93,7 +93,7 @@
     "title": "",
     "description": "Primary Six",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p6/P.6 HOLID PACKAGE TERM ONE  2020.pdf"
+    "pdfUrl": "Resources/Primary/P6/Packages/P.6%20HOLID%20PACKAGE%20TERM%20ONE%20%202020.pdf"
   },
   {
     "title": "",
@@ -135,7 +135,7 @@
     "title": "",
     "description": "Primary Six",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p6/P.6 SET 21.pdf"
+    "pdfUrl": "Resources/Primary/P6/Packages/P.6%20SET%2021.pdf"
   },
   {
     "title": "",
@@ -165,19 +165,19 @@
     "title": "",
     "description": "Primary Six",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p6/P6 Materials.pdf"
+    "pdfUrl": "Resources/Primary/P6/Packages/P6%20Materials.pdf"
   },
   {
     "title": "",
     "description": "Primary Six",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p6/P6 WORK TERM 1.pdf"
+    "pdfUrl": "Resources/Primary/P6/Packages/P6%20WORK%20TERM%201.pdf"
   },
   {
     "title": "",
     "description": "Primary Six",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p6/PRIMARY 6 SET III 2020.pdf"
+    "pdfUrl": "Resources/Primary/P6/Packages/PRIMARY%206%20SET%20III%202020.pdf"
   },
   {
     "title": "",
@@ -201,6 +201,6 @@
     "title": "",
     "description": "Primary Six",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p6/PRIMARY SIX MONDAY SOLUTIONS.pdf"
+    "pdfUrl": "Resources/Primary/P6/Packages/PRIMARY%20SIX%20MONDAY%20SOLUTIONS.pdf"
   }
 ]

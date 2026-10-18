@@ -1,5 +1,4 @@
 [
-
   {
     "title": "",
     "description": "Senior One",
@@ -16,7 +15,7 @@
     "title": "",
     "description": "Senior One",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/s1/S.1 PHYSICS ONE MONTH HOLIDAY WORK.pdf"
+    "pdfUrl": "Resources/O-Level/S1/Physics/S.1%20PHYSICS%20ONE%20MONTH%20HOLIDAY%20WORK.pdf"
   },
   {
     "title": "",
@@ -40,7 +39,7 @@
     "title": "",
     "description": "Senior One",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/s1/S.1-Physical-Education-activity-of-integration..pdf"
+    "pdfUrl": "Resources/O-Level/S1/Physics/S.1-Physical-Education-activity-of-integration..pdf"
   },
   {
     "title": "",
@@ -142,7 +141,7 @@
     "title": "",
     "description": "Senior One",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/s1/O_level Utec phy2.pdf"
+    "pdfUrl": "Resources/O-Level/S1/Physics/O_level%20Utec%20phy2.pdf"
   },
   {
     "title": "",
@@ -196,13 +195,13 @@
     "title": "",
     "description": "Senior One",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/s1/PHYSICS Q _ A.pdf"
+    "pdfUrl": "Resources/O-Level/S1/Physics/PHYSICS%20Q%20_%20A.pdf"
   },
   {
     "title": "",
     "description": "Senior One",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/s1/physics qn _ ans.pdf"
+    "pdfUrl": "Resources/O-Level/S1/Physics/physics%20qn%20_%20ans.pdf"
   },
   {
     "title": "",
@@ -214,7 +213,7 @@
     "title": "",
     "description": "Senior One",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/s1/S 1 PHY LECTURE 15.pdf"
+    "pdfUrl": "Resources/O-Level/S1/Physics/S%201%20PHY%20LECTURE%2015.pdf"
   },
   {
     "title": "",
@@ -239,5 +238,5 @@
     "description": "Senior One",
     "price": 5000,
     "pdfUrl": "https://fresh-teacher.github.io/s1/s.1 physics E.O.Y 2022.pdf"
-}
+  }
 ]

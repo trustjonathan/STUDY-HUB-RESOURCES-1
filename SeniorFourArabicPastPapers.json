@@ -1,5 +1,4 @@
 [
-
   {
     "title": "",
     "description": "Senior Four",
@@ -16,7 +15,7 @@
     "title": "",
     "description": "Senior Four",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/s4/S.4 ARABIC  PPP1.pdf"
+    "pdfUrl": "Resources/O-Level/S4/Arabic/S.4%20ARABIC%20%20PPP1.pdf"
   },
   {
     "title": "",
@@ -41,5 +40,5 @@
     "description": "Senior Four",
     "price": 5000,
     "pdfUrl": "https://fresh-teacher.github.io/s4/الثالثة الإعداد HOLIDAY PACKAGE.pdf"
-}
+  }
 ]

@@ -1,9 +1,9 @@
 [
-{
-  "title": "",
-  "description": "Primary Four",
-  "price": 5000,
-  "pdfUrl": "https://fresh-teacher.github.io/p5/P.4 S.ST Scheme of term 2-1.pdf"
+  {
+    "title": "",
+    "description": "Primary Four",
+    "price": 5000,
+    "pdfUrl": "https://fresh-teacher.github.io/p5/P.4 S.ST Scheme of term 2-1.pdf"
   },
   {
     "title": "",
@@ -39,19 +39,19 @@
     "title": "",
     "description": "Primary Four",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p4/P.4 SCIENCE SCHEME TERM 3.pdf"
+    "pdfUrl": "Resources/Primary/P4/General/P.4%20SCIENCE%20SCHEME%20TERM%203.pdf"
   },
   {
     "title": "",
     "description": "Primary Four",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p4/P.4 SCIENCE SCHEME TERM III.pdf"
+    "pdfUrl": "Resources/Primary/P4/General/P.4%20SCIENCE%20SCHEME%20TERM%20III.pdf"
   },
   {
     "title": "",
     "description": "Primary Four",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p4/P.4 SST SCHEME OF WORK TERM III.pdf"
+    "pdfUrl": "Resources/Primary/P4/General/P.4%20SST%20SCHEME%20OF%20WORK%20TERM%20III.pdf"
   },
   {
     "title": "",
@@ -123,13 +123,13 @@
     "title": "",
     "description": "Primary Four",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p4/P.4 COMPOSITION AND COMPREHENSION SCHEME TERM III.pdf"
+    "pdfUrl": "Resources/Primary/P4/General/P.4%20COMPOSITION%20AND%20COMPREHENSION%20SCHEME%20TERM%20III.pdf"
   },
   {
     "title": "",
     "description": "Primary Four",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p4/P.4 GRAMMAR SCHEME TERM III.pdf"
+    "pdfUrl": "Resources/Primary/P4/General/P.4%20GRAMMAR%20SCHEME%20TERM%20III.pdf"
   },
   {
     "title": "",
@@ -159,6 +159,6 @@
     "title": "",
     "description": "Primary Four",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p4/P.4 R.E SCHEME  TERM III.pdf"
+    "pdfUrl": "Resources/Primary/P4/General/P.4%20R.E%20SCHEME%20%20TERM%20III.pdf"
   }
 ]

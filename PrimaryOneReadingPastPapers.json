@@ -1,14 +1,15 @@
 [
-    {
-"title": "",
-"description": "P.1 Past Papers",
-"price": 5000,
-"pdfUrl": "https://fresh-teacher.github.io/p1/P.1 READING  E.O.T 2   2023.pdf"
-},
-{"title": "",
-"description": "P.1 Past Papers",
-"price": 5000,
-"pdfUrl": "https://fresh-teacher.github.io/p1/P.1 EXAMINATION.pdf"
+  {
+    "title": "",
+    "description": "P.1 Past Papers",
+    "price": 5000,
+    "pdfUrl": "https://fresh-teacher.github.io/p1/P.1 READING  E.O.T 2   2023.pdf"
+  },
+  {
+    "title": "",
+    "description": "P.1 Past Papers",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P1/Reading/P.1%20EXAMINATION.pdf"
   },
   {
     "title": "",
@@ -20,7 +21,7 @@
     "title": "",
     "description": "P.1 Past Papers",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p1/P.1 READING BOT III.pdf"
+    "pdfUrl": "Resources/Primary/P1/Reading/P.1%20READING%20BOT%20III.pdf"
   },
   {
     "title": "",
@@ -38,25 +39,25 @@
     "title": "",
     "description": "P.1 Past Papers",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p1/P.1 READING set 2.pdf"
+    "pdfUrl": "Resources/Primary/P1/Reading/P.1%20READING%20set%202.pdf"
   },
   {
     "title": "",
     "description": "P.1 Past Papers",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p1/P.1 READING TERM III.pdf"
+    "pdfUrl": "Resources/Primary/P1/Reading/P.1%20READING%20TERM%20III.pdf"
   },
   {
     "title": "",
     "description": "P.1 Past Papers",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p1/P.1 READING WEEK2.pdf"
+    "pdfUrl": "Resources/Primary/P1/Reading/P.1%20READING%20WEEK2.pdf"
   },
   {
     "title": "",
     "description": "P.1 Past Papers",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p1/P.1 READING.pdf"
+    "pdfUrl": "Resources/Primary/P1/Reading/P.1%20READING.pdf"
   },
   {
     "title": "",
@@ -74,7 +75,7 @@
     "title": "",
     "description": "P.1 Past Papers",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p1/p.1-reading.pdf"
+    "pdfUrl": "Resources/Primary/P1/Reading/p.1-reading.pdf"
   },
   {
     "title": "",
@@ -92,7 +93,7 @@
     "title": "",
     "description": "P.1 Past Papers",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p1/P1 READING (2).pdf"
+    "pdfUrl": "Resources/Primary/P1/Reading/P1%20READING%20(2).pdf"
   },
   {
     "title": "",
@@ -104,7 +105,7 @@
     "title": "",
     "description": "P.1 Past Papers",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p1/P1 READING.pdf"
+    "pdfUrl": "Resources/Primary/P1/Reading/P1%20READING.pdf"
   },
   {
     "title": "",
@@ -140,6 +141,6 @@
     "title": "",
     "description": "P.1 Past Papers",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p1/P.1  READ.pdf"
-}
+    "pdfUrl": "Resources/Primary/P1/Reading/P.1%20%20READ.pdf"
+  }
 ]

@@ -93,7 +93,7 @@
     "title": "",
     "description": "Primary Six",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/primary/P6 SST SCHEME TERM II.pdf"
+    "pdfUrl": "Resources/Primary/P5/Social%20Studies/P6%20SST%20SCHEME%20TERM%20II.pdf"
   },
   {
     "title": "",
@@ -105,310 +105,312 @@
     "title": "SST SCHEME P.6 TERM ONE",
     "description": "SST",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/SST SCHEME P.6 TERM ONE.pdf"
+    "pdfUrl": "Resources/Primary/P6/Social%20Studies/SST%20SCHEME%20P.6%20TERM%20ONE.pdf"
   },
-  
-      {
-        "title": "scheme of work english p.6 term 1",
-        "description": "English",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/scheme of work english p.6 term 1.pdf"
-      },
-      {
-        "title": "MTC P.6 SCHEME OF WORK TERM ONE 1",
-        "description": "MTC",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/MTC P.6 SCHEME OF WORK TERM ONE 1.pdf"
-      },
-      {
-        "title": "MTC P.6 SCHEME OF WORK TERM ONE",
-        "description": "MTC",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/MTC P.6 SCHEME OF WORK TERM ONE.pdf"
-      },
-      {
-        "title": "P.6 Art Term 2",
-        "description": "Art",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 Art Term 2.pdf"
-      },
-      {
-        "title": "P.6 Art Term III",
-        "description": "Art",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 Art Term III.pdf"
-      },
-      {
-        "title": "P.6 Composition scheme of work term one",
-        "description": "English",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 Composition scheme of work term one.pdf"
-      },
-      {
-        "title": "p.6 composition scheme term 3",
-        "description": "English",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/p.6 composition scheme term 3.pdf"
-      },
-      {
-        "title": "p.6 comprehension scheme of work for term 2",
-        "description": "English",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/p.6 comprehension scheme of work for term 2.pdf"
-      },
-      {
-        "title": "P.6 comprehension term 1",
-        "description": "English",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 comprehension term 1.pdf"
-      },
-      {
-        "title": "p.6 comprehension term iii",
-        "description": "English",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/p.6 comprehension term iii.pdf"
-      },
-      {
-        "title": "P.6 CRE TERM II SCHEME",
-        "description": "CRE",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 CRE TERM II SCHEME.pdf"
-      },
-      {
-        "title": "p.6 eng term 3 scheme",
-        "description": "English",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/p.6 eng term 3 scheme.pdf"
-      },
-      {
-        "title": "P.6 ENGLISH SCHEME OF WORK TERM I",
-        "description": "English",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 ENGLISH SCHEME OF WORK TERM I.pdf"
-      },
-      {
-        "title": "P.6 Grammar scheme of work term 1",
-        "description": "English",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 Grammar scheme of work term 1.pdf"
-      },
-      {
-        "title": "p.6 grammar term one",
-        "description": "English",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/p.6 grammar term one.pdf"
-      },
-      {
-        "title": "p.6 mtc term 2",
-        "description": "Mathematics",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/p.6 mtc term 2.pdf"
-      },
-      {
-        "title": "P.6 MTC term 3",
-        "description": "Mathematics",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 MTC term 3.pdf"
-      },
-      {
-        "title": "P.6 MTC TERM ONE",
-        "description": "Mathematics",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 MTC TERM ONE.pdf"
-      },
-      {
-        "title": "P.6 R.E  TERM 111",
-        "description": "Religious Education",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 R.E  TERM 111.pdf"
-      },
-      {
-        "title": "P.6 R.E SCHEME OF WORK term one",
-        "description": "Religious Education",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 R.E SCHEME OF WORK term one.pdf"
-      },
-      {
-        "title": "P.6 R.E SCHEME TERM ONE",
-        "description": "Religious Education",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 R.E SCHEME TERM ONE.pdf"
-      },
-      {
-        "title": "P.6 SCHEME SCIENCE TERM I",
-        "description": "SCIENCE",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 SCHEME SCIENCE TERM I.pdf"
-      },
-      {
-        "title": "P.6 Schemes CRE Term I",
-        "description": "SCIENCE",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 Schemes CRE Term I.pdf"
-      },
-      {
-        "title": "P.6 SCI SCHEME OF WORK term ii",
-        "description": "Science",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 SCI SCHEME OF WORK term ii.pdf"
-      },
-      {
-        "title": "P.6 SCIE SCHEME OF WORK TERM 1",
-        "description": "Science",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 SCIE SCHEME OF WORK TERM 1.pdf"
-      },
-      {
-        "title": "P.6 SCIENCE SCHEMES OF WORK TERM ONE",
-        "description": "Science",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 SCIENCE SCHEMES OF WORK TERM ONE.pdf"
-      },{
-        "title": "P.6 Science term one",
-        "description": "Science",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 Science term one.pdf"
-      },
-      {
-        "title": "P.6 SST SCHEME TERM 1",
-        "description": "SST",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 SST SCHEME TERM 1.pdf"
-      },
-      {
-        "title": "P.6 sst scheme term 1II",
-        "description": "SST",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 sst scheme term 1II.pdf"
-      },
-      {
-        "title": "p.6 sst scheme term one",
-        "description": "SST",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/p.6 sst scheme term one.pdf"
-      },
-      {
-        "title": "p.6 sst second term",
-        "description": "SST",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/p.6 sst second term.pdf"
-      },
-      {
-        "title": "P.6 SST term 3",
-        "description": "SST",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 SST term 3.pdf"
-      },
-      {
-        "title": "P.6 SST termII",
-        "description": "SST",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 SST termII.pdf"
-      },
-      {
-        "title": "P6 SST Schemes of work",
-        "description": "SST",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P6 SST Schemes of work.pdf"
-      },
-      {
-        "title": "P.6 COMPOSITION AND COMPREHENSION TERM 2 SCHEME",
-        "description": "ENGLISH",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 COMPOSITION AND COMPREHENSION TERM 2 SCHEME.pdf"
-      },
-      
-      {
-        "title": "P.6 ENGLISH COMPOSITION AND COMPREHENSION SCHEME TERM III",
-        "description": "ENGLISH",
-        "price": 15000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 ENGLISH COMPOSITION AND COMPREHENSION SCHEME TERM III.pdf"
-      },
-      {
-        "title": "P.6 ENGLISH SCHEME COMPOSITION AND COMPREHENSION TERM 1",
-        "description": "ENGLISH",
-        "price": 25000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 ENGLISH SCHEME COMPOSITION AND COMPREHENSION TERM 1.pdf"
-      },
-      {
-        "title": "P.6 ENGLISH SCHEME GRAMMAR TERM I",
-        "description": "ENGLISH",
-        "price": 55000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 ENGLISH SCHEME GRAMMAR TERM I.pdf"
-      },
-      {
-        "title": "P.6 GRAMMAR  SCHEME TERM II",
-        "description": "ENGLISH",
-        "price": 2000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 GRAMMAR  SCHEME TERM II.pdf"
-      },{
-        "title": "P.6 GRAMMAR SCHEME TERM III",
-        "description": "ENGLISH",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 GRAMMAR SCHEME TERM III.pdf"
-      },
-      {
-        "title": "P.6 MATHEMATICS SCHEME  TERM 2",
-        "description": "MATHEMATICS",
-        "price": 15000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 MATHEMATICS SCHEME  TERM 2.pdf"
-      },
-      {
-        "title": "P.6 MATHEMATICS SCHEME TERM 1",
-        "description": "MATHEMATICS",
-        "price": 25000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 MATHEMATICS SCHEME TERM 1.pdf"
-      },
-      {
-        "title": "SP.6 R.E SCHEME TERM 1",
-        "description": "RELIGIOUS EDUCATION",
-        "price": 55000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 R.E SCHEME TERM 1.pdf"
-      },
-      {
-        "title": "P.6 R.E SCHEME TERM II",
-        "description": "RELIGIOUS EDUCATION",
-        "price": 2000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 R.E SCHEME TERM II.pdf"
-      },{
-        "title": "P.6 R.E SCHEME TERM III",
-        "description": "RELIGIOUS EDUCATION",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 R.E SCHEME TERM III.pdf"
-      },
-      {
-        "title": "P.6 SCIENCE SCHEME TERM II",
-        "description": "SCIENCE",
-        "price": 15000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 SCIENCE SCHEME TERM II.pdf"
-      },
-      {
-        "title": "P.6 SCIENCE SCHEME TERM III",
-        "description": "SCIENCE",
-        "price": 25000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 SCIENCE SCHEME TERM III.pdf"
-      },
-      {
-        "title": "P.6 SST SCHEME TERM 1",
-        "description": "Social Studies",
-        "price": 55000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 SST SCHEME TERM 1.pdf"
-      },
-      {
-        "title": "P.6 SST SCHEME TERM 2",
-        "description": "Social Studies",
-        "price": 2500,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 SST SCHEME TERM 2.pdf"
-      },{
-        "title": "P.6 SST SCHEME TERM 3",
-        "description": "Social Studies",
-        "price": 37000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 SST SCHEME TERM 3.pdf"
-      },
-      {
-        "title": "PRIMARY SIX SCIENCE SHEME OF WORK",
-        "description": "SCIENCE",
-        "price": 13000,
-        "pdfUrl": "https://fresh-teacher.github.io/PRIMARY SIX SCIENCE SHEME OF WORK.pdf"
-      }
-    ]
+  {
+    "title": "scheme of work english p.6 term 1",
+    "description": "English",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P6/English/scheme%20of%20work%20english%20p.6%20term%201.pdf"
+  },
+  {
+    "title": "MTC P.6 SCHEME OF WORK TERM ONE 1",
+    "description": "MTC",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P6/Mathematics/MTC%20P.6%20SCHEME%20OF%20WORK%20TERM%20ONE%201.pdf"
+  },
+  {
+    "title": "MTC P.6 SCHEME OF WORK TERM ONE",
+    "description": "MTC",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P6/Mathematics/MTC%20P.6%20SCHEME%20OF%20WORK%20TERM%20ONE.pdf"
+  },
+  {
+    "title": "P.6 Art Term 2",
+    "description": "Art",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P6/Art%20%26%20Design/P.6%20Art%20Term%202.pdf"
+  },
+  {
+    "title": "P.6 Art Term III",
+    "description": "Art",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P6/Art%20%26%20Design/P.6%20Art%20Term%20III.pdf"
+  },
+  {
+    "title": "P.6 Composition scheme of work term one",
+    "description": "English",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P6/English/P.6%20Composition%20scheme%20of%20work%20term%20one.pdf"
+  },
+  {
+    "title": "p.6 composition scheme term 3",
+    "description": "English",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P6/English/p.6%20composition%20scheme%20term%203.pdf"
+  },
+  {
+    "title": "p.6 comprehension scheme of work for term 2",
+    "description": "English",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P6/English/p.6%20comprehension%20scheme%20of%20work%20for%20term%202.pdf"
+  },
+  {
+    "title": "P.6 comprehension term 1",
+    "description": "English",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P6/English/P.6%20comprehension%20term%201.pdf"
+  },
+  {
+    "title": "p.6 comprehension term iii",
+    "description": "English",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P6/English/p.6%20comprehension%20term%20iii.pdf"
+  },
+  {
+    "title": "P.6 CRE TERM II SCHEME",
+    "description": "CRE",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P6/Religious%20Education/P.6%20CRE%20TERM%20II%20SCHEME.pdf"
+  },
+  {
+    "title": "p.6 eng term 3 scheme",
+    "description": "English",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P6/English/p.6%20eng%20term%203%20scheme.pdf"
+  },
+  {
+    "title": "P.6 ENGLISH SCHEME OF WORK TERM I",
+    "description": "English",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P6/English/P.6%20ENGLISH%20SCHEME%20OF%20WORK%20TERM%20I.pdf"
+  },
+  {
+    "title": "P.6 Grammar scheme of work term 1",
+    "description": "English",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P6/English/P.6%20Grammar%20scheme%20of%20work%20term%201.pdf"
+  },
+  {
+    "title": "p.6 grammar term one",
+    "description": "English",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P6/English/p.6%20grammar%20term%20one.pdf"
+  },
+  {
+    "title": "p.6 mtc term 2",
+    "description": "Mathematics",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P6/Mathematics/p.6%20mtc%20term%202.pdf"
+  },
+  {
+    "title": "P.6 MTC term 3",
+    "description": "Mathematics",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P6/Mathematics/P.6%20MTC%20term%203.pdf"
+  },
+  {
+    "title": "P.6 MTC TERM ONE",
+    "description": "Mathematics",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P6/Mathematics/P.6%20MTC%20TERM%20ONE.pdf"
+  },
+  {
+    "title": "P.6 R.E  TERM 111",
+    "description": "Religious Education",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P6/Religious%20Education/P.6%20R.E%20%20TERM%20111.pdf"
+  },
+  {
+    "title": "P.6 R.E SCHEME OF WORK term one",
+    "description": "Religious Education",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P6/Religious%20Education/P.6%20R.E%20SCHEME%20OF%20WORK%20term%20one.pdf"
+  },
+  {
+    "title": "P.6 R.E SCHEME TERM ONE",
+    "description": "Religious Education",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P6/Religious%20Education/P.6%20R.E%20SCHEME%20TERM%20ONE.pdf"
+  },
+  {
+    "title": "P.6 SCHEME SCIENCE TERM I",
+    "description": "SCIENCE",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P6/Science/P.6%20SCHEME%20SCIENCE%20TERM%20I.pdf"
+  },
+  {
+    "title": "P.6 Schemes CRE Term I",
+    "description": "SCIENCE",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P6/Religious%20Education/P.6%20Schemes%20CRE%20Term%20I.pdf"
+  },
+  {
+    "title": "P.6 SCI SCHEME OF WORK term ii",
+    "description": "Science",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P6/Science/P.6%20SCI%20SCHEME%20OF%20WORK%20term%20ii.pdf"
+  },
+  {
+    "title": "P.6 SCIE SCHEME OF WORK TERM 1",
+    "description": "Science",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P6/Science/P.6%20SCIE%20SCHEME%20OF%20WORK%20TERM%201.pdf"
+  },
+  {
+    "title": "P.6 SCIENCE SCHEMES OF WORK TERM ONE",
+    "description": "Science",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P6/Science/P.6%20SCIENCE%20SCHEMES%20OF%20WORK%20TERM%20ONE.pdf"
+  },
+  {
+    "title": "P.6 Science term one",
+    "description": "Science",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P6/Science/P.6%20Science%20term%20one.pdf"
+  },
+  {
+    "title": "P.6 SST SCHEME TERM 1",
+    "description": "SST",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P6/Social%20Studies/P.6%20SST%20SCHEME%20TERM%201.pdf"
+  },
+  {
+    "title": "P.6 sst scheme term 1II",
+    "description": "SST",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P6/Social%20Studies/P.6%20sst%20scheme%20term%201II.pdf"
+  },
+  {
+    "title": "p.6 sst scheme term one",
+    "description": "SST",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P6/Social%20Studies/p.6%20sst%20scheme%20term%20one.pdf"
+  },
+  {
+    "title": "p.6 sst second term",
+    "description": "SST",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P6/Social%20Studies/p.6%20sst%20second%20term.pdf"
+  },
+  {
+    "title": "P.6 SST term 3",
+    "description": "SST",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P6/Social%20Studies/P.6%20SST%20term%203.pdf"
+  },
+  {
+    "title": "P.6 SST termII",
+    "description": "SST",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P6/Social%20Studies/P.6%20SST%20termII.pdf"
+  },
+  {
+    "title": "P6 SST Schemes of work",
+    "description": "SST",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P6/Social%20Studies/P6%20SST%20Schemes%20of%20work.pdf"
+  },
+  {
+    "title": "P.6 COMPOSITION AND COMPREHENSION TERM 2 SCHEME",
+    "description": "ENGLISH",
+    "price": 10000,
+    "pdfUrl": "Resources/Primary/P6/General/P.6%20COMPOSITION%20AND%20COMPREHENSION%20TERM%202%20SCHEME.pdf"
+  },
+  {
+    "title": "P.6 ENGLISH COMPOSITION AND COMPREHENSION SCHEME TERM III",
+    "description": "ENGLISH",
+    "price": 15000,
+    "pdfUrl": "Resources/Primary/P6/General/P.6%20ENGLISH%20COMPOSITION%20AND%20COMPREHENSION%20SCHEME%20TERM%20III.pdf"
+  },
+  {
+    "title": "P.6 ENGLISH SCHEME COMPOSITION AND COMPREHENSION TERM 1",
+    "description": "ENGLISH",
+    "price": 25000,
+    "pdfUrl": "Resources/Primary/P6/General/P.6%20ENGLISH%20SCHEME%20COMPOSITION%20AND%20COMPREHENSION%20TERM%201.pdf"
+  },
+  {
+    "title": "P.6 ENGLISH SCHEME GRAMMAR TERM I",
+    "description": "ENGLISH",
+    "price": 55000,
+    "pdfUrl": "Resources/Primary/P6/General/P.6%20ENGLISH%20SCHEME%20GRAMMAR%20TERM%20I.pdf"
+  },
+  {
+    "title": "P.6 GRAMMAR  SCHEME TERM II",
+    "description": "ENGLISH",
+    "price": 2000,
+    "pdfUrl": "Resources/Primary/P6/General/P.6%20GRAMMAR%20%20SCHEME%20TERM%20II.pdf"
+  },
+  {
+    "title": "P.6 GRAMMAR SCHEME TERM III",
+    "description": "ENGLISH",
+    "price": 10000,
+    "pdfUrl": "Resources/Primary/P6/General/P.6%20GRAMMAR%20SCHEME%20TERM%20III.pdf"
+  },
+  {
+    "title": "P.6 MATHEMATICS SCHEME  TERM 2",
+    "description": "MATHEMATICS",
+    "price": 15000,
+    "pdfUrl": "Resources/Primary/P6/General/P.6%20MATHEMATICS%20SCHEME%20%20TERM%202.pdf"
+  },
+  {
+    "title": "P.6 MATHEMATICS SCHEME TERM 1",
+    "description": "MATHEMATICS",
+    "price": 25000,
+    "pdfUrl": "Resources/Primary/P6/General/P.6%20MATHEMATICS%20SCHEME%20TERM%201.pdf"
+  },
+  {
+    "title": "SP.6 R.E SCHEME TERM 1",
+    "description": "RELIGIOUS EDUCATION",
+    "price": 55000,
+    "pdfUrl": "Resources/Primary/P6/General/P.6%20R.E%20SCHEME%20TERM%201.pdf"
+  },
+  {
+    "title": "P.6 R.E SCHEME TERM II",
+    "description": "RELIGIOUS EDUCATION",
+    "price": 2000,
+    "pdfUrl": "Resources/Primary/P6/General/P.6%20R.E%20SCHEME%20TERM%20II.pdf"
+  },
+  {
+    "title": "P.6 R.E SCHEME TERM III",
+    "description": "RELIGIOUS EDUCATION",
+    "price": 10000,
+    "pdfUrl": "Resources/Primary/P6/General/P.6%20R.E%20SCHEME%20TERM%20III.pdf"
+  },
+  {
+    "title": "P.6 SCIENCE SCHEME TERM II",
+    "description": "SCIENCE",
+    "price": 15000,
+    "pdfUrl": "Resources/Primary/P6/General/P.6%20SCIENCE%20SCHEME%20TERM%20II.pdf"
+  },
+  {
+    "title": "P.6 SCIENCE SCHEME TERM III",
+    "description": "SCIENCE",
+    "price": 25000,
+    "pdfUrl": "Resources/Primary/P6/General/P.6%20SCIENCE%20SCHEME%20TERM%20III.pdf"
+  },
+  {
+    "title": "P.6 SST SCHEME TERM 1",
+    "description": "Social Studies",
+    "price": 55000,
+    "pdfUrl": "Resources/Primary/P6/Social%20Studies/P.6%20SST%20SCHEME%20TERM%201.pdf"
+  },
+  {
+    "title": "P.6 SST SCHEME TERM 2",
+    "description": "Social Studies",
+    "price": 2500,
+    "pdfUrl": "Resources/Primary/P6/General/P.6%20SST%20SCHEME%20TERM%202.pdf"
+  },
+  {
+    "title": "P.6 SST SCHEME TERM 3",
+    "description": "Social Studies",
+    "price": 37000,
+    "pdfUrl": "Resources/Primary/P6/General/P.6%20SST%20SCHEME%20TERM%203.pdf"
+  },
+  {
+    "title": "PRIMARY SIX SCIENCE SHEME OF WORK",
+    "description": "SCIENCE",
+    "price": 13000,
+    "pdfUrl": "Resources/Primary/P6/General/PRIMARY%20SIX%20SCIENCE%20SHEME%20OF%20WORK.pdf"
+  }
+]

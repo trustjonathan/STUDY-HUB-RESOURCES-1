@@ -1,32 +1,32 @@
 [
-    {
-        "title": "",
-        "description": "Primary Seven",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/primary/MOCK PREPARATION SET ONE.pdf"
-      },
-      {
-        "title": "",
-        "description": "Primary Seven",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/primary/P.7-R.E-Int-End-EXAM_TEACHER.AC_.pdf"
-      },
-      {
-        "title": "",
-        "description": "Primary Seven",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/primary/P7 RELIGIOUS EDUCATION 20199.pdf"
-      },
-      {
-        "title": "",
-        "description": "Primary Seven",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/R.E 2.pdf"
-      },
-      {
-        "title": "",
-        "description": "Primary Seven",
-        "price": 5000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.7 RE SET XXV.pdf"
-    }
+  {
+    "title": "",
+    "description": "Primary Seven",
+    "price": 5000,
+    "pdfUrl": "https://fresh-teacher.github.io/primary/MOCK PREPARATION SET ONE.pdf"
+  },
+  {
+    "title": "",
+    "description": "Primary Seven",
+    "price": 5000,
+    "pdfUrl": "https://fresh-teacher.github.io/primary/P.7-R.E-Int-End-EXAM_TEACHER.AC_.pdf"
+  },
+  {
+    "title": "",
+    "description": "Primary Seven",
+    "price": 5000,
+    "pdfUrl": "https://fresh-teacher.github.io/primary/P7 RELIGIOUS EDUCATION 20199.pdf"
+  },
+  {
+    "title": "",
+    "description": "Primary Seven",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P7/Religious%20Education/R.E%202.pdf"
+  },
+  {
+    "title": "",
+    "description": "Primary Seven",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P7/Religious%20Education/P.7%20RE%20SET%20XXV.pdf"
+  }
 ]

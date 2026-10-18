@@ -1,16 +1,15 @@
 [
-  
   {
     "title": "",
     "description": "Primary Two",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p2/P.2 Literacy One All Terms.pdf"
+    "pdfUrl": "Resources/Primary/P2/Literacy/P.2%20Literacy%20One%20All%20Terms.pdf"
   },
   {
     "title": "",
     "description": "Primary Two",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p2/P.2 Literacy One Term Three.pdf"
+    "pdfUrl": "Resources/Primary/P2/Literacy/P.2%20Literacy%20One%20Term%20Three.pdf"
   },
   {
     "title": "",
@@ -70,12 +69,12 @@
     "title": "",
     "description": "Primary Two",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p2/P.2 LIT.pdf"
+    "pdfUrl": "Resources/Primary/P2/Literacy/P.2%20LIT.pdf"
   },
   {
     "title": "",
     "description": "Primary Two",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p2/P.2 LITERACY LESSON NOTES TERM II.pdf"
+    "pdfUrl": "Resources/Primary/P2/Literacy/P.2%20LITERACY%20LESSON%20NOTES%20TERM%20II.pdf"
   }
 ]

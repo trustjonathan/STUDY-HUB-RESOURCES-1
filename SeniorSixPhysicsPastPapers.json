@@ -849,7 +849,7 @@
     "title": "",
     "description": "Senior Six",
     "price": 5000,
-    "pdfUrl": "https://s6-fresh-teacher.vercel.app/S.6 PHYSICS SEMINAR 2022.pdf"
+    "pdfUrl": "Resources/A-Level/S6/Physics/S.6%20PHYSICS%20SEMINAR%202022.pdf"
   },
   {
     "title": "",
@@ -1023,7 +1023,7 @@
     "title": "",
     "description": "Senior Six",
     "price": 5000,
-    "pdfUrl": "https://s6-fresh-teacher.vercel.app/seminar S.6 P1 PHY SEETA HS GREEN.pdf"
+    "pdfUrl": "Resources/A-Level/S6/Physics/seminar%20S.6%20P1%20PHY%20SEETA%20HS%20GREEN.pdf"
   },
   {
     "title": "",
@@ -1743,7 +1743,7 @@
     "title": "",
     "description": "Senior Six",
     "price": 5000,
-    "pdfUrl": "https://s6-fresh-teacher.vercel.app/UMTA P510 P1.pdf"
+    "pdfUrl": "Resources/A-Level/S6/Physics/UMTA%20P510%20P1.pdf"
   },
   {
     "title": "",
@@ -1773,7 +1773,7 @@
     "title": "",
     "description": "Senior Six",
     "price": 5000,
-    "pdfUrl": "https://s6-fresh-teacher.vercel.app/UMTA PHY1 UACE GUIDE 2022.pdf"
+    "pdfUrl": "Resources/A-Level/S6/Physics/UMTA%20PHY1%20UACE%20GUIDE%202022.pdf"
   },
   {
     "title": "",
@@ -1941,7 +1941,7 @@
     "title": "",
     "description": "Senior Six",
     "price": 5000,
-    "pdfUrl": "https://s6-fresh-teacher.vercel.app/WAKATA-MOCKS-2020.pdf"
+    "pdfUrl": "Resources/A-Level/S6/Physics/WAKATA-MOCKS-2020.pdf"
   },
   {
     "title": "",
@@ -1997,4 +1997,4 @@
     "price": 5000,
     "pdfUrl": "https://s6-fresh-teacher.vercel.app/Wakissha S6 Physics P1.pdf"
   }
-    ]
+]

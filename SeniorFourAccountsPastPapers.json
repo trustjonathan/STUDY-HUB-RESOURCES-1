@@ -1,15 +1,15 @@
 [
-{
-  "title": "",
-  "description": "Senior Four",
-  "price": 5000,
-  "pdfUrl": "https://fresh-teacher.github.io/s4/O ACCOUNTS P1.pdf"
+  {
+    "title": "",
+    "description": "Senior Four",
+    "price": 5000,
+    "pdfUrl": "Resources/O-Level/S4/Accounts/O%20ACCOUNTS%20P1.pdf"
   },
   {
     "title": "",
     "description": "Senior Four",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/s4/S.4 ACC PP1 ELITE EXAMS.pdf"
+    "pdfUrl": "Resources/O-Level/S4/Accounts/S.4%20ACC%20PP1%20ELITE%20EXAMS.pdf"
   },
   {
     "title": "",
@@ -21,6 +21,6 @@
     "title": "",
     "description": "Senior Four",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/s4/ACC MUKONO EXAMINATION COUNCIL.pdf"
+    "pdfUrl": "Resources/O-Level/S4/Accounts/ACC%20MUKONO%20EXAMINATION%20COUNCIL.pdf"
   }
 ]

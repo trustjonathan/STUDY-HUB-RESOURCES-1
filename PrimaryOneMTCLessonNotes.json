@@ -1,9 +1,9 @@
 [
-{
-  "title": "",
-  "description": "Primary One",
-  "price": 5000,
-  "pdfUrl": "https://fresh-teacher.github.io/p1/P.1 TERM 1 MATHEMATICS LESSON NOTES.pdf"
+  {
+    "title": "",
+    "description": "Primary One",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P1/Mathematics/P.1%20TERM%201%20MATHEMATICS%20LESSON%20NOTES.pdf"
   },
   {
     "title": "",
@@ -21,7 +21,7 @@
     "title": "",
     "description": "Primary One",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p1/P.I MATHEMATICS LESSON NOTES TERM II.pdf"
+    "pdfUrl": "Resources/Primary/P1/Mathematics/P.I%20MATHEMATICS%20LESSON%20NOTES%20TERM%20II.pdf"
   },
   {
     "title": "",
@@ -63,7 +63,7 @@
     "title": "",
     "description": "Primary One",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p1/P.1 MATHEMATICS LESSON NOTES TERM III.pdf"
+    "pdfUrl": "Resources/Primary/P1/Mathematics/P.1%20MATHEMATICS%20LESSON%20NOTES%20TERM%20III.pdf"
   },
   {
     "title": "",
@@ -81,7 +81,7 @@
     "title": "",
     "description": "Primary One",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p1/P.1 MATHS LESSON NOTES TERM II.pdf"
+    "pdfUrl": "Resources/Primary/P1/Mathematics/P.1%20MATHS%20LESSON%20NOTES%20TERM%20II.pdf"
   },
   {
     "title": "",
@@ -93,7 +93,7 @@
     "title": "",
     "description": "Primary One",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p1/P.1 MATHS TERM 3 NOTES.pdf"
+    "pdfUrl": "Resources/Primary/P1/Mathematics/P.1%20MATHS%20TERM%203%20NOTES.pdf"
   },
   {
     "title": "",
@@ -105,7 +105,7 @@
     "title": "",
     "description": "Primary One",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p1/P.1 MATHS TERM III NOTES.pdf"
+    "pdfUrl": "Resources/Primary/P1/Mathematics/P.1%20MATHS%20TERM%20III%20NOTES.pdf"
   },
   {
     "title": "",
@@ -117,7 +117,7 @@
     "title": "",
     "description": "Primary One",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p1/P.1 MTC All Terms NOTES.pdf"
+    "pdfUrl": "Resources/Primary/P1/Mathematics/P.1%20MTC%20All%20Terms%20NOTES.pdf"
   },
   {
     "title": "",
@@ -135,6 +135,6 @@
     "title": "",
     "description": "Primary One",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p1/P.1 MTC TERM 1 NOTES.pdf"
+    "pdfUrl": "Resources/Primary/P1/Mathematics/P.1%20MTC%20TERM%201%20NOTES.pdf"
   }
 ]

@@ -27,7 +27,7 @@
     "title": "",
     "description": "Senior Three",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/s3/S3 Physics P1 with Guide.pdf"
+    "pdfUrl": "Resources/O-Level/S3/Physics/S3%20Physics%20P1%20with%20Guide.pdf"
   },
   {
     "title": "",
@@ -39,31 +39,31 @@
     "title": "",
     "description": "Senior Three",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/s3/S3 Physics set 1.pdf"
+    "pdfUrl": "Resources/O-Level/S3/Physics/S3%20Physics%20set%201.pdf"
   },
   {
     "title": "",
     "description": "Senior Three",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/s3/S3 Physics set 2.pdf"
+    "pdfUrl": "Resources/O-Level/S3/Physics/S3%20Physics%20set%202.pdf"
   },
   {
     "title": "",
     "description": "Senior Three",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/s3/S3 Physics set 3.pdf"
+    "pdfUrl": "Resources/O-Level/S3/Physics/S3%20Physics%20set%203.pdf"
   },
   {
     "title": "",
     "description": "Senior Three",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/s3/S3-Physics.pdf"
+    "pdfUrl": "Resources/O-Level/S3/Physics/S3-Physics.pdf"
   },
   {
     "title": "",
     "description": "Senior Three",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/s3/s3-physics-exam-1.pdf"
+    "pdfUrl": "Resources/O-Level/S3/Physics/s3-physics-exam-1.pdf"
   },
   {
     "title": "",
@@ -117,7 +117,7 @@
     "title": "",
     "description": "Senior Three",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/s3/Kitende S3 Physics Covid-19.pdf"
+    "pdfUrl": "Resources/O-Level/S3/Physics/Kitende%20S3%20Physics%20Covid-19.pdf"
   },
   {
     "title": "",
@@ -177,7 +177,7 @@
     "title": "",
     "description": "Senior Three",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/s3/S.3 Physics Paper I Eot I 2019.pdf"
+    "pdfUrl": "Resources/O-Level/S3/Physics/S.3%20Physics%20Paper%20I%20Eot%20I%202019.pdf"
   },
   {
     "title": "",
@@ -195,7 +195,7 @@
     "title": "",
     "description": "Senior Three",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/s3/S.3-PHYSICS-1-SET-2.pdf"
+    "pdfUrl": "Resources/O-Level/S3/Physics/S.3-PHYSICS-1-SET-2.pdf"
   },
   {
     "title": "",
@@ -203,4 +203,4 @@
     "price": 5000,
     "pdfUrl": "https://fresh-teacher.github.io/s3/s3 end of yearphys.pdf"
   }
-    ]
+]

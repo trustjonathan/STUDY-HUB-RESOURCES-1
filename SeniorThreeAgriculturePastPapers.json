@@ -1,15 +1,15 @@
 [
-{
-  "title": "",
-  "description": "Senior Three",
-  "price": 5000,
-  "pdfUrl": "https://fresh-teacher.github.io/s3/F3 MID TERM 3 EXAMS.pdf"
+  {
+    "title": "",
+    "description": "Senior Three",
+    "price": 5000,
+    "pdfUrl": "Resources/O-Level/S3/Agriculture/F3%20MID%20TERM%203%20EXAMS.pdf"
   },
   {
     "title": "",
     "description": "Senior Three",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/s3/S.3 AGRIC 1.pdf"
+    "pdfUrl": "Resources/O-Level/S3/Agriculture/S.3%20AGRIC%201.pdf"
   },
   {
     "title": "",
@@ -39,12 +39,12 @@
     "title": "",
     "description": "Senior Three",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/s3/F3 END TERM 2 EXAMS.pdf"
+    "pdfUrl": "Resources/O-Level/S3/Agriculture/F3%20END%20TERM%202%20EXAMS.pdf"
   },
   {
     "title": "",
     "description": "Senior Three",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/s3/F3 END-TERM 3 EXAMS.pdf"
+    "pdfUrl": "Resources/O-Level/S3/Agriculture/F3%20END-TERM%203%20EXAMS.pdf"
   }
 ]

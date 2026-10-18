@@ -1,5 +1,5 @@
 [
-    {
+  {
     "title": "",
     "description": "P.1 Past Papers",
     "price": 5000,
@@ -21,7 +21,7 @@
     "title": "",
     "description": "P.1 Past Papers",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p1/P. 5 SCIE BOT III.pdf"
+    "pdfUrl": "Resources/Primary/P1/Literacy/P.%205%20SCIE%20BOT%20III.pdf"
   },
   {
     "title": "",
@@ -45,7 +45,7 @@
     "title": "",
     "description": "P.1 Past Papers",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p1/P.1 LIT 2 - SET 3.pdf"
+    "pdfUrl": "Resources/Primary/P1/Literacy/P.1%20LIT%202%20-%20SET%203.pdf"
   },
   {
     "title": "",
@@ -69,7 +69,7 @@
     "title": "",
     "description": "P.1 Past Papers",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p1/P.1 LIT. II All Schemes.pdf"
+    "pdfUrl": "Resources/Primary/P1/Lit2L/P.1%20LIT.%20II%20All%20Schemes.pdf"
   },
   {
     "title": "",
@@ -87,73 +87,73 @@
     "title": "",
     "description": "P.1 Past Papers",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p1/P.1 Literacy 1B Lockdown activity (2).pdf"
+    "pdfUrl": "Resources/Primary/P1/Literacy/P.1%20Literacy%201B%20Lockdown%20activity%20(2).pdf"
   },
   {
     "title": "",
     "description": "P.1 Past Papers",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p1/P.1 Literacy 1B Lockdown activity.pdf"
+    "pdfUrl": "Resources/Primary/P1/Literacy/P.1%20Literacy%201B%20Lockdown%20activity.pdf"
   },
   {
     "title": "",
     "description": "P.1 Past Papers",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p1/P.1 Literacy 1b.pdf"
+    "pdfUrl": "Resources/Primary/P1/Literacy/P.1%20Literacy%201b.pdf"
   },
   {
     "title": "",
     "description": "P.1 Past Papers",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p1/P.1 LITERACY B WK 2.pdf"
+    "pdfUrl": "Resources/Primary/P1/Literacy/P.1%20LITERACY%20B%20WK%202.pdf"
   },
   {
     "title": "",
     "description": "P.1 Past Papers",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p1/P.1-LIT-1-B-SET-5.pdf"
+    "pdfUrl": "Resources/Primary/P1/Literacy/P.1-LIT-1-B-SET-5.pdf"
   },
   {
     "title": "",
     "description": "P.1 Past Papers",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p1/P.1-LIT-1-B-SET-II.pdf"
+    "pdfUrl": "Resources/Primary/P1/Literacy/P.1-LIT-1-B-SET-II.pdf"
   },
   {
     "title": "",
     "description": "P.1 Past Papers",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p1/P.1-SCI-HOLIDAY-PACKAGE-TM-1-2020.pdf"
+    "pdfUrl": "Resources/Primary/P1/Literacy/P.1-SCI-HOLIDAY-PACKAGE-TM-1-2020.pdf"
   },
   {
     "title": "",
     "description": "P.1 Past Papers",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p1/P.2 Literacy 1B Lockdown activity.pdf"
+    "pdfUrl": "Resources/Primary/P1/Literacy/P.2%20Literacy%201B%20Lockdown%20activity.pdf"
   },
   {
     "title": "",
     "description": "P.1 Past Papers",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p1/P.2-LIT-I-B-SET-5.pdf"
+    "pdfUrl": "Resources/Primary/P1/Literacy/P.2-LIT-I-B-SET-5.pdf"
   },
   {
     "title": "",
     "description": "P.1 Past Papers",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p1/P.2-LIT-I-B-SET-II.pdf"
+    "pdfUrl": "Resources/Primary/P1/Literacy/P.2-LIT-I-B-SET-II.pdf"
   },
   {
     "title": "",
     "description": "P.1 Past Papers",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p1/P1 LITERACY 2 MID TERM THREE EXAMINATIONS.pdf"
+    "pdfUrl": "Resources/Primary/P1/Literacy/P1%20LITERACY%202%20MID%20TERM%20THREE%20EXAMINATIONS.pdf"
   },
   {
     "title": "",
     "description": "P.1 Past Papers",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/p1/P1 LITERACY 2.pdf"
+    "pdfUrl": "Resources/Primary/P1/Literacy/P1%20LITERACY%202.pdf"
   },
   {
     "title": "",
@@ -184,5 +184,5 @@
     "description": "P.1 Past Papers",
     "price": 5000,
     "pdfUrl": "https://fresh-teacher.github.io/p1/KOLFRAM P1 LIT1B MIDTERM II 2023.pdf"
-}
+  }
 ]

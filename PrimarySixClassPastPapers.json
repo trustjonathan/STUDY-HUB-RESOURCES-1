@@ -1,30 +1,29 @@
 [
-  
   {
     "title": "",
     "description": "Primary Six",
     "price": 5000,
-    "pdfUrl": "https://freshteachers.vercel.app/P.6 ENGLISH BOT III.pdf"
-  }, 
-   {
-    "title": "",
-    "description": "Primary Six",
-    "price": 5000,
-    "pdfUrl": "https://freshteachers.vercel.app/P.6 MATHS BOT III.pdf"
-  }, 
-   {
-    "title": "",
-    "description": "Primary Six",
-    "price": 5000,
-    "pdfUrl": "https://freshteachers.vercel.app/P.6 S.ST BOT III.pdf"
-  }, 
-   {
-    "title": "",
-    "description": "Primary Six",
-    "price": 5000,
-    "pdfUrl": "https://freshteachers.vercel.app/P.6 SCIENCE BOT III.pdf"
+    "pdfUrl": "Resources/Primary/P6/General/P.6%20ENGLISH%20BOT%20III.pdf"
   },
-        {
+  {
+    "title": "",
+    "description": "Primary Six",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P6/Mathematics/P.6%20MATHS%20BOT%20III.pdf"
+  },
+  {
+    "title": "",
+    "description": "Primary Six",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P6/Social%20Studies/P.6%20S.ST%20BOT%20III.pdf"
+  },
+  {
+    "title": "",
+    "description": "Primary Six",
+    "price": 5000,
+    "pdfUrl": "Resources/Primary/P6/Science/P.6%20SCIENCE%20BOT%20III.pdf"
+  },
+  {
     "title": "",
     "description": "Primary Six",
     "price": 5000,
@@ -214,7 +213,7 @@
     "title": "",
     "description": "Primary Six",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/primary/P.6 MATH END OF SEPT 2020.pdf"
+    "pdfUrl": "Resources/Primary/P6/Mathematics/P.6%20MATH%20END%20OF%20SEPT%202020.pdf"
   },
   {
     "title": "",
@@ -286,7 +285,7 @@
     "title": "",
     "description": "Primary Six",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/primary/P.6 Revision test.pdf"
+    "pdfUrl": "Resources/Primary/P6/Mathematics/P.6%20Revision%20test.pdf"
   },
   {
     "title": "",
@@ -394,7 +393,7 @@
     "title": "",
     "description": "Primary Six",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/primary/P.6 SST Revision booklet.pdf"
+    "pdfUrl": "Resources/Primary/P6/Social%20Studies/P.6%20SST%20Revision%20booklet.pdf"
   },
   {
     "title": "",
@@ -430,7 +429,7 @@
     "title": "",
     "description": "Primary Six",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/primary/P.6-MTC-set-5.pdf"
+    "pdfUrl": "Resources/Primary/P6/Mathematics/P.6-MTC-set-5.pdf"
   },
   {
     "title": "",
@@ -562,7 +561,7 @@
     "title": "",
     "description": "Primary Six",
     "price": 5000,
-    "pdfUrl": "https://fresh-teacher.github.io/primary/sipro scie mid p6.pdf"
+    "pdfUrl": "Resources/Primary/P7/Science/sipro%20scie%20mid%20p6.pdf"
   },
   {
     "title": "",
@@ -592,515 +591,528 @@
     "title": "P.6 SST Revision booklet",
     "description": "Primary Six",
     "price": 10000,
-    "pdfUrl": "https://fresh-teacher.github.io/P.6 SST Revision booklet.pdf"
+    "pdfUrl": "Resources/Primary/P6/Social%20Studies/P.6%20SST%20Revision%20booklet.pdf"
   },
-      {
-        "title": "P.6 MATH END OF SEPT 2020",
-        "description": "Primary Six",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 MATH END OF SEPT 2020.pdf"
-      },
-      {
-        "title": "P.6.SCI",
-        "description": "Primary Six",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6.SCI.pdf"
-      },
-      {
-        "title": "P6 MATH FRONT PAGE",
-        "description": "Primary Six",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/P6 MATH FRONT PAGE.pdf"
-      },
-      {
-        "title": "P6 SST FRONT PAGE",
-        "description": "Primary Six",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/P6 SST FRONT PAGE.pdf"
-      },
-      {
-        "title": "primary six Social studies COVID-19",
-        "description": "Primary Six",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/primary six Social studies COVID-19.pdf"
-      },
-      
-      {
-        "title": "BOT III P6 ENG",
-        "description": "Primary Six",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/BOT III P6 ENG.pdf"
-      },
-      {
-        "title": "BOT III P6 SCIENCE",
-        "description": "Primary Six",
-        "price": 15000,
-        "pdfUrl": "https://fresh-teacher.github.io/BOT III P6 SCIENCE.pdf"
-      },
-      {
-        "title": "BOT III P6 SST",
-        "description": "Primary Six",
-        "price": 25000,
-        "pdfUrl": "https://fresh-teacher.github.io/BOT III P6 SST.pdf"
-      },
-      {
-        "title": "ENGLISH PAMPHLET FOR P.4 -P.7 - Copy",
-        "description": "Primary Six",
-        "price": 55000,
-        "pdfUrl": "https://fresh-teacher.github.io/ENGLISH PAMPHLET FOR P.4 -P.7 - Copy.pdf"
-      },
-      {
-        "title": "HOMEWORK FOR P.6 TERM I",
-        "description": "Primary Six",
-        "price": 2000,
-        "pdfUrl": "https://fresh-teacher.github.io/HOMEWORK FOR P.6 TERM I.pdf"
-      },{
-        "title": "MATHEMATICS PAMPHLET P.4-P.7 - Copy",
-        "description": "Primary Six",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/MATHEMATICS PAMPHLET P.4-P.7 - Copy.pdf"
-      },
-      {
-        "title": "Mid-Term Exam P.6 SST",
-        "description": "Primary Six",
-        "price": 15000,
-        "pdfUrl": "https://fresh-teacher.github.io/Mid-Term Exam P.6 SST.pdf"
-      },
-      {
-        "title": "MTC P.6 MID TERM ONE 2020",
-        "description": "Primary Six",
-        "price": 25000,
-        "pdfUrl": "https://fresh-teacher.github.io/MTC P.6 MID TERM ONE 2020.pdf"
-      },
-      {
-        "title": "mtc p6 sipro",
-        "description": "Primary Six",
-        "price": 55000,
-        "pdfUrl": "https://fresh-teacher.github.io/mtc p6 sipro.pdf"
-      },
-      {
-        "title": "P. 6 MTC SET I",
-        "description": "Primary Six",
-        "price": 2000,
-        "pdfUrl": "https://fresh-teacher.github.io/P. 6 MTC SET I.pdf"
-      },{
-        "title": "P. 6 package 4",
-        "description": "Primary Six",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/P. 6 package 4.pdf"
-      },
-      {
-        "title": "P.6 - THEOLOGY",
-        "description": "Primary Six",
-        "price": 15000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 - THEOLOGY.pdf"
-      },
-      {
-        "title": "P.6 .MTC",
-        "description": "Primary Six",
-        "price": 25000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 .MTC.pdf"
-      },
-      {
-        "title": "P.6 ALL SUBJECTS (2 SETS)",
-        "description": "Primary Six",
-        "price": 55000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 ALL SUBJECTS (2 SETS).pdf"
-      },
-      {
-        "title": "P.6 END OF FEBRUARY EXAMINATION TERM I",
-        "description": "Primary Six",
-        "price": 2500,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 END OF FEBRUARY EXAMINATION TERM I.pdf"
-      },{
-        "title": "P.6 ENG END OF SEPT 2020",
-        "description": "Primary Six",
-        "price": 37000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 ENG END OF SEPT 2020.pdf"
-      },
-      {
-        "title": "P.6 ENGLISH HOMEWORK",
-        "description": "Primary Six",
-        "price": 13000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 ENGLISH HOMEWORK.pdf"
-      },
-      {
-        "title": "P.6 English Lockdown activitY",
-        "description": "Primary Six",
-        "price": 45000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 English Lockdown activitY.pdf"
-      },
-      {
-        "title": "P.6 English Revision booklet",
-        "description": "Primary Six",
-        "price": 57500,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 English Revision booklet.pdf"
-      },
-      {
-        "title": "P.6 HOLID PACKAGE TERM ONE  2020",
-        "description": "Primary Six",
-        "price": 24800,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 HOLID PACKAGE TERM ONE  2020.pdf"
-      },{
-        "title": "P.6 LEGIT MTC3 ISSUE 1",
-        "description": "Primary Six",
-        "price": 86000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 LEGIT MTC3 ISSUE 1.pdf"
-      },
-      {
-        "title": "p.6 maths lesson notes term II 2020",
-        "description": "Primary Six",
-        "price": 11000,
-        "pdfUrl": "https://fresh-teacher.github.io/p.6 maths lesson notes term II 2020.pdf"
-      },
-      {
-        "title": "P.6 MTC END OF TERM II  2022 (2) (1)",
-        "description": "Primary Six",
-        "price": 29000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 MTC END OF TERM II  2022 (2) (1).pdf"
-      },
-      {
-        "title": "P.6 MTC term 3",
-        "description": "Primary Six",
-        "price": 95000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 MTC term 3.pdf"
-      },
-      {
-        "title": "P.6 Revision test",
-        "description": "Primary Six",
-        "price": 29000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 Revision test.pdf"
-      },{
-        "title": "P.6 REVISION WORKBOOK",
-        "description": "Primary Six",
-        "price": 12400,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 REVISION WORKBOOK.pdf"
-      },
-      {
-        "title": "P.6 SCI SET III FINAL SIR APOLLO KAGWA (2)",
-        "description": "Primary Six",
-        "price": 15800,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 SCI SET III FINAL SIR APOLLO KAGWA (2).pdf"
-      },
-      {
-        "title": "P.6 SCI SET III FINAL SIR APOLLO KAGWA-1",
-        "description": "Primary Six",
-        "price": 82000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 SCI SET III FINAL SIR APOLLO KAGWA-1.pdf"
-      },
-      {
-        "title": "P.6 SCI SET III FINAL SIR APOLLO KAGWA.pdf" ,
-        "description": "Primary Six",
-        "price": 53000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 SCI SET III FINAL SIR APOLLO KAGWA.pdf" 
-           },
-      {
-        "title": "P.6 SET 21",
-        "description": "Primary Six",
-        "price": 13000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6 SET 21.pdf"
-      },
-      {
-        "title": "P.6_CRE_WEEK_2 GREEN HILL PS",
-        "description": "Primary Six",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6_CRE_WEEK_2 GREEN HILL PS.pdf"
-      },
-      {
-        "title": "P.6_ENGLISH_WEEK_2 GREENHILL PS",
-        "description": "Primary Six",
-        "price": 15000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6_ENGLISH_WEEK_2 GREENHILL PS.pdf"
-      },
-      {
-        "title": "P.6_MATH_WEEK_2 GREENHILL PS",
-        "description": "Primary Six",
-        "price": 25000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6_MATH_WEEK_2 GREENHILL PS.pdf"
-      },
-      {
-        "title": "P.6_SCIENCE_WEEK_2",
-        "description": "Primary Six",
-        "price": 55000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6_SCIENCE_WEEK_2.pdf"
-      },
-      {
-        "title": "P.6-.SST-II",
-        "description": "Primary Six",
-        "price": 2000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6-.SST-II.pdf"
-      },{
-        "title": "P.6-7-ENGLISH-LANGUAGE",
-        "description": "Primary Six",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6-7-ENGLISH-LANGUAGE.pdf"
-      },
-      {
-        "title": "P.6-ENG-SET-5",
-        "description": "Primary Six",
-        "price": 15000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6-ENG-SET-5.pdf"
-      },
-      {
-        "title": "P.6-ENG-SET-II",
-        "description": "Primary Six",
-        "price": 25000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6-ENG-SET-II.pdf"
-      },
-      {
-        "title": "P.6-ENGLISH-REVISION-WORK-001",
-        "description": "Primary Six",
-        "price": 55000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6-ENGLISH-REVISION-WORK-001.pdf"
-      },
-      {
-        "title": "P.6-ENGLISH-WORK-BOOK-TERM-ONE.",
-        "description": "Primary Six",
-        "price": 2000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6-ENGLISH-WORK-BOOK-TERM-ONE..pdf"
-      },{
-        "title": "P.6-MATHEMATICS-WORKBOOK-TERM-ONE",
-        "description": "Primary Six",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6-MATHEMATICS-WORKBOOK-TERM-ONE.pdf"
-      },
-      {
-        "title": "P.6-MTC-set-5",
-        "description": "Primary Six",
-        "price": 15000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6-MTC-set-5.pdf"
-      },
-      {
-        "title": "P.6-MTC-SET-II",
-        "description": "Primary Six",
-        "price": 25000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6-MTC-SET-II.pdf"
-      },
-      {
-        "title": "P.6-SCI-SET-II",
-        "description": "Primary Six",
-        "price": 55000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6-SCI-SET-II.pdf"
-      },
-      {
-        "title": "P.6-SCIENCE-WORK-BOOK-TERM-ONE.",
-        "description": "Primary Six",
-        "price": 2500,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6-SCIENCE-WORK-BOOK-TERM-ONE..pdf"
-      },{
-        "title": "P.6-SST-SET-5",
-        "description": "Primary Six",
-        "price": 37000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6-SST-SET-5.pdf"
-      },
-      {
-        "title": "P.6-SST-WORK-BOOK-TERM-ONE-",
-        "description": "Primary Six",
-        "price": 13000,
-        "pdfUrl": "https://fresh-teacher.github.io/P.6-SST-WORK-BOOK-TERM-ONE-.pdf"
-      },
-      {
-        "title": "P5 _ P6 SCIENCE REVISION BOOK - Copy",
-        "description": "Primary Six",
-        "price": 45000,
-        "pdfUrl": "https://fresh-teacher.github.io/P5 _ P6 SCIENCE REVISION BOOK - Copy.pdf"
-      },
-      {
-        "title": "P6 _ P7 WORKBOOK",
-        "description": "Primary Six",
-        "price": 57500,
-        "pdfUrl": "https://fresh-teacher.github.io/P6 _ P7 WORKBOOK.pdf"
-      },
-      {
-        "title": "P6 BOT III MATHS",
-        "description": "Primary Six",
-        "price": 24800,
-        "pdfUrl": "https://fresh-teacher.github.io/P6 BOT III MATHS.pdf"
-      },{
-        "title": "P6 BUKEDDE REVISION",
-        "description": "Primary Six",
-        "price": 86000,
-        "pdfUrl": "https://fresh-teacher.github.io/P6 BUKEDDE REVISION.pdf"
-      },
-      {
-        "title": "P6 ENGLISH (2)",
-        "description": "Primary Six",
-        "price": 11000,
-        "pdfUrl": "https://fresh-teacher.github.io/P6 ENGLISH (2).pdf"
-      },
-      {
-        "title": "P6 INTEGRATED SCIENCE",
-        "description": "Primary Six",
-        "price": 29000,
-        "pdfUrl": "https://fresh-teacher.github.io/P6 INTEGRATED SCIENCE.pdf"
-      },
-      {
-        "title": "P6 Materials",
-        "description": "Primary Six",
-        "price": 95000,
-        "pdfUrl": "https://fresh-teacher.github.io/P6 Materials.pdf"
-      },
-      {
-        "title": "P6 MATHEMATICS (2)",
-        "description": "Primary Six",
-        "price": 29000,
-        "pdfUrl": "https://fresh-teacher.github.io/P6 MATHEMATICS (2).pdf"
-      },{
-        "title": "P6 MATHEMATICS HOLIDAY WORK YET HAPPY KIDZ",
-        "description": "Primary Six",
-        "price": 12400,
-        "pdfUrl": "https://fresh-teacher.github.io/P6 MATHEMATICS HOLIDAY WORK YET HAPPY KIDZ.pdf"
-      },
-      {
-        "title": "P6 MID TERM III ENGLISH",
-        "description": "Primary Six",
-        "price": 15800,
-        "pdfUrl": "https://fresh-teacher.github.io/P6 MID TERM III ENGLISH.pdf"
-      },
-      {
-        "title": "P6 MID TERM III EXAM",
-        "description": "Primary Six",
-        "price": 82000,
-        "pdfUrl": "https://fresh-teacher.github.io/P6 MID TERM III EXAM.pdf"
-      },
-      {
-        "title": "P6 MID TERM III SCIENCE",     
-        "description": "Primary Six",
-        "price": 53000,
-        "pdfUrl": "https://fresh-teacher.github.io/P6 MID TERM III SCIENCE.pdf"     
-       },
-      {
-        "title": "P6 MID TERM III",
-        "description": "Primary Six",
-        "price": 13000,
-        "pdfUrl": "https://fresh-teacher.github.io/P6 MID TERM III.pdf"
-      },
-      {
-        "title": "P6 MID-TERM I EXAMINATION",
-        "description": "Primary Six",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/P6 MID-TERM I EXAMINATION.pdf"
-      },
-      {
-        "title": "P6 SCIENCE (2)",
-        "description": "Primary Six",
-        "price": 15000,
-        "pdfUrl": "https://fresh-teacher.github.io/P6 SCIENCE (2).pdf"
-      },
-      {
-        "title": "P6 SCIENCE EXAM _ MARKING GUIDE",
-        "description": "Primary Six",
-        "price": 25000,
-        "pdfUrl": "https://fresh-teacher.github.io/P6 SCIENCE EXAM _ MARKING GUIDE.pdf"
-      },
-      {
-        "title": "P6 SCIENCE YET HAPPY KIDZ HOLIDAY WORK",
-        "description": "Primary Six",
-        "price": 55000,
-        "pdfUrl": "https://fresh-teacher.github.io/P6 SCIENCE YET HAPPY KIDZ HOLIDAY WORK.pdf"
-      },
-      {
-        "title": "P6 SST HOLIDAY WORK YET HAPPY KIDZ SCHOOL",
-        "description": "Primary Six",
-        "price": 2000,
-        "pdfUrl": "https://fresh-teacher.github.io/P6 SST HOLIDAY WORK YET HAPPY KIDZ SCHOOL.pdf"
-      },{
-        "title": "P6 SST SCHEME TERM II",
-        "description": "Primary Six",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/P6 SST SCHEME TERM II.pdf"
-      },
-      {
-        "title": "P6 SST",
-        "description": "Primary Six",
-        "price": 15000,
-        "pdfUrl": "https://fresh-teacher.github.io/P6 SST.pdf"
-      },
-      {
-        "title": "P6 WORK TERM 1",
-        "description": "Primary Six",
-        "price": 25000,
-        "pdfUrl": "https://fresh-teacher.github.io/P6 WORK TERM 1.pdf"
-      },
-      {
-        "title": "P6_RELIGIOUS_EDUCATION_RE_HOLIDAY_WORK_YET_HAPPY_KIDZ_SCHOOL",
-        "description": "Primary Six",
-        "price": 55000,
-        "pdfUrl": "https://fresh-teacher.github.io/P6_RELIGIOUS_EDUCATION_RE_HOLIDAY_WORK_YET_HAPPY_KIDZ_SCHOOL.pdf"
-      },
-      {
-        "title": "P6-MATHEMATICS-SET-2-EXAM-NAMAGUNGA-PRIMARY-BOARDING-SCHOOL",
-        "description": "Primary Six",
-        "price": 2000,
-        "pdfUrl": "https://fresh-teacher.github.io/P6-MATHEMATICS-SET-2-EXAM-NAMAGUNGA-PRIMARY-BOARDING-SCHOOL.pdf"
-      },{
-        "title": "PRIMARY 6 SET III 2020",
-        "description": "Primary Six",
-        "price": 10000,
-        "pdfUrl": "https://fresh-teacher.github.io/PRIMARY 6 SET III 2020.pdf"
-      },
-      {
-        "title": "Primary six  INTEGRATED SCIENCE COVID-19-1",
-        "description": "Primary Six",
-        "price": 15000,
-        "pdfUrl": "https://fresh-teacher.github.io/Primary six  INTEGRATED SCIENCE COVID-19-1.pdf"
-      },
-      {
-        "title": "Primary six English COVID-19 package",
-        "description": "Primary Six",
-        "price": 25000,
-        "pdfUrl": "https://fresh-teacher.github.io/Primary six English COVID-19 package.pdf"
-      },
-      {
-        "title": "primary six English COVID-19",
-        "description": "Primary Six",
-        "price": 55000,
-        "pdfUrl": "https://fresh-teacher.github.io/primary six English COVID-19.pdf"
-      },
-      {
-        "title": "PRIMARY SIX MONDAY SOLUTIONS",
-        "description": "Primary Six",
-        "price": 2500,
-        "pdfUrl": "https://fresh-teacher.github.io/PRIMARY SIX MONDAY SOLUTIONS.pdf"
-      },{
-        "title": "PRIMARY SIX MONDAY",
-        "description": "Primary Six",
-        "price": 37000,
-        "pdfUrl": "https://fresh-teacher.github.io/PRIMARY SIX MONDAY.pdf"
-      },
-      {
-        "title": "primary six Social studies",
-        "description": "Primary Six",
-        "price": 13000,
-        "pdfUrl": "https://fresh-teacher.github.io/primary six Social studies.pdf"
-      },
-      {
-        "title": "sipro scie mid p6",
-        "description": "Primary Six",
-        "price": 45000,
-        "pdfUrl": "https://fresh-teacher.github.io/sipro scie mid p6.pdf"
-      },
-      {
-        "title": "YET P.6_MATH_INT_END_SET_",
-        "description": "Primary Six",
-        "price": 57500,
-        "pdfUrl": "https://fresh-teacher.github.io/YET P.6_MATH_INT_END_SET_.pdf"
-      },
-      {
-        "title": "YET P.6_R.E_Int_1-1-",
-        "description": "Primary Six",
-        "price": 24800,
-        "pdfUrl": "https://fresh-teacher.github.io/YET P.6_R.E_Int_1-1-.pdf"
-      },{
-        "title": "YET p.6_science-1-",
-        "description": "Primary Six",
-        "price": 86000,
-        "pdfUrl": "https://fresh-teacher.github.io/YET p.6_science-1-.pdf"
-      },
-      {
-        "title": "YET P.6_sst_Int_end_",
-        "description": "Primary Six",
-        "price": 11000,
-        "pdfUrl": "https://fresh-teacher.github.io/YET P.6_sst_Int_end_.pdf"
-      }
-    ]
+  {
+    "title": "P.6 MATH END OF SEPT 2020",
+    "description": "Primary Six",
+    "price": 10000,
+    "pdfUrl": "Resources/Primary/P6/Mathematics/P.6%20MATH%20END%20OF%20SEPT%202020.pdf"
+  },
+  {
+    "title": "P.6.SCI",
+    "description": "Primary Six",
+    "price": 10000,
+    "pdfUrl": "Resources/Primary/P6/Science/P.6.SCI.pdf"
+  },
+  {
+    "title": "P6 MATH FRONT PAGE",
+    "description": "Primary Six",
+    "price": 10000,
+    "pdfUrl": "Resources/Primary/P6/General/P6%20MATH%20FRONT%20PAGE.pdf"
+  },
+  {
+    "title": "P6 SST FRONT PAGE",
+    "description": "Primary Six",
+    "price": 10000,
+    "pdfUrl": "Resources/Primary/P6/General/P6%20SST%20FRONT%20PAGE.pdf"
+  },
+  {
+    "title": "primary six Social studies COVID-19",
+    "description": "Primary Six",
+    "price": 10000,
+    "pdfUrl": "Resources/Primary/P6/Social%20Studies/primary%20six%20Social%20studies%20COVID-19.pdf"
+  },
+  {
+    "title": "BOT III P6 ENG",
+    "description": "Primary Six",
+    "price": 10000,
+    "pdfUrl": "Resources/Primary/P6/English/BOT%20III%20P6%20ENG.pdf"
+  },
+  {
+    "title": "BOT III P6 SCIENCE",
+    "description": "Primary Six",
+    "price": 15000,
+    "pdfUrl": "Resources/Primary/P6/Science/BOT%20III%20P6%20SCIENCE.pdf"
+  },
+  {
+    "title": "BOT III P6 SST",
+    "description": "Primary Six",
+    "price": 25000,
+    "pdfUrl": "Resources/Primary/P6/Social%20Studies/BOT%20III%20P6%20SST.pdf"
+  },
+  {
+    "title": "ENGLISH PAMPHLET FOR P.4 -P.7 - Copy",
+    "description": "Primary Six",
+    "price": 55000,
+    "pdfUrl": "Resources/Primary/P5/English/ENGLISH%20PAMPHLET%20FOR%20P.4%20-P.7%20-%20Copy.pdf"
+  },
+  {
+    "title": "HOMEWORK FOR P.6 TERM I",
+    "description": "Primary Six",
+    "price": 2000,
+    "pdfUrl": "Resources/Primary/P6/Packages/HOMEWORK%20FOR%20P.6%20TERM%20I.pdf"
+  },
+  {
+    "title": "MATHEMATICS PAMPHLET P.4-P.7 - Copy",
+    "description": "Primary Six",
+    "price": 10000,
+    "pdfUrl": "Resources/Primary/P6/Mathematics/MATHEMATICS%20PAMPHLET%20P.4-P.7%20-%20Copy.pdf"
+  },
+  {
+    "title": "Mid-Term Exam P.6 SST",
+    "description": "Primary Six",
+    "price": 15000,
+    "pdfUrl": "Resources/Primary/P6/Social%20Studies/Mid-Term%20Exam%20P.6%20SST.pdf"
+  },
+  {
+    "title": "MTC P.6 MID TERM ONE 2020",
+    "description": "Primary Six",
+    "price": 25000,
+    "pdfUrl": "Resources/Primary/P6/Mathematics/MTC%20P.6%20MID%20TERM%20ONE%202020.pdf"
+  },
+  {
+    "title": "mtc p6 sipro",
+    "description": "Primary Six",
+    "price": 55000,
+    "pdfUrl": "Resources/Primary/P7/Mathematics/mtc%20p6%20sipro.pdf"
+  },
+  {
+    "title": "P. 6 MTC SET I",
+    "description": "Primary Six",
+    "price": 2000,
+    "pdfUrl": "Resources/Primary/P6/Mathematics/P.%206%20MTC%20SET%20I.pdf"
+  },
+  {
+    "title": "P. 6 package 4",
+    "description": "Primary Six",
+    "price": 10000,
+    "pdfUrl": "Resources/Primary/P6/Packages/P.%206%20package%204.pdf"
+  },
+  {
+    "title": "P.6 - THEOLOGY",
+    "description": "Primary Six",
+    "price": 15000,
+    "pdfUrl": "Resources/Primary/P6/General/P.6%20-%20THEOLOGY.pdf"
+  },
+  {
+    "title": "P.6 .MTC",
+    "description": "Primary Six",
+    "price": 25000,
+    "pdfUrl": "Resources/Primary/P6/Mathematics/P.6%20.MTC.pdf"
+  },
+  {
+    "title": "P.6 ALL SUBJECTS (2 SETS)",
+    "description": "Primary Six",
+    "price": 55000,
+    "pdfUrl": "Resources/Primary/P6/Packages/P.6%20ALL%20SUBJECTS%20(2%20SETS).pdf"
+  },
+  {
+    "title": "P.6 END OF FEBRUARY EXAMINATION TERM I",
+    "description": "Primary Six",
+    "price": 2500,
+    "pdfUrl": "Resources/Primary/P6/Science/P.6%20END%20OF%20FEBRUARY%20EXAMINATION%20TERM%20I.pdf"
+  },
+  {
+    "title": "P.6 ENG END OF SEPT 2020",
+    "description": "Primary Six",
+    "price": 37000,
+    "pdfUrl": "Resources/Primary/P6/English/P.6%20ENG%20END%20OF%20SEPT%202020.pdf"
+  },
+  {
+    "title": "P.6 ENGLISH HOMEWORK",
+    "description": "Primary Six",
+    "price": 13000,
+    "pdfUrl": "Resources/Primary/P6/English/P.6%20ENGLISH%20HOMEWORK.pdf"
+  },
+  {
+    "title": "P.6 English Lockdown activitY",
+    "description": "Primary Six",
+    "price": 45000,
+    "pdfUrl": "Resources/Primary/P6/English/P.6%20English%20Lockdown%20activitY.pdf"
+  },
+  {
+    "title": "P.6 English Revision booklet",
+    "description": "Primary Six",
+    "price": 57500,
+    "pdfUrl": "Resources/Primary/P6/English/P.6%20English%20Revision%20booklet.pdf"
+  },
+  {
+    "title": "P.6 HOLID PACKAGE TERM ONE  2020",
+    "description": "Primary Six",
+    "price": 24800,
+    "pdfUrl": "Resources/Primary/P6/Packages/P.6%20HOLID%20PACKAGE%20TERM%20ONE%20%202020.pdf"
+  },
+  {
+    "title": "P.6 LEGIT MTC3 ISSUE 1",
+    "description": "Primary Six",
+    "price": 86000,
+    "pdfUrl": "Resources/Primary/P6/Mathematics/P.6%20LEGIT%20MTC3%20ISSUE%201.pdf"
+  },
+  {
+    "title": "p.6 maths lesson notes term II 2020",
+    "description": "Primary Six",
+    "price": 11000,
+    "pdfUrl": "Resources/Primary/P5/Mathematics/p.6%20maths%20lesson%20notes%20term%20II%202020.pdf"
+  },
+  {
+    "title": "P.6 MTC END OF TERM II  2022 (2) (1)",
+    "description": "Primary Six",
+    "price": 29000,
+    "pdfUrl": "Resources/Primary/P6/Mathematics/P.6%20MTC%20END%20OF%20TERM%20II%20%202022%20(2)%20(1).pdf"
+  },
+  {
+    "title": "P.6 MTC term 3",
+    "description": "Primary Six",
+    "price": 95000,
+    "pdfUrl": "Resources/Primary/P6/Mathematics/P.6%20MTC%20term%203.pdf"
+  },
+  {
+    "title": "P.6 Revision test",
+    "description": "Primary Six",
+    "price": 29000,
+    "pdfUrl": "Resources/Primary/P6/Mathematics/P.6%20Revision%20test.pdf"
+  },
+  {
+    "title": "P.6 REVISION WORKBOOK",
+    "description": "Primary Six",
+    "price": 12400,
+    "pdfUrl": "Resources/Primary/P6/Mathematics/P.6%20REVISION%20WORKBOOK.pdf"
+  },
+  {
+    "title": "P.6 SCI SET III FINAL SIR APOLLO KAGWA (2)",
+    "description": "Primary Six",
+    "price": 15800,
+    "pdfUrl": "Resources/Primary/P6/Science/P.6%20SCI%20SET%20III%20FINAL%20SIR%20APOLLO%20KAGWA%20(2).pdf"
+  },
+  {
+    "title": "P.6 SCI SET III FINAL SIR APOLLO KAGWA-1",
+    "description": "Primary Six",
+    "price": 82000,
+    "pdfUrl": "Resources/Primary/P6/Science/P.6%20SCI%20SET%20III%20FINAL%20SIR%20APOLLO%20KAGWA-1.pdf"
+  },
+  {
+    "title": "P.6 SCI SET III FINAL SIR APOLLO KAGWA.pdf",
+    "description": "Primary Six",
+    "price": 53000,
+    "pdfUrl": "Resources/Primary/P6/Science/P.6%20SCI%20SET%20III%20FINAL%20SIR%20APOLLO%20KAGWA.pdf"
+  },
+  {
+    "title": "P.6 SET 21",
+    "description": "Primary Six",
+    "price": 13000,
+    "pdfUrl": "Resources/Primary/P6/Packages/P.6%20SET%2021.pdf"
+  },
+  {
+    "title": "P.6_CRE_WEEK_2 GREEN HILL PS",
+    "description": "Primary Six",
+    "price": 10000,
+    "pdfUrl": "Resources/Primary/P6/Religious%20Education/P.6_CRE_WEEK_2%20GREEN%20HILL%20PS.pdf"
+  },
+  {
+    "title": "P.6_ENGLISH_WEEK_2 GREENHILL PS",
+    "description": "Primary Six",
+    "price": 15000,
+    "pdfUrl": "Resources/Primary/P6/English/P.6_ENGLISH_WEEK_2%20GREENHILL%20PS.pdf"
+  },
+  {
+    "title": "P.6_MATH_WEEK_2 GREENHILL PS",
+    "description": "Primary Six",
+    "price": 25000,
+    "pdfUrl": "Resources/Primary/P6/Mathematics/P.6_MATH_WEEK_2%20GREENHILL%20PS.pdf"
+  },
+  {
+    "title": "P.6_SCIENCE_WEEK_2",
+    "description": "Primary Six",
+    "price": 55000,
+    "pdfUrl": "Resources/Primary/P6/Science/P.6_SCIENCE_WEEK_2.pdf"
+  },
+  {
+    "title": "P.6-.SST-II",
+    "description": "Primary Six",
+    "price": 2000,
+    "pdfUrl": "Resources/Primary/P6/Social%20Studies/P.6-.SST-II.pdf"
+  },
+  {
+    "title": "P.6-7-ENGLISH-LANGUAGE",
+    "description": "Primary Six",
+    "price": 10000,
+    "pdfUrl": "Resources/Primary/P6/English/P.6-7-ENGLISH-LANGUAGE.pdf"
+  },
+  {
+    "title": "P.6-ENG-SET-5",
+    "description": "Primary Six",
+    "price": 15000,
+    "pdfUrl": "Resources/Primary/P6/English/P.6-ENG-SET-5.pdf"
+  },
+  {
+    "title": "P.6-ENG-SET-II",
+    "description": "Primary Six",
+    "price": 25000,
+    "pdfUrl": "Resources/Primary/P6/English/P.6-ENG-SET-II.pdf"
+  },
+  {
+    "title": "P.6-ENGLISH-REVISION-WORK-001",
+    "description": "Primary Six",
+    "price": 55000,
+    "pdfUrl": "Resources/Primary/P6/English/P.6-ENGLISH-REVISION-WORK-001.pdf"
+  },
+  {
+    "title": "P.6-ENGLISH-WORK-BOOK-TERM-ONE.",
+    "description": "Primary Six",
+    "price": 2000,
+    "pdfUrl": "Resources/Primary/P6/English/P.6-ENGLISH-WORK-BOOK-TERM-ONE..pdf"
+  },
+  {
+    "title": "P.6-MATHEMATICS-WORKBOOK-TERM-ONE",
+    "description": "Primary Six",
+    "price": 10000,
+    "pdfUrl": "Resources/Primary/P6/Mathematics/P.6-MATHEMATICS-WORKBOOK-TERM-ONE.pdf"
+  },
+  {
+    "title": "P.6-MTC-set-5",
+    "description": "Primary Six",
+    "price": 15000,
+    "pdfUrl": "Resources/Primary/P6/Mathematics/P.6-MTC-set-5.pdf"
+  },
+  {
+    "title": "P.6-MTC-SET-II",
+    "description": "Primary Six",
+    "price": 25000,
+    "pdfUrl": "Resources/Primary/P6/Mathematics/P.6-MTC-SET-II.pdf"
+  },
+  {
+    "title": "P.6-SCI-SET-II",
+    "description": "Primary Six",
+    "price": 55000,
+    "pdfUrl": "Resources/Primary/P6/Science/P.6-SCI-SET-II.pdf"
+  },
+  {
+    "title": "P.6-SCIENCE-WORK-BOOK-TERM-ONE.",
+    "description": "Primary Six",
+    "price": 2500,
+    "pdfUrl": "Resources/Primary/P6/Science/P.6-SCIENCE-WORK-BOOK-TERM-ONE..pdf"
+  },
+  {
+    "title": "P.6-SST-SET-5",
+    "description": "Primary Six",
+    "price": 37000,
+    "pdfUrl": "Resources/Primary/P6/Social%20Studies/P.6-SST-SET-5.pdf"
+  },
+  {
+    "title": "P.6-SST-WORK-BOOK-TERM-ONE-",
+    "description": "Primary Six",
+    "price": 13000,
+    "pdfUrl": "Resources/Primary/P6/Social%20Studies/P.6-SST-WORK-BOOK-TERM-ONE-.pdf"
+  },
+  {
+    "title": "P5 _ P6 SCIENCE REVISION BOOK - Copy",
+    "description": "Primary Six",
+    "price": 45000,
+    "pdfUrl": "Resources/Primary/P6/Science/P5%20_%20P6%20SCIENCE%20REVISION%20BOOK%20-%20Copy.pdf"
+  },
+  {
+    "title": "P6 _ P7 WORKBOOK",
+    "description": "Primary Six",
+    "price": 57500,
+    "pdfUrl": "Resources/Primary/P6/Science/P6%20_%20P7%20WORKBOOK.pdf"
+  },
+  {
+    "title": "P6 BOT III MATHS",
+    "description": "Primary Six",
+    "price": 24800,
+    "pdfUrl": "Resources/Primary/P6/Mathematics/P6%20BOT%20III%20MATHS.pdf"
+  },
+  {
+    "title": "P6 BUKEDDE REVISION",
+    "description": "Primary Six",
+    "price": 86000,
+    "pdfUrl": "Resources/Primary/P6/Science/P6%20BUKEDDE%20REVISION.pdf"
+  },
+  {
+    "title": "P6 ENGLISH (2)",
+    "description": "Primary Six",
+    "price": 11000,
+    "pdfUrl": "Resources/Primary/P6/English/P6%20ENGLISH%20(2).pdf"
+  },
+  {
+    "title": "P6 INTEGRATED SCIENCE",
+    "description": "Primary Six",
+    "price": 29000,
+    "pdfUrl": "Resources/Primary/P6/Science/P6%20INTEGRATED%20SCIENCE.pdf"
+  },
+  {
+    "title": "P6 Materials",
+    "description": "Primary Six",
+    "price": 95000,
+    "pdfUrl": "Resources/Primary/P6/Packages/P6%20Materials.pdf"
+  },
+  {
+    "title": "P6 MATHEMATICS (2)",
+    "description": "Primary Six",
+    "price": 29000,
+    "pdfUrl": "Resources/Primary/P6/Mathematics/P6%20MATHEMATICS%20(2).pdf"
+  },
+  {
+    "title": "P6 MATHEMATICS HOLIDAY WORK YET HAPPY KIDZ",
+    "description": "Primary Six",
+    "price": 12400,
+    "pdfUrl": "Resources/Primary/P6/Mathematics/P6%20MATHEMATICS%20HOLIDAY%20WORK%20YET%20HAPPY%20KIDZ.pdf"
+  },
+  {
+    "title": "P6 MID TERM III ENGLISH",
+    "description": "Primary Six",
+    "price": 15800,
+    "pdfUrl": "Resources/Primary/P6/English/P6%20MID%20TERM%20III%20ENGLISH.pdf"
+  },
+  {
+    "title": "P6 MID TERM III EXAM",
+    "description": "Primary Six",
+    "price": 82000,
+    "pdfUrl": "Resources/Primary/P6/Mathematics/P6%20MID%20TERM%20III%20EXAM.pdf"
+  },
+  {
+    "title": "P6 MID TERM III SCIENCE",
+    "description": "Primary Six",
+    "price": 53000,
+    "pdfUrl": "Resources/Primary/P6/Science/P6%20MID%20TERM%20III%20SCIENCE.pdf"
+  },
+  {
+    "title": "P6 MID TERM III",
+    "description": "Primary Six",
+    "price": 13000,
+    "pdfUrl": "Resources/Primary/P6/Mathematics/P6%20MID%20TERM%20III.pdf"
+  },
+  {
+    "title": "P6 MID-TERM I EXAMINATION",
+    "description": "Primary Six",
+    "price": 10000,
+    "pdfUrl": "Resources/Primary/P6/Science/P6%20MID-TERM%20I%20EXAMINATION.pdf"
+  },
+  {
+    "title": "P6 SCIENCE (2)",
+    "description": "Primary Six",
+    "price": 15000,
+    "pdfUrl": "Resources/Primary/P6/Science/P6%20SCIENCE%20(2).pdf"
+  },
+  {
+    "title": "P6 SCIENCE EXAM _ MARKING GUIDE",
+    "description": "Primary Six",
+    "price": 25000,
+    "pdfUrl": "Resources/Primary/P6/Science/P6%20SCIENCE%20EXAM%20_%20MARKING%20GUIDE.pdf"
+  },
+  {
+    "title": "P6 SCIENCE YET HAPPY KIDZ HOLIDAY WORK",
+    "description": "Primary Six",
+    "price": 55000,
+    "pdfUrl": "Resources/Primary/P6/Science/P6%20SCIENCE%20YET%20HAPPY%20KIDZ%20HOLIDAY%20WORK.pdf"
+  },
+  {
+    "title": "P6 SST HOLIDAY WORK YET HAPPY KIDZ SCHOOL",
+    "description": "Primary Six",
+    "price": 2000,
+    "pdfUrl": "Resources/Primary/P6/Social%20Studies/P6%20SST%20HOLIDAY%20WORK%20YET%20HAPPY%20KIDZ%20SCHOOL.pdf"
+  },
+  {
+    "title": "P6 SST SCHEME TERM II",
+    "description": "Primary Six",
+    "price": 10000,
+    "pdfUrl": "Resources/Primary/P5/Social%20Studies/P6%20SST%20SCHEME%20TERM%20II.pdf"
+  },
+  {
+    "title": "P6 SST",
+    "description": "Primary Six",
+    "price": 15000,
+    "pdfUrl": "Resources/Primary/P6/Social%20Studies/P6%20SST.pdf"
+  },
+  {
+    "title": "P6 WORK TERM 1",
+    "description": "Primary Six",
+    "price": 25000,
+    "pdfUrl": "Resources/Primary/P6/Packages/P6%20WORK%20TERM%201.pdf"
+  },
+  {
+    "title": "P6_RELIGIOUS_EDUCATION_RE_HOLIDAY_WORK_YET_HAPPY_KIDZ_SCHOOL",
+    "description": "Primary Six",
+    "price": 55000,
+    "pdfUrl": "Resources/Primary/P6/Religious%20Education/P6_RELIGIOUS_EDUCATION_RE_HOLIDAY_WORK_YET_HAPPY_KIDZ_SCHOOL.pdf"
+  },
+  {
+    "title": "P6-MATHEMATICS-SET-2-EXAM-NAMAGUNGA-PRIMARY-BOARDING-SCHOOL",
+    "description": "Primary Six",
+    "price": 2000,
+    "pdfUrl": "Resources/Primary/P6/Mathematics/P6-MATHEMATICS-SET-2-EXAM-NAMAGUNGA-PRIMARY-BOARDING-SCHOOL.pdf"
+  },
+  {
+    "title": "PRIMARY 6 SET III 2020",
+    "description": "Primary Six",
+    "price": 10000,
+    "pdfUrl": "Resources/Primary/P6/Packages/PRIMARY%206%20SET%20III%202020.pdf"
+  },
+  {
+    "title": "Primary six  INTEGRATED SCIENCE COVID-19-1",
+    "description": "Primary Six",
+    "price": 15000,
+    "pdfUrl": "Resources/Primary/P6/Science/Primary%20six%20%20INTEGRATED%20SCIENCE%20COVID-19-1.pdf"
+  },
+  {
+    "title": "Primary six English COVID-19 package",
+    "description": "Primary Six",
+    "price": 25000,
+    "pdfUrl": "Resources/Primary/P6/English/Primary%20six%20English%20COVID-19%20package.pdf"
+  },
+  {
+    "title": "primary six English COVID-19",
+    "description": "Primary Six",
+    "price": 55000,
+    "pdfUrl": "Resources/Primary/P6/English/primary%20six%20English%20COVID-19.pdf"
+  },
+  {
+    "title": "PRIMARY SIX MONDAY SOLUTIONS",
+    "description": "Primary Six",
+    "price": 2500,
+    "pdfUrl": "Resources/Primary/P6/Packages/PRIMARY%20SIX%20MONDAY%20SOLUTIONS.pdf"
+  },
+  {
+    "title": "PRIMARY SIX MONDAY",
+    "description": "Primary Six",
+    "price": 37000,
+    "pdfUrl": "Resources/Primary/P6/Packages/PRIMARY%20SIX%20MONDAY.pdf"
+  },
+  {
+    "title": "primary six Social studies",
+    "description": "Primary Six",
+    "price": 13000,
+    "pdfUrl": "Resources/Primary/P6/Social%20Studies/primary%20six%20Social%20studies.pdf"
+  },
+  {
+    "title": "sipro scie mid p6",
+    "description": "Primary Six",
+    "price": 45000,
+    "pdfUrl": "Resources/Primary/P7/Science/sipro%20scie%20mid%20p6.pdf"
+  },
+  {
+    "title": "YET P.6_MATH_INT_END_SET_",
+    "description": "Primary Six",
+    "price": 57500,
+    "pdfUrl": "Resources/Primary/P6/Mathematics/YET%20P.6_MATH_INT_END_SET_.pdf"
+  },
+  {
+    "title": "YET P.6_R.E_Int_1-1-",
+    "description": "Primary Six",
+    "price": 24800,
+    "pdfUrl": "Resources/Primary/P6/Religious%20Education/YET%20P.6_R.E_Int_1-1-.pdf"
+  },
+  {
+    "title": "YET p.6_science-1-",
+    "description": "Primary Six",
+    "price": 86000,
+    "pdfUrl": "Resources/Primary/P6/Science/YET%20p.6_science-1-.pdf"
+  },
+  {
+    "title": "YET P.6_sst_Int_end_",
+    "description": "Primary Six",
+    "price": 11000,
+    "pdfUrl": "Resources/Primary/P6/Social%20Studies/YET%20P.6_sst_Int_end_.pdf"
+  }
+]
